@@ -1,20 +1,23 @@
 <template>
   <div class="container">
-    <Menu />
     <div class="page">
-      <h1>Název stránky</h1>
+      <h1>What's for dinner?</h1>
     </div>
+    <Menu />
+    <Calculator />
   </div>
 </template>
 
 <script>
-import Menu from './Menu.vue';
+import Menu from "./components/Menu.vue";
+import Calculator from "./components/Calculator.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     Menu: Menu,
-  },
+    Calculator: Calculator
+  }
 };
 </script>
 
@@ -25,6 +28,7 @@ export default {
 
 html {
   font-family: sans-serif;
+  font-size: 14px;
 }
 
 body {
@@ -32,12 +36,17 @@ body {
 }
 
 .container {
-  display: flex;
   height: 100vh;
+  margin: 60px;
 }
 
 .page {
   padding: 2rem 4rem;
+  display: flex;
+  align-content: center;
 }
 
+h1 {
+  font-size: 42px;
+}
 </style>
