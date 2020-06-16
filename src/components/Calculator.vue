@@ -1,61 +1,106 @@
 <template>
-  <div class="calculator">
-    <div class="gender">
-      <label for="male">Male</label>
-      <input type="radio" id="male" value="Male" v-model="gender" />
+  <div class="container">
+    <div class="calculator">
+      <div class="input-form">
+        <div class="gender">
+          <label for="male">Male</label>
+          <input type="radio" id="male" value="Male" v-model="gender" />
 
-      <br />
+          <br />
 
-      <label for="female">Female</label>
-      <input type="radio" id="female" value="Female" v-model="gender" />
+          <label for="female">Female</label>
+          <input type="radio" id="female" value="Female" v-model="gender" />
 
-      <br />
-    </div>
+          <br />
+        </div>
 
-    <div class="age">
-      <p>Age {{ age }} years</p>
-      <input v-model.number="age" type="number" min="0" placeholder="30" />
-    </div>
+        <div class="age">
+          <p>Age {{ age }} years</p>
+          <input v-model.number="age" type="number" min="0" placeholder="30" />
+        </div>
 
-    <div class="weight">
-      <p>Weight {{ weight }} kg</p>
-      <input v-model.number="weight" type="number" min="0" placeholder="65" />
-    </div>
+        <div class="weight">
+          <p>Weight {{ weight }} kg</p>
+          <input v-model.number="weight" type="number" min="0" placeholder="55" />
+        </div>
 
-    <div class="height">
-      <p>Height {{ height }} cm</p>
-      <input v-model.number="height" type="number" min="0" placeholder="170" />
-    </div>
+        <div class="height">
+          <p>Height {{ height }} cm</p>
+          <input v-model.number="height" type="number" min="0" placeholder="160" />
+        </div>
 
-    <div class="activity">
-      <p>How active are you?</p>
-      <label for="noActivity">Little/no exercise</label>
-      <input type="radio" id="noActivity" value="1.2" v-model.number="activity" />
-      <br />
-      <label for="lightActivity">Light exercise</label>
-      <input type="radio" id="lightActivity" value="1.375" v-model.number="activity" />
-      <br />
-      <label for="moderateActivity">Moderate exercise (3-5 days/wk)</label>
-      <input type="radio" id="moderateActivity" value="1.55" v-model.number="activity" />
-      <br />
-      <label for="highActivity">Very active (6-7 days/wk)</label>
-      <input type="radio" id="highActivity" value="1.725" v-model.number="activity" />
-      <br />
-      <label for="extraActivity">Extra active (very active or/and physical job)</label>
-      <input type="radio" id="extraActivity" value="1.9" v-model.number="activity" />
-    </div>
+        <form @submit.prevent="calculate">
+          <button v-on:click="calculate">Calculate</button>
+        </form>
+      </div>
 
-    <!--    Activity Multiplier:
+      <!-- calculated BMR -->
+      <div class="side">
+        <div class="your-bmr">
+          <p>Your Basal Metabolic Rate (BMR) is: {{ yourBMR }} kcal/day. {{control}}</p>
+          <p></p>
+        </div>
+        <hr />
+        <!-- activity -->
+        <div class="activity">
+          <p>How active are you?</p>
+          <label for="noActivity">Little/no exercise</label>
+          <input
+            type="radio"
+            id="noActivity"
+            value="1.2"
+            v-on:click="calculate_intake"
+            v-model.number="activity"
+          />
+          <br />
+          <label for="lightActivity">Light exercise</label>
+          <input
+            type="radio"
+            id="lightActivity"
+            value="1.375"
+            v-on:click="calculate_intake"
+            v-model.number="activity"
+          />
+          <br />
+          <label for="moderateActivity">Moderate exercise (3-5 days/wk)</label>
+          <input
+            type="radio"
+            id="moderateActivity"
+            value="1.55"
+            v-on:click="calculate_intake"
+            v-model.number="activity"
+          />
+          <br />
+          <label for="highActivity">Very active (6-7 days/wk)</label>
+          <input
+            type="radio"
+            id="highActivity"
+            value="1.725"
+            v-on:click="calculate_intake"
+            v-model.number="activity"
+          />
+          <br />
+          <label for="extraActivity">Extra active (very active or/and physical job)</label>
+          <input
+            type="radio"
+            id="extraActivity"
+            value="1.9"
+            v-on:click="calculate_intake"
+            v-model.number="activity"
+          />
+          <!--    Activity Multiplier:
           activity="noActivity" {this.yourBMR * 1.2}
           activity="lightActivity" {this.yourBMR * 1.375}
           activity="moderateActivity" {this.yourBMR * 1.55}
           activity="highActivity" {this.yourBMR * 1.725}
-    activity="extraActivity" {this.yourBMR * 1.9}-->
-
-    <form @submit.prevent="calculate">
-      <button v-on:click="calculate">Calculate BMR</button>
-      Your Basal Metabolic Rate (BMR) is: {{ yourBMR }} kcal. {{control}}
-    </form>
+          activity="extraActivity" {this.yourBMR * 1.9}-->
+        </div>
+        <hr />
+        <div class="intake">
+          <p>Energy intake to maintain your weight is: {{ yourIntake }} kcal/day.</p>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -69,31 +114,32 @@ export default {
       height: "",
       weight: "",
       yourBMR: "",
-      control: "",
-      activity: 1
+      activity: "",
+      yourIntake: ""
     };
   },
   methods: {
     calculate() {
       if (this.gender === "Male") {
-        this.yourBMR =
-          88.362 +
-          13.397 * this.weight +
-          4.799 * this.height -
-          5.677 * this.age;
+        this.yourBMR = (
+          10 * this.weight +
+          6.25 * this.height -
+          5 * this.age +
+          5
+        ).toFixed(0);
         //this.control = "chlap";
       } else if (this.gender === "Female") {
-        // prettier-ignore
-        this.yourBMR =
-          447.593 + 
-          9.247 * this.weight + 
-          3.098 * this.height - 
-          4.330 * this.age;
+        this.yourBMR = (
+          10 * this.weight +
+          6.25 * this.height -
+          5 * this.age -
+          161
+        ).toFixed(0);
         //this.control = "zenska";
-      } else {
-        //this.control = "nezadano nic";
       }
-      this.yourBMR = (this.yourBMR * this.activity).toFixed(0);
+    },
+    calculate_intake() {
+      this.yourIntake = (this.yourBMR * this.activity).toFixed(0);
     }
   }
 };
@@ -101,20 +147,21 @@ export default {
 
 <style lang="css">
 .calculator {
-  font-size: 24px;
   display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
-  background-color: lightgray;
-  width: 100%;
+  width: 75%;
+  padding: 30px;
+}
+.input-form {
   padding: 20px;
+  background-color: gainsboro;
+}
+.side {
+  padding: 20px;
+  flex-direction: column;
+  background-color: cadetblue;
 }
 
-.btn {
-  font-size: 46px;
-}
-
-.gender {
-  display: flex;
+.activity {
+  padding: 20px 0 2ppx 0;
 }
 </style>

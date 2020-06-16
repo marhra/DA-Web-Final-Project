@@ -1,21 +1,19 @@
 <template>
   <div class="container">
-    <div class="page">
-      <h1>What's for dinner?</h1>
-    </div>
-    <Menu />
+    <div class="page"></div>
+    <Homepage />
     <Calculator />
   </div>
 </template>
 
 <script>
-import Menu from "./components/Menu.vue";
+import Homepage from "./components/Homepage.vue";
 import Calculator from "./components/Calculator.vue";
 
 export default {
   name: "App",
   components: {
-    Menu: Menu,
+    Homepage: Homepage,
     Calculator: Calculator
   }
 };
