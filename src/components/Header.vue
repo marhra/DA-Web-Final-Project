@@ -3,7 +3,7 @@
     <div class="navbar">
       <b-navbar variant="faded" type="light">
         <b-navbar-brand href="#">
-          <img src="assets/logo_apple.png" alt="logo" width="75%" height="75%" />
+          <img class="main-image" src="assets/logo_apple.png" alt="logo" width="75%" height="75%" />
         </b-navbar-brand>
 
         <b-collapse id="nav-collapse" is-nav>
@@ -35,10 +35,15 @@ img {
   max-height: 100%;
 }
 .navbar {
-  padding: -16px;
+  height: 50%;
 }
 
 .header {
   width: 100%;
+}
+
+.main-image {
+  max-width: 50%;
+  max-height: 50%;
 }
 </style>

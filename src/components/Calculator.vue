@@ -9,20 +9,47 @@
       </div>
 
       <div class="mt-2">
-        Age:&nbsp;
-        <b-form-input v-model.number="age" type="number" min="0"></b-form-input>&nbsp; years
+        <b-row class="my-1">
+          <b-col sm="2">
+            <label for="input-small">Age:</label>
+          </b-col>
+          <b-col sm="3">
+            <b-form-input v-model.number="age" type="number" min="0"></b-form-input>
+          </b-col>
+          <b-col sm="2">
+            <label for="input-small">years</label>
+          </b-col>
+        </b-row>
       </div>
 
       <div class="mt-2">
-        Weight:&nbsp;
-        <b-form-input v-model.number="weight" type="number" min="0"></b-form-input>&nbsp;kg
+        <b-row class="my-1">
+          <b-col sm="2">
+            <label for="input-small">Weight:</label>
+          </b-col>
+          <b-col sm="3">
+            <b-form-input v-model.number="weight" type="number" min="0"></b-form-input>
+          </b-col>
+          <b-col sm="2">
+            <label for="input-small">kg</label>
+          </b-col>
+        </b-row>
       </div>
 
       <div class="mt-2">
-        Height:&nbsp;
-        <b-form-input v-model.number="height" type="number" min="0"></b-form-input>&nbsp;cm
+        <b-row class="my-1">
+          <b-col sm="2">
+            <label for="input-small">Height:</label>
+          </b-col>
+          <b-col sm="3">
+            <b-form-input v-model.number="height" type="number" min="0"></b-form-input>
+          </b-col>
+          <b-col sm="2">
+            <label for="input-small">cm</label>
+          </b-col>
+        </b-row>
       </div>
-
+      <br />
       <form @submit.prevent="calculate">
         <b-button v-on:click="calculate" variant="success">Calculate BMR</b-button>
       </form>
@@ -59,6 +86,7 @@
         >Extra active (very active or/and physical job)</b-form-radio>
       </b-form-group>
       <br />
+
       <form @submit.prevent="calculate_intake">
         <b-button v-on:click="calculate_intake" variant="success">Calculate</b-button>
       </form>
@@ -119,6 +147,7 @@ export default {
 .input-form {
   padding: 40px;
   background-color: gainsboro;
+  width: 50%;
 }
 .side {
   padding: 40px;
