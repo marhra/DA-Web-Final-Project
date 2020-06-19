@@ -51,7 +51,7 @@
       </div>
 
       <form @submit.prevent="calculate">
-        <b-button v-on:click="calculate" variant="success">Calculate BMR</b-button>
+        <b-button v-on:click="calculate" variant="success" class="btn">Calculate BMR</b-button>
       </form>
 
       <!-- calculate BMR -->
@@ -87,7 +87,6 @@
           >Extra active (very active or/and physical job)</b-form-radio>
         </b-form-group>
       </div>
-      <br />
 
       <!-- goal -->
       <div class="goal">
@@ -98,14 +97,13 @@
           <b-form-radio v-model.number="goal" name="goal" value="Gain">Gain weight</b-form-radio>
         </b-form-group>
       </div>
-      <br />
 
       <form @submit.prevent="calculate_goalIntake">
-        <b-button v-on:click="calculate_goalIntake" variant="success">Calculate</b-button>
+        <b-button v-on:click="calculate_goalIntake" class="btn">Calculate</b-button>
       </form>
 
       <div class="goal-intake">
-        <p>The energy intake to reach your body goal is: {{ goalIntake }} kcal/day.</p>
+        <p>Energy intake to reach your body goal is: {{ goalIntake }} kcal/day.</p>
       </div>
     </div>
   </div>
@@ -162,17 +160,26 @@ export default {
 <style lang="css">
 .calculator {
   display: flex;
-  width: 100%;
+  width: 85%;
+  margin: auto;
 }
 .input-form {
-  padding: 40px;
+  padding: 50px 10px 50px 40px;
   background-color: gainsboro;
   width: 50%;
 }
 .side {
-  padding: 40px;
+  padding: 50px 10px 50px 40px;
   flex-direction: column;
-  background-color: gainsboro;
-  width: 50%;
+  background-color: rgb(73, 189, 96);
+  width: 55%;
+}
+
+.btn {
+  margin-top: 40px;
+}
+
+.mt-2 {
+  margin-top: 30px;
 }
 </style>

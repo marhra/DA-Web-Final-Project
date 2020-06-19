@@ -4,6 +4,7 @@
     <Header />
     <Intro />
     <Calculator />
+    <Recipes />
   </div>
 </template>
 
@@ -11,13 +12,15 @@
 import Header from "./components/Header.vue";
 import Intro from "./components/Intro.vue";
 import Calculator from "./components/Calculator.vue";
+import Recipes from "./components/Recipes.vue";
 
 export default {
   name: "App",
   components: {
     Header: Header,
     Intro: Intro,
-    Calculator: Calculator
+    Calculator: Calculator,
+    Recipes: Recipes
   }
 };
 </script>
