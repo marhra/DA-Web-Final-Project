@@ -49,7 +49,7 @@
           </b-col>
         </b-row>
       </div>
-      <br />
+
       <form @submit.prevent="calculate">
         <b-button v-on:click="calculate" variant="success">Calculate BMR</b-button>
       </form>
@@ -61,38 +61,51 @@
     </div>
     <div class="side">
       <!-- activity -->
-      <p>How active are you?</p>
-      <b-form-group class="activity">
-        <b-form-radio v-model.number="activity" name="some-radios" value="1.2">Little or no exercise</b-form-radio>
-        <b-form-radio
-          v-model.number="activity"
-          name="some-radios"
-          value="1.375"
-        >Light exercise (1-2 days/wk)</b-form-radio>
-        <b-form-radio
-          v-model.number="activity"
-          name="some-radios"
-          value="1.55"
-        >Moderate exercise (3-5 days/wk)</b-form-radio>
-        <b-form-radio
-          v-model.number="activity"
-          name="some-radios"
-          value="1.725"
-        >Very active (6-7 days/wk)</b-form-radio>
-        <b-form-radio
-          v-model.number="activity"
-          name="some-radios"
-          value="1.9"
-        >Extra active (very active or/and physical job)</b-form-radio>
-      </b-form-group>
+      <div class="activity">
+        <p>How active are you?</p>
+        <b-form-group>
+          <b-form-radio v-model.number="activity" name="activity" value="1.2">Little or no exercise</b-form-radio>
+          <b-form-radio
+            v-model.number="activity"
+            name="activity"
+            value="1.375"
+          >Light exercise (1-2 days/wk)</b-form-radio>
+          <b-form-radio
+            v-model.number="activity"
+            name="activity"
+            value="1.55"
+          >Moderate exercise (3-5 days/wk)</b-form-radio>
+          <b-form-radio
+            v-model.number="activity"
+            name="activity"
+            value="1.725"
+          >Very active (6-7 days/wk)</b-form-radio>
+          <b-form-radio
+            v-model.number="activity"
+            name="activity"
+            value="1.9"
+          >Extra active (very active or/and physical job)</b-form-radio>
+        </b-form-group>
+      </div>
       <br />
 
-      <form @submit.prevent="calculate_intake">
-        <b-button v-on:click="calculate_intake" variant="success">Calculate</b-button>
+      <!-- goal -->
+      <div class="goal">
+        <p>What is your long-term body goal?</p>
+        <b-form-group>
+          <b-form-radio v-model.number="goal" name="goal" value="Maintain">Maintain current weight</b-form-radio>
+          <b-form-radio v-model.number="goal" name="goal" value="Lose">Lose weight</b-form-radio>
+          <b-form-radio v-model.number="goal" name="goal" value="Gain">Gain weight</b-form-radio>
+        </b-form-group>
+      </div>
+      <br />
+
+      <form @submit.prevent="calculate_goalIntake">
+        <b-button v-on:click="calculate_goalIntake" variant="success">Calculate</b-button>
       </form>
 
-      <div class="intake">
-        <p>Energy intake to maintain your weight is: {{ yourIntake }} kcal/day.</p>
+      <div class="goal-intake">
+        <p>The energy intake to reach your body goal is: {{ goalIntake }} kcal/day.</p>
       </div>
     </div>
   </div>
@@ -109,7 +122,8 @@ export default {
       weight: "",
       yourBMR: 0,
       activity: "",
-      yourIntake: 0
+      goal: "",
+      goalIntake: 0
     };
   },
   methods: {
@@ -132,8 +146,14 @@ export default {
         //this.control = "zenska";
       }
     },
-    calculate_intake() {
-      this.yourIntake = (this.yourBMR * this.activity).toFixed(0);
+    calculate_goalIntake() {
+      if (this.goal === "Maintain") {
+        this.goalIntake = (this.yourBMR * this.activity).toFixed(0);
+      } else if (this.goal === "Lose") {
+        this.goalIntake = (this.yourBMR * this.activity - 400).toFixed(0);
+      } else if (this.goal === "Gain") {
+        this.goalIntake = (this.yourBMR * this.activity + 500).toFixed(0);
+      }
     }
   }
 };
