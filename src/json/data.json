@@ -1,6 +1,6 @@
 {
   "RCPT1": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0fecd31a36d4cd1a7c174f7181c89369",
     "label": "Korean Chicken Soup",
     "image": "https://www.edamam.com/web-img/f69/f690da5a1b35068c870ea725f01d47a9.jpg",
@@ -97,7 +97,7 @@
     }
   },
   "RCPT2": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f93f2822be7eea901a7c503a64393d8f",
     "label": "Hearty Chicken Noodle Soup",
     "image": "https://www.edamam.com/web-img/dd1/dd15c859c11b3e1131e154af62c71a09.jpg",
@@ -188,7 +188,7 @@
     }
   },
   "RCPT3": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a86af8c61822cd3800c79129077c1116",
     "label": "Rich Chicken Stock",
     "image": "https://www.edamam.com/web-img/e55/e551ea3834f12b753f909bdafc8e17b2.jpg",
@@ -274,8 +274,8 @@
     }
   },
   "RCPT4": {
-    "mealType": ["lunch", "dinner"],
-    "uri": "https://www.edamam.com/web-img/1a3/1a3822e164ddae49640d41cf718126f0.jpg",
+    "mealType": "Main dish",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a630cb6a48a510382173ed0d92e8bb19",
     "label": "Chicken Stock",
     "image": "https://www.edamam.com/web-img/7dc/7dc224565115c5ef129eb821ebf7782f.jpg",
     "source": "Cookstr",
@@ -360,7 +360,7 @@
     }
   },
   "RCPT5": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a46615b88bce668d9c3b186f1cc686fe",
     "label": "Chicken Taquitos Recipe",
     "image": "https://www.edamam.com/web-img/44a/44ae67026ee2e5ac4b9aee190c050de9.jpg",
@@ -431,7 +431,7 @@
     }
   },
   "RCPT6": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_682b6efd0a6c9498f5826c069ecde74d",
     "label": "Paprika Roast Chicken",
     "image": "https://www.edamam.com/web-img/3a4/3a435f3e22daefa80caefaa302f0a4f1.jpg",
@@ -503,7 +503,7 @@
     }
   },
   "RCPT7": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_89ce8c79c636ecb708aebc544ec13b09",
     "label": "Smoky Chicken",
     "image": "https://www.edamam.com/web-img/75a/75a8a9c82713133c16391f200f6b848f.jpg",
@@ -590,7 +590,7 @@
     }
   },
   "RCPT8": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_45d9cdeda3d31d091ed08cbd785c69b0",
     "label": "Chicken Stock",
     "image": "https://www.edamam.com/web-img/083/083e1e4009759373a7d595d10205ee7f.jpg",
@@ -662,7 +662,7 @@
     }
   },
   "RCPT9": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_1b5270c59459803714867c06d1508b2a",
     "label": "Chicken Noodle Soup",
     "image": "https://www.edamam.com/web-img/55b/55b256fa40592da6def0309f4dae31a3.jpg",
@@ -758,7 +758,7 @@
     }
   },
   "RCPT10": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_e1133cffaabf000aca47df1f94c258ff",
     "label": "Stock from a Whole Chicken",
     "image": "https://www.edamam.com/web-img/f8a/f8ab57d3f84159eb456103656a59267c.jpg",
@@ -811,7 +811,7 @@
     }
   },
   "RCPT11": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_32bfd427ec3a7495d83f25abf1aab909",
     "label": "Chicken Gravy",
     "image": "https://www.edamam.com/web-img/faf/faf2e164f0331e33f9656c8107ac3ad0.jpg",
@@ -893,7 +893,7 @@
     }
   },
   "RCPT12": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_da6eb40640cd297f58e156d0a945e5ad",
     "label": "Baked Mushroom Chicken",
     "image": "https://www.edamam.com/web-img/8a7/8a726a531932dcb9e8432681c1cd33f8.jpg",
@@ -989,7 +989,7 @@
     }
   },
   "RCPT13": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_3794a7d934046fab9275444bc5e23bf6",
     "label": "Creamy Chicken Piccata and Asparagus",
     "image": "https://www.edamam.com/web-img/3c0/3c03099edc09731f268563288dbd54c3.jpg",
@@ -1070,7 +1070,7 @@
     }
   },
   "RCPT14": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_da4000aa0b50cb1332a9e142ab57f6dd",
     "label": "Chicken Broth",
     "image": "https://www.edamam.com/web-img/ce9/ce98ad0d877e1634a29d1ee48694e08a.jpg",
@@ -1162,7 +1162,7 @@
     }
   },
   "RCPT15": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_467a8f6874a5c9e6bcc6f367559313e6",
     "label": "Chicken Teriyaki and Brown Rice",
     "image": "https://www.edamam.com/web-img/b14/b140daf0b4d0b3f111750c46f1f07501.jpg",
@@ -1239,7 +1239,7 @@
     }
   },
   "RCPT16": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9ccd2645cb752a3f4b42a36f5694efb2",
     "label": "Roast Chicken",
     "image": "https://www.edamam.com/web-img/1f5/1f5ef4145240080cfc2faab2a74ff12c.jpg",
@@ -1302,7 +1302,7 @@
     }
   },
   "RCPT17": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_dcf7d8b16ec421c6bb41b22564feb23c",
     "label": "Chicken Potpies",
     "image": "https://www.edamam.com/web-img/bd8/bd8d73bc5b00570a5abcc3357ad0b9a7.jpg",
@@ -1403,7 +1403,7 @@
     }
   },
   "RCPT18": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_78362d56f921f6e3bf95671ded8cdaf7",
     "label": "Chicken Chili",
     "image": "https://www.edamam.com/web-img/51b/51ba7c2f232bf19f42e1db5f0979e22e.jpg",
@@ -1529,7 +1529,7 @@
     }
   },
   "RCPT19": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6716e1177b935059321db91bdc067a89",
     "label": "Cardamom Honey Chicken",
     "image": "https://www.edamam.com/web-img/7d1/7d17757c3648cb510d9f71852274320d.jpg",
@@ -1615,7 +1615,7 @@
     }
   },
   "RCPT20": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3565107f0288e835899e54fc19296f8a",
     "label": "Chicken Stoup",
     "image": "https://www.edamam.com/web-img/fe0/fe02761576e994437a6fb81719093f09.jpg",
@@ -1707,7 +1707,7 @@
     }
   },
   "RCPT21": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0737c22c1b84ceceb0ebb9aa7be1a77f",
     "label": "Asian Grilled Chicken",
     "image": "https://www.edamam.com/web-img/821/8212abd6c2e5337d04f6037339272869.jpg",
@@ -1789,7 +1789,7 @@
     }
   },
   "RCPT22": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_685bdc43a429d5f4886e9c26d6b72e6b",
     "label": "Citrus Chicken and Rice",
     "image": "https://www.edamam.com/web-img/f1a/f1a9640d3358f8a70b340f1d64433742.jpeg",
@@ -1861,7 +1861,7 @@
     }
   },
   "RCPT23": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_37654412d4d327c627bb467aa77d74b7",
     "label": "Chicken Piccata",
     "image": "https://www.edamam.com/web-img/047/047726650141a6ed7ba6d7e01e991890.jpg",
@@ -1947,7 +1947,7 @@
     }
   },
   "RCPT24e": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_4760ec0f406bf51dbac19bf1539f437f",
     "label": "Chicken Saltimbocca",
     "image": "https://www.edamam.com/web-img/6da/6da207eee28c779e11f3db590303e9bc.jpg",
@@ -2043,7 +2043,7 @@
     }
   },
   "RCPT25": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_1ee430d1ee26487ea41e161b79f174f0",
     "label": "Asian Grilled Chicken",
     "image": "https://www.edamam.com/web-img/f89/f8925e7bf92924e72797fa7edbf09fa0.jpeg",
@@ -2125,7 +2125,7 @@
     }
   },
   "RCPT26": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_e6c6b57c689397b2585f8acf680fbf13",
     "label": "Chicken Marsala",
     "image": "https://www.edamam.com/web-img/dbb/dbbc7d0b9bb9563443c49cbba4bfec82.jpg",
@@ -2217,7 +2217,7 @@
     }
   },
   "RCPT27": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_7e844ce8ea10ac4c2efacffdc56fdd7e",
     "label": "Chicken ‘paella’",
     "image": "https://www.edamam.com/web-img/6b2/6b24bd420a1ddc88c0476c90919f2e2e.jpg",
@@ -2324,7 +2324,7 @@
     }
   },
   "RCPT28": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_56883b3873f04e564b69fec37fb6bb37",
     "label": "Marmalade Chicken",
     "image": "https://www.edamam.com/web-img/dc1/dc1121a1d828f398e37439eb39b3a6f5.jpg",
@@ -2421,7 +2421,7 @@
     }
   },
   "RCPT29": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0be3ef81ced6d7bd2da8e64021b59d6a",
     "label": "Chicken Salad",
     "image": "https://www.edamam.com/web-img/e15/e1503d4f3ba5c2d7a4f2ae6309c70659.jpg",
@@ -2523,7 +2523,7 @@
     }
   },
   "RCPT30": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d9e1db6d245b09e5aa155dbc4d1d3be7",
     "label": "Chicken Paprikash",
     "image": "https://www.edamam.com/web-img/045/045420c97eb85213a7c3cb850a0fe5ba.jpg",
@@ -2625,7 +2625,7 @@
     }
   },
   "RCPT31": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ca44794d8d65f82a4035c1cde096ef5a",
     "label": "Peach Chicken",
     "image": "https://www.edamam.com/web-img/8d2/8d2f1e2ca63dd5a9f11b11237bed7eb6.jpg",
@@ -2702,7 +2702,7 @@
     }
   },
   "RCPT32": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0da0e2501f90836476c8c4efedf05200",
     "label": "Chicken Skillet Fajitas",
     "image": "https://www.edamam.com/web-img/29b/29bd7a6a4148dc1ae40923eba333df55.jpg",
@@ -2789,7 +2789,7 @@
     }
   },
   "RCPT33": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c1b2000fd49ea451e029dfaa7a0841d5",
     "label": "Teriyaki chicken",
     "image": "https://www.edamam.com/web-img/698/698a3e05cd5a7c02dfe6257e028f3540.jpg",
@@ -2866,7 +2866,7 @@
     }
   },
   "RCPT34": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_aaccacd0814778eb7f1dd4912a06d722",
     "label": "Chicken Goulash",
     "image": "https://www.edamam.com/web-img/644/644439fdd56b74ccc5460a225c73678f.jpg",
@@ -2988,7 +2988,7 @@
     }
   },
   "RCPT35": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9929c4add5acffa324a9756af7849ad6",
     "label": "Bobbys Chicken-Fried Chicken",
     "image": "https://www.edamam.com/web-img/4af/4af57a63425ddf5ed73266b2c211797b.jpg",
@@ -3111,7 +3111,7 @@
     }
   },
   "RCPT36": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_65936585ae6c38ade80871698a254d0e",
     "label": "Braised Chicken and Mushrooms",
     "image": "https://www.edamam.com/web-img/df5/df55267a45015760835924b4e18d853e.jpg",
@@ -3218,7 +3218,7 @@
     }
   },
   "RCPT37": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_7b3527beedac0f3162e4a9dc87fdb06f",
     "label": "Spanish Chicken",
     "image": "https://www.edamam.com/web-img/888/8882855200352f5306787015743770a8.jpg",
@@ -3342,7 +3342,7 @@
     }
   },
   "RCPT38": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_17388247bc6aed395e4409b7d3267636",
     "label": "Chicken Francaise",
     "image": "https://www.edamam.com/web-img/e07/e07b62b6652c2ef4fe3bd546eb5688f9.jpg",
@@ -3444,7 +3444,7 @@
     }
   },
   "RCPT39": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_14bd1778f622fafab681bf74489c6b17",
     "label": "Chicken and Cavatelli",
     "image": "https://www.edamam.com/web-img/c41/c4141286e7e4c9dc55b312187d54896c.jpg",
@@ -3546,7 +3546,7 @@
     }
   },
   "RCPT40": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_8b1f66e91738501d6fd3f51cf403292e",
     "label": "Chicken Paprikash",
     "image": "https://www.edamam.com/web-img/bfe/bfe825ec98e980fdd1039b00c96b3d4e.jpg",
@@ -6595,7 +6595,7 @@
     }
   },
   "RCPT81": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_cd6713f4ea84f1b0bdeaad3e1d2300fe",
     "label": "Patacones Con Hogao (Colombian-style Fried Plantains with Tomato-onion Sauce) Recipe",
     "image": "https://www.edamam.com/web-img/1e6/1e6422959db03ce9581dcef2b3763932.jpg",
@@ -6684,7 +6684,7 @@
     }
   },
   "RCPT82": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0aac84f26f1b0d6d89a556a57a68114a",
     "label": "Confiture de Rhubarbe",
     "image": "https://www.edamam.com/web-img/da3/da3f781dd61570f2dcbc8875a1b1d1e8.jpg",
@@ -6747,7 +6747,7 @@
     }
   },
   "RCPT83": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_fde7d4f76e18808d88986a38de84aa6f",
     "label": "Basic Hummus from Jerusalem",
     "image": "https://www.edamam.com/web-img/7b9/7b96044f44dab5c9560bf6d5264b1477.jpg",
@@ -6829,7 +6829,7 @@
     }
   },
   "RCPT84": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_d5afd8e1b025c545b25210529eff293e",
     "label": "Tamarind Rice Recipe",
     "image": "https://www.edamam.com/web-img/b49/b49315a8bdae8f273a6e5f3e3657c451.jpg",
@@ -6941,7 +6941,7 @@
     }
   },
   "RCPT85": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_1f0a16d15f9e9c4427c48d268136d8c6",
     "label": "Stuffed Shells Recipe",
     "image": "https://www.edamam.com/web-img/3b3/3b34ee85b02265c7d5416af1bef3b039.jpg",
@@ -7784,7 +7784,7 @@
     }
   },
   "RCPT94": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_31e1f037375239c58d7439af20a48c13",
     "label": "Bocadillo de Tortilla Recipe",
     "image": "https://www.edamam.com/web-img/0fd/0fd4b91d0d646c7833c8db6d8e53eecf.jpg",
@@ -7866,7 +7866,7 @@
     }
   },
   "RCPT95": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_2ab7b1ff26fc11c5b94f9bf455065a99",
     "label": "Grilled Skirt Steak with Chipotle Cherry BBQ Sauce",
     "image": "https://www.edamam.com/web-img/98e/98e882e89c2d4ff702358a1cb895fb47.jpeg",
@@ -7993,7 +7993,7 @@
     }
   },
   "RCPT96": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9d4c43376f20a0d268aa2fad1c27b678",
     "label": "Tex-Mex Stuffed Peppers",
     "image": "https://www.edamam.com/web-img/294/29439ddabc043bacfd410bbf0eb2f6e8.jpg",
@@ -8072,7 +8072,7 @@
     }
   },
   "RCPT97": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_9909f0c6154defd60e3a689d6d7802d1",
     "label": "Neelys Barbeque Nachos",
     "image": "https://www.edamam.com/web-img/e4b/e4b6b5e979669cc779724d5690540e60.jpeg",
@@ -8201,7 +8201,7 @@
     }
   },
   "RCPT98": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_35bbe36918bc407523a27a593a837a79",
     "label": "Arancini (Rice Balls) From Grandma Rosies Magic Kitchen",
     "image": "https://www.edamam.com/web-img/798/798b2a83e3239a2c011f9443b00b0dc7.jpg",
@@ -8333,7 +8333,7 @@
     }
   },
   "RCPT99": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d3a6411b8d2a5b6f3cdfe39e8f009ade",
     "label": "Cranberry BBQ Meatballs",
     "image": "https://www.edamam.com/web-img/1db/1dbf3d28e8ebc10113f05a418177d43b.jpg",
@@ -8432,7 +8432,7 @@
     }
   },
   "RCPT100": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0c96513d3d93f39ac051a1f772447ffa",
     "label": "Spaghetti and Meatballs",
     "image": "https://www.edamam.com/web-img/8a2/8a2a12303e9271250df0ab0b9832591f.jpg",
@@ -8554,7 +8554,7 @@
     }
   },
   "RCPT101": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_b03165ca9219f74af58c7a2cfcf2cfc9",
     "label": "Braised Lamb Orzo Salad",
     "image": "https://www.edamam.com/web-img/3ab/3abc2f428df0e9381e892bd2fc9d1498.jpeg",
@@ -8691,7 +8691,7 @@
     }
   },
   "RCPT102": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamamowl#recipe_a64082da3b3cc690a8f09729c6d143d0",
     "label": "Mushroom and Burgundy Stew",
     "image": "https://www.edamam.com/web-img/bfb/bfbe54ac281c064b2fb077765c0d71b1.jpg",
@@ -8832,7 +8832,7 @@
     }
   },
   "RCPT103": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_abceea1205de3f2e78c22106ef1c9fe1",
     "label": "Rigatoni And Meatballs",
     "image": "https://www.edamam.com/web-img/93a/93ae19ba6396c5af349233e2bf5b5458.jpeg",
@@ -8984,7 +8984,7 @@
     }
   },
   "RCPT104": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_46c2ef70a82da6bbc0ee3c067b3b91fb",
     "label": "Rigatoni and Meatballs",
     "image": "https://www.edamam.com/web-img/0e9/0e91f982dee86748301b960553ca27c5.jpeg",
@@ -9121,7 +9121,7 @@
     }
   },
   "RCPT105": {
-    "mealType": ["lunch", "dinner"],
+    "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_0fe688112b06c3a94b3913b170c3ef4f",
     "label": "Pasta with Meat Sauce",
     "image": "https://www.edamam.com/web-img/eda/eda4e1fb86fc460ae2ced54dfb24e1f8.jpg",
