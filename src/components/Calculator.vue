@@ -136,8 +136,8 @@
         </div>
       </div>
     </div>
-    <div class="link">
-      <b-button v-bind:to="'/components/Recipes'" variant="success"
+    <div class="link" align="center">
+      <b-button v-bind:to="'/components/Recipes'"
         >Create your meal plan</b-button
       >
     </div>
