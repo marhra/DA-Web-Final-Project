@@ -3617,7 +3617,7 @@
     }
   },
   "RCPT41": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_0cf82d306c0126641619c2c5b6a08c9a",
     "label": "Banana-Nut Cookies",
     "image": "https://www.edamam.com/web-img/de3/de3d24e983c55687fb41908c1063993c.jpg",
@@ -3694,7 +3694,7 @@
     }
   },
   "RCPT42": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7ff259756fd7e1e72d4996a343fe2b93",
     "label": "Honey Grapefruit with Banana",
     "image": "https://www.edamam.com/web-img/dc1/dc154c69c165340caa4906a9836fb4c9.jpg",
@@ -3756,7 +3756,7 @@
     }
   },
   "RCPT43": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_3bc73b180d8730987673dc96a5defdea",
     "label": "Banana-Yogurt Smoothie recipes",
     "image": "https://www.edamam.com/web-img/30c/30c5b26a353d9af55fca1425df1a4429",
@@ -3828,7 +3828,7 @@
     }
   },
   "RCPT44": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_135fc2266b941c21fc2b1788fbd0f4af",
     "label": "Blueberry Banana Bread",
     "image": "https://www.edamam.com/web-img/868/868d2196b1daa69cddbf8f3f4043c2b4.jpeg",
@@ -3900,7 +3900,7 @@
     }
   },
   "RCPT45": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d567330b4503cd6a444028d0be1929d9",
     "label": "Banana Breakfast Smoothie",
     "image": "https://www.edamam.com/web-img/349/349c16e3036c5782748e92cd51e9fc4e.jpg",
@@ -3976,7 +3976,7 @@
     }
   },
   "RCPT46": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_20ed9c8474b00ff84beef02e6a8e4fd2",
     "label": "Banana Raspberry Smoothies",
     "image": "https://www.edamam.com/web-img/39a/39a465ea58c2b35402417b9b72fb319b.jpeg",
@@ -4058,7 +4058,7 @@
     }
   },
   "RCPT47": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_90013ff88cbd93d32126385bd409ec87",
     "label": "Weaning recipe: Perfect banana & avocado purée",
     "image": "https: //www.edamam.com/web-img/0d4/0d454972f9a27fba39d4e2115e6e3041.jpg",
@@ -4121,7 +4121,7 @@
     }
   },
   "RCPT48": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_9e9d2e09c640c8f275d10180584a80f6",
     "label": "Classic Strawberry-Banana Smoothie",
     "image": "https://www.edamam.com/web-img/95c/95c79223ecb72774291925327547b440.jpg",
@@ -4188,7 +4188,7 @@
     }
   },
   "RCPT49": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_d6ac60ca227af61c891acccd59053fc2",
     "label": "Banana-Bacon Sandwich Snack",
     "image": "https://www.edamam.com/web-img/d6b/d6bdd37c88dfe05dc1457a44ebb851b1.jpg",
@@ -4255,7 +4255,7 @@
     }
   },
   "RCPT50": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_0132eafd40147a93a9b8d27969ac585d",
     "label": "Banana Tahini Bites",
     "image": "https://www.edamam.com/web-img/6e4/6e4cf3915d4b32ed67d302fdd2277f29.jpg",
@@ -4324,7 +4324,7 @@
     }
   },
   "RCPT51": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_4e165d756aae988c21b2120813311f93",
     "label": "Almond, banana & passion fruit smoothie",
     "image": "https://www.edamam.com/web-img/468/4680c58fe36da0f91ca04405a8a32046.jpg",
@@ -4392,7 +4392,7 @@
     }
   },
   "RCPT52": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_4a6a3a2a4c4ae6eeb97d35cf24ccc7eb",
     "label": "Parsley, Pineapple, and Banana Smoothie",
     "image": "https://www.edamam.com/web-img/8e4/8e489741f690b1f8dc2f0ed12a9dbec9.jpg",
@@ -4454,7 +4454,7 @@
     }
   },
   "RCPT53": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_c606aa84cd345d41d29828add7cf7a3f",
     "label": "Banana Breakfast Smoothie",
     "image": "https://www.edamam.com/web-img/679/679bffb38521da1ff7306be9f5564739.jpg",
@@ -4531,7 +4531,7 @@
     }
   },
   "RCPT54": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_6d03229439f1b8b33ca7a114e3b7bf6a",
     "label": "Banana-Maple-Walnut Oatmeal",
     "image": "https://www.edamam.com/web-img/ee3/ee3f77f4e3f80ac79f297ca4fbc8d47b.jpg",
@@ -4603,7 +4603,7 @@
     }
   },
   "RCPT55": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_8342e5297ce9acd061fa21936a86e39b",
     "label": "Michela’s banana, pear & prunes (no cook)",
     "image": "https://www.edamam.com/web-img/6af/6af5e3cfc0a9875b86507be1da091b0c.jpg",
@@ -4670,7 +4670,7 @@
     }
   },
   "RCPT56": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2dfd76da698aab88755c15f1d369d632",
     "label": "Tunaguac Sandwich",
     "image": "https://www.edamam.com/web-img/a8a/a8a108270338ff41028800e45d43bcf2.jpg",
@@ -4741,7 +4741,7 @@
     }
   },
   "RCPT57": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_22bb8a51ec76787ec86a2305e0566be2",
     "label": "Sesame-Crusted Crab and Mango Tea Sandwiches",
     "image": "https://www.edamam.com/web-img/023/023eb4f0212b56e4bcb99ea8a746a24a.jpg",
@@ -4843,7 +4843,7 @@
     }
   },
   "RCPT58": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_f8958e27ea5b090361e8fdc49c079882",
     "label": "Pumpkin and Pecorino Gratin",
     "image": "https://www.edamam.com/web-img/9bc/9bc3a9bd53de5a5633977b89f90cd9ac.jpg",
@@ -4921,7 +4921,7 @@
     }
   },
   "RCPT59": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_85a3f4e163c2fa8c10a9f32433ace588",
     "label": "Bacon, Egg, And Toast Cups",
     "image": "https://www.edamam.com/web-img/702/70226accb6d7a6e8316086823a07aae2.jpg",
@@ -4997,7 +4997,7 @@
     }
   },
   "RCPT60": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_58903bcf4c6b51cd450a348c016be63c",
     "label": "Herbed Cucumber Radish Tea Sandwiches Recipe",
     "image": "https://www.edamam.com/web-img/8f8/8f87c54884ca784260b7ec7105ee0f20.jpg",
@@ -5105,7 +5105,7 @@
     }
   },
   "RCPT61": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_c5446e46c5cec90cbcd00a4836dbbcdb",
     "label": "California Grilled Cheese",
     "image": "https://www.edamam.com/web-img/222/2227803c3321f1426f3dbfa80d79a3dc.jpg",
@@ -5179,7 +5179,7 @@
     }
   },
   "RCPT62": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5153ce3e3f26d10e29badf6170fd76e4",
     "label": "Chocolate Cookie Icebox Cake",
     "image": "https://www.edamam.com/web-img/c01/c018eb9374ea73cdbbe6c8a69c0142f5.jpg",
@@ -5251,7 +5251,7 @@
     }
   },
   "RCPT63": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_f58366a293d8c5312dac6731ff773c26",
     "label": "Inside-Out English Muffin Grilled Cheese",
     "image": "https://www.edamam.com/web-img/1e8/1e8145208d6c1ae9c0c0ed6af8acd6e3.jpg",
@@ -5328,7 +5328,7 @@
     }
   },
   "RCPT64": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_14275a3eadda96de9216fd93dac6c477",
     "label": "Egg Sandwich",
     "image": "https://www.edamam.com/web-img/f85/f857c41e9937e864e1edca546d037aa0.jpg",
@@ -5416,7 +5416,7 @@
     }
   },
   "RCPT65": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_8eed967101b4b944df1563d1dae36752",
     "label": "Liquid Sandwich",
     "image": "https://www.edamam.com/web-img/775/775042749ab7172008b28b93b3c376c3.jpg",
@@ -5483,7 +5483,7 @@
     }
   },
   "RCPT66": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_36150da855e63c3024b72813287c46ad",
     "label": "Tomato Sandwich",
     "image": "https://www.edamam.com/web-img/e16/e161ad7b861b9cb51a3c823c82fa1994.jpg",
@@ -5555,7 +5555,7 @@
     }
   },
   "RCPT67": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_51b441243810afed0077499a4ea5c3b1",
     "label": "Sardine Sandwich",
     "image": "https://www.edamam.com/web-img/012/01222503b80fed05a947baa351e2dea3.jpg",
@@ -5754,7 +5754,7 @@
     }
   },
   "RCPT70": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_d3b8d8bad3a3be35629105655591bd12",
     "label": "Pear and Passion Mimosa",
     "image": "https://www.edamam.com/web-img/aeb/aeb961cf5200ef60beddb9f0a2108e51.jpg",
@@ -5822,7 +5822,7 @@
     }
   },
   "RCPT71": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_214f35e3a6021225df5c3d2dd3886183",
     "label": "Mark Bittmans Cranberry Relish with Orange and Ginger Recipe",
     "image": "https: //www.edamam.com/web-img/56f/56fd924c3c372368db7fd5b2b62f3337.jpg",
@@ -5890,7 +5890,7 @@
     }
   },
   "RCPT72": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_e92e72709183ac1fd271320c8644b222",
     "label": "Raspberry Coulis",
     "image": "https://www.edamam.com/web-img/42c/42cc077633d22b1a775b557d0edc07a1.jpg",
@@ -5958,7 +5958,7 @@
     }
   },
   "RCPT73": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_00058a2b22c29fc48981a00d7addac19",
     "label": "An Apple A Week: Chunky Pear Applesauce",
     "image": "https://www.edamam.com/web-img/b49/b499bd0c6d00122e2e135874c9a606ac.jpg",
@@ -6104,7 +6104,7 @@
     }
   },
   "RCPT75": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_b9518fddc0ca07a7f5e3565215dabf2c",
     "label": "Banana Peanut Butter Smoothies Recipe",
     "image": "https://www.edamam.com/web-img/558/558dc0f508ca3d4855d534c185819112.jpg",
@@ -6171,7 +6171,7 @@
     }
   },
   "RCPT76": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_6e9b16d88794d50b55d20e8a0b629a66",
     "label": " Green Smoothie Recipe",
     "image": "https://www.edamam.com/web-img/951/9519ab38a00a16c7afd0e3983d634ad7.jpg",
@@ -6437,7 +6437,7 @@
     }
   },
   "RCPT79": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_2d3803ed8325f29eec2eec04e13f8af3",
     "label": "Orangettes",
     "image": "https://www.edamam.com/web-img/90b/90be12e60faec9828f922c3aa7c63cda.jpg",
@@ -7053,7 +7053,7 @@
     }
   },
   "RCPT86": {
-    "mealType": ["breakfast"],
+    "mealType": "breakfast",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_aeaf69ed441c897d0777a0c98fd42e2d",
     "label": "Pistachio Cake recipes",
     "image": "https://www.edamam.com/web-img/348/348e63cca62d5ae2547f9471c38fa74d",
