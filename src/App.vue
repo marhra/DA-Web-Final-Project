@@ -17,6 +17,7 @@ import Intro from "./components/Intro.vue";
 import Calculator from "./components/Calculator.vue";
 import Recipes from "./components/Recipes.vue";
 
+
 export default {
   name: "App",
   components: {
