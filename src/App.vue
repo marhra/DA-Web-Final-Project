@@ -3,11 +3,7 @@
     <div class="page"></div>
     <Header />
     <router-view></router-view>
-    <!--
-    <Intro />
-    <Calculator />
-    <Recipes />
-    -->
+    <Footer />
   </div>
 </template>
 
@@ -16,7 +12,7 @@ import Header from "./components/Header.vue";
 import Intro from "./components/Intro.vue";
 import Calculator from "./components/Calculator.vue";
 import Recipes from "./components/Recipes.vue";
-
+import Footer from "./components/Footer.vue";
 
 export default {
   name: "App",
@@ -25,6 +21,7 @@ export default {
     Intro: Intro,
     Calculator: Calculator,
     Recipes: Recipes,
+    Footer: Footer,
   },
 };
 </script>
