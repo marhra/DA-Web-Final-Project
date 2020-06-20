@@ -281,7 +281,7 @@
     "source": "Cookstr",
     "url": "http://www.cookstr.com/recipes/chicken-stock-18",
     "shareAs": "http://www.edamam.com/recipe/chicken-stock-a630cb6a48a510382173ed0d92e8bb19/chicken/000-200-cal",
-    "yield": 34.0,
+    "yield": 1.0,
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
       "Sugar-Conscious",
@@ -438,7 +438,7 @@
     "source": "Martha Stewart",
     "url": "http://www.marthastewart.com/314006/paprika-roast-chicken",
     "shareAs": "http://www.edamam.com/recipe/paprika-roast-chicken-682b6efd0a6c9498f5826c069ecde74d/chicken/000-200-cal",
-    "yield": 4.0,
+    "yield": 1.0,
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
       "Sugar-Conscious",
@@ -510,7 +510,7 @@
     "source": "My Recipes",
     "url": "http://www.myrecipes.com/recipe/smoky-chicken",
     "shareAs": "http://www.edamam.com/recipe/smoky-chicken-89ce8c79c636ecb708aebc544ec13b09/chicken/000-200-cal",
-    "yield": 8.0,
+    "yield": 2.0,
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
       "Sugar-Conscious",
@@ -597,7 +597,7 @@
     "source": "Cookstr",
     "url": "http://www.cookstr.com/recipes/chicken-stock-15",
     "shareAs": "http://www.edamam.com/recipe/chicken-stock-45d9cdeda3d31d091ed08cbd785c69b0/chicken/000-200-cal",
-    "yield": 9.0,
+    "yield": 4.0,
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
       "Sugar-Conscious",
@@ -765,7 +765,7 @@
     "source": "Cookstr",
     "url": "http://www.cookstr.com/recipes/stock-from-a-whole-chicken",
     "shareAs": "http://www.edamam.com/recipe/stock-from-a-whole-chicken-e1133cffaabf000aca47df1f94c258ff/chicken/000-200-cal",
-    "yield": 4.0,
+    "yield": 1.0,
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
       "Sugar-Conscious",
@@ -1077,7 +1077,7 @@
     "source": "Cookstr",
     "url": "http://www.cookstr.com/recipes/chicken-broth-art-smith",
     "shareAs": "http://www.edamam.com/recipe/chicken-broth-da4000aa0b50cb1332a9e142ab57f6dd/chicken/000-200-cal",
-    "yield": 2.0,
+    "yield": 1.0,
     "dietLabels": ["Low-Carb"],
     "healthLabels": [
       "Sugar-Conscious",
@@ -6602,7 +6602,7 @@
     "source": "Serious Eats",
     "url": "http://www.seriouseats.com/recipes/2012/05/patacones-con-hogao-colombian-style-fried-plantains-with-tomato-onion-sauce-recipe.html",
     "shareAs": "http://www.edamam.com/recipe/patacones-con-hogao-colombian-style-fried-plantains-with-tomato-onion-sauce-recipe-cd6713f4ea84f1b0bdeaad3e1d2300fe/-/vegan/600-1200-cal",
-    "yield": 4.0,
+    "yield": 8.0,
     "dietLabels": [],
     "healthLabels": [
       "Vegan",
@@ -6691,7 +6691,7 @@
     "source": "Chocolate & Zucchini",
     "url": "http://chocolateandzucchini.com/recipes/jams-nut-butters/rhubarb-jam-recipe/",
     "shareAs": "http://www.edamam.com/recipe/confiture-de-rhubarbe-0aac84f26f1b0d6d89a556a57a68114a/-/vegan/600-1200-cal",
-    "yield": 4.0,
+    "yield": 8.0,
     "dietLabels": ["Low-Fat"],
     "healthLabels": [
       "Vegan",
@@ -7355,7 +7355,7 @@
     "source": "Serious Eats",
     "url": "http://www.seriouseats.com/recipes/2011/03/double-peanut-popcorn-recipe.html",
     "shareAs": "http://www.edamam.com/recipe/double-peanut-popcorn-e3c71d2d4088ea06900d981957469c60/-/vegetarian/700-1200-cal",
-    "yield": 4.0,
+    "yield": 8.0,
     "dietLabels": [],
     "healthLabels": ["Vegetarian", "Tree-Nut-Free", "Alcohol-Free"],
     "cautions": ["Sulfites"],

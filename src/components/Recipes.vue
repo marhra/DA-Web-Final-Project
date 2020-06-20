@@ -2,26 +2,25 @@
   <div class="container">
     <h3>Monday</h3>
 
-    <div class="card">
-      <b-card
-        v-for="(recipe, index) in recipes"
-        :key="index"
-        :title="recipe.label"
-        :img-src="recipe.image"
-        img-alt="cat"
-        img-top
-        tag="article"
-        style="max-width: 20rem;"
-        class="mb-2"
-      >
-        <b-card-text
-          v-for="(recipe, index) in recipes"
-          :key="index"
-          :title="recipe.calories"
+    <b-card
+      no-body
+      style="max-width: 20rem;"
+      v-for="(recipe, index) in recipes"
+      :key="index"
+      :img-src="recipe.image"
+      img-alt="Image"
+      img-top
+    >
+      <b-card-body>
+        <b-card-title :title="recipe.label"></b-card-title>
+        <b-card-sub-title class="mb-2"
+          >{{
+            Math.round(recipe.calories / recipe.yield)
+          }}
+          kcal</b-card-sub-title
         >
-        </b-card-text>
-      </b-card>
-    </div>
+      </b-card-body>
+    </b-card>
   </div>
 </template>
 
