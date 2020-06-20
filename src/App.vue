@@ -2,9 +2,12 @@
   <div class="container">
     <div class="page"></div>
     <Header />
+    <router-view></router-view>
+    <!--
     <Intro />
     <Calculator />
     <Recipes />
+    -->
   </div>
 </template>
 

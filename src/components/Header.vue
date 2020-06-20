@@ -14,15 +14,10 @@
 
         <b-collapse id="nav-collapse" is-nav>
           <b-navbar-nav>
-            <b-nav-item href="#">Home</b-nav-item>
-            <b-nav-item
-              to="/components/recipes.vue"
-              exact
-              exact-active-class="active"
-              >Recipes</b-nav-item
-            >
-            <b-nav-item href="#">About us</b-nav-item>
-            <b-nav-item href="#">Blog</b-nav-item>
+            <b-nav-item :to="{ name: 'Home' }">Home</b-nav-item>
+            <b-nav-item :to="{ name: 'Recipes' }">Recipes</b-nav-item>
+            <b-nav-item :to="{ name: 'AboutUs' }">About us</b-nav-item>
+            <b-nav-item :to="{ name: 'Blog' }">Blog</b-nav-item>
           </b-navbar-nav>
 
           <b-navbar-nav class="ml-auto">
