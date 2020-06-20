@@ -113,7 +113,10 @@ import data from "../json/data.json";
 export default {
   data() {
     return {
-      items: Object.values(data),
+      items: Object.values(data).map(e => ({
+        ...e,
+        calories: Math.round(e.calories)
+      })),
       fields: [
         {
           key: "label",
