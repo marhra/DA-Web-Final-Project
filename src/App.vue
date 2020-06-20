@@ -20,8 +20,8 @@ export default {
     Header: Header,
     Intro: Intro,
     Calculator: Calculator,
-    Recipes: Recipes
-  }
+    Recipes: Recipes,
+  },
 };
 </script>
 
