@@ -33,8 +33,8 @@ export default new VueRouter({
     {
         path: "/MealPlanner",
         name: "MealPlanner",
-        component: Blog
+        component: MealPlanner
     }
 
-]
+    ]
 })
