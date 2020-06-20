@@ -4,7 +4,7 @@ const recipes = Object.values(data);
 
 const breakfasts = recipes.filter(recipe => recipe.mealType.includes("breakfast"));
 
-const lunches = recipes.filter(recipe => recipe.mealType.includes("lunch") || recipe.mealType.includes("dinner"));
+const lunches = recipes.filter(recipe => recipe.mealType === "Main Dish")
 
 //console.log(breakfasts.length);
 //console.log(lunches.length);
@@ -25,3 +25,8 @@ console.log(lunchIndex)
 
 const lunch = lunches[lunchIndex]
 console.log(lunch)
+
+const caloriesWithoutDinner = breakfast.calories / breakfast.yield + lunch.calories / lunch.yield;
+
+const missingCalories = 1800 - caloriesWithoutDinner;
+console.log(missingCalories)
