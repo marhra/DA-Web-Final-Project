@@ -5,10 +5,10 @@
             <div>
                 <h4>{{item.breakfast.label}}</h4>
                 <p><small>{{ Math.round(item.breakfast.caloriesPerPortion) }} kCal</small></p>
-    
+                
                 <h4>{{item.lunch.label}}</h4>
                 <p><small>{{ Math.round(item.lunch.caloriesPerPortion) }} kCal</small></p>
-    
+                
                 <h4>{{item.dinner.label}}</h4>
                 <p><small>{{ Math.round(item.dinner.caloriesPerPortion) }} kCal</small></p>
             </div>

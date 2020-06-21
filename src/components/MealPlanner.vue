@@ -13,7 +13,12 @@
           class="mb-0"
         >
           <b-input-group size="sm">
-            <b-form-select v-model="sortBy" id="sortBySelect" :options="sortOptions" class="w-75">
+            <b-form-select
+              v-model="sortBy"
+              id="sortBySelect"
+              :options="sortOptions"
+              class="w-75"
+            >
               <template v-slot:first>
                 <option value>-- none --</option>
               </template>
@@ -39,7 +44,9 @@
               placeholder="Type to Search"
             ></b-form-input>
             <b-input-group-append>
-              <b-button :disabled="!filter" @click="filter = ''">Clear</b-button>
+              <b-button :disabled="!filter" @click="filter = ''"
+                >Clear</b-button
+              >
             </b-input-group-append>
           </b-input-group>
         </b-form-group>
@@ -62,20 +69,25 @@
       :sort-direction="sortDirection"
       @filtered="onFiltered"
     >
-      <template v-slot:cell(name)="row">{{ row.value.first }} {{ row.value.last }}</template>
+      <template v-slot:cell(name)="row"
+        >{{ row.value.first }} {{ row.value.last }}</template
+      >
 
       <template v-slot:cell(actions)="row">
-        <b-button size="sm" @click="info(row.item, row.index, $event.target)" class="mr-1">Detail</b-button>
         <b-button
           size="sm"
-          @click="row.toggleDetails"
-        >{{ row.detailsShowing ? "Hide" : "Show" }} Details</b-button>
+          @click="info(row.item, row.index, $event.target)"
+          class="mr-1"
+          >Detail</b-button
+        >
       </template>
 
       <template v-slot:row-details="row">
         <b-card>
           <ul>
-            <li v-for="(value, key) in row.item" :key="key">{{ key }}: {{ value }}</li>
+            <li v-for="(value, key) in row.item" :key="key">
+              {{ key }}: {{ value }}
+            </li>
           </ul>
         </b-card>
       </template>
@@ -93,21 +105,35 @@
     </b-col>
 
     <!-- Info modal -->
-    <b-modal :id="infoModal.id" :title="infoModal.title" ok-only @hide="resetInfoModal">
+    <b-modal
+      :id="infoModal.id"
+      :title="infoModal.title"
+      ok-only
+      @hide="resetInfoModal"
+    >
       <h3>{{ infoModal.content }}</h3>
       <h5>Calories:</h5>
       {{ Math.round(infoModal.calories) }} kcal
-      <img :src="infoModal.image" alt="Girl in a jacket" />
+      <br />
+
+      <img :src="infoModal.image" alt="meal" />
 
       <h5>Food allergies:</h5>
-      <li v-for="(item, index) in this.infoModal.cautions" v-bind:key="index">{{ item }}</li>
+      <li v-for="(item, index) in this.infoModal.cautions" v-bind:key="index">
+        {{ item }}
+      </li>
       <h5>Fat:</h5>
       {{ Math.round(this.infoModal.fat) }} g
       <h5>Protein:</h5>
       {{ Math.round(this.infoModal.protein) }} g
-      <ph5>Carbs: {{ Math.round(this.infoModal.carbs) }} g</ph5>
+      <h5>Carbs: {{ Math.round(this.infoModal.carbs) }} g</h5>
       <h5>Ingredients:</h5>
-      <li v-for="(item, index) in this.infoModal.ingredientLines" v-bind:key="index">{{ item }}</li>
+      <li
+        v-for="(item, index) in this.infoModal.ingredientLines"
+        v-bind:key="index"
+      >
+        {{ item }}
+      </li>
     </b-modal>
   </b-container>
 </template>
@@ -118,35 +144,35 @@ import data from "../json/data.json";
 export default {
   data() {
     return {
-      items: Object.values(data).map(e => ({
+      items: Object.values(data).map((e) => ({
         ...e,
-        calories: Math.round(e.calories)
+        calories: Math.round(e.calories),
       })),
       fields: [
         {
           key: "label",
           label: "Name",
           sortable: true,
-          sortDirection: "desc"
+          sortDirection: "desc",
         },
         {
           key: "calories",
           label: "Calories",
           sortable: true,
-          class: "text-center"
+          class: "text-center",
         },
         {
           key: "mealType",
           label: "Meal type",
           sortable: true,
-          class: "text-center"
+          class: "text-center",
         },
         {
           sortable: true,
           sortByFormatted: true,
-          filterByFormatted: true
+          filterByFormatted: true,
         },
-        { key: "actions", label: "Actions" }
+        { key: "actions", label: "Actions" },
       ],
       totalRows: 1,
       currentPage: 1,
@@ -161,19 +187,19 @@ export default {
         id: "info-modal",
         title: "",
         content: "",
-        calories: ""
-      }
+        calories: "",
+      },
     };
   },
   computed: {
     sortOptions() {
       // Create an options list from our fields
       return this.fields
-        .filter(f => f.sortable)
-        .map(f => {
+        .filter((f) => f.sortable)
+        .map((f) => {
           return { text: f.label, value: f.key };
         });
-    }
+    },
   },
   mounted() {
     // Set the initial number of items
@@ -208,8 +234,8 @@ export default {
       // Trigger pagination to update the number of buttons/pages due to filtering
       this.totalRows = filteredItems.length;
       this.currentPage = 1;
-    }
-  }
+    },
+  },
 };
 </script>
 

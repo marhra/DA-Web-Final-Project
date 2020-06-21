@@ -2,13 +2,13 @@
   <header>
     <div class="header-navbar">
       <div class="navbar">
-        <router-link :to="{ path: '/' }">Home</router-link>
-        <router-link :to="{ path: '/MealPlanner' }">Meal planner</router-link>
+        <router-link :to="{ path: '/' }" class="routerlink">Home</router-link>
+        <router-link :to="{ path: '/MealPlanner' }" class="routerlink">Meal planner</router-link>
         <div class="apple">
           <img src="assets/logo_apple.png" alt="food" height="100px" />
         </div>
-        <router-link :to="{ path: 'Recipes' }">Recipes</router-link>
-        <router-link :to="{ path: 'AboutUs' }">About us</router-link>
+        <router-link :to="{ path: 'Recipes' }" class="routerlink">Recipes</router-link>
+        <router-link :to="{ path: 'AboutUs' }" class="routerlink">About us</router-link>
       </div>
     </div>
   </header>
@@ -16,7 +16,7 @@
 
 <script>
 export default {
-  name: "Header"
+  name: "Header",
 };
 </script>
 
@@ -26,11 +26,13 @@ img {
   max-height: 100%;
 }
 
+.routerlink {
+  color: green;
+}
 .header-navbar {
   width: 100%;
   padding-left: 200px;
   padding-right: 200px;
-  color: green;
 }
 
 .navbar {
@@ -38,11 +40,6 @@ img {
   justify-content: center;
   font-weight: bold;
   text-decoration: none;
-  color: green;
-}
-
-router-link {
-  color: green;
 }
 
 .apple {
