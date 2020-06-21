@@ -6,29 +6,48 @@
                 <h4>{{item.breakfast.label}}</h4>
                 <p><small>{{ Math.round(item.breakfast.caloriesPerPortion) }} kCal</small></p>
     
-                <ul>
-                    <li v-for="(ingredient, index) in item.breakfast.ingredients" v-bind:key="index">
-                        <strong>{{ingredient.text}}</strong>
-                    </li>
-                </ul>
+                <b-button v-b-toggle="'collapse-' + index" variant="primary">Show ingredients</b-button>
+                <b-collapse v-bind:id="'collapse-' + index" class="mt-2">
+                    <b-card>
+                        <ul>
+                            <li v-for="(ingredient, index) in item.breakfast.ingredients" v-bind:key="index">
+                                <strong>{{ingredient.text}}</strong>
+                            </li>
+                        </ul>
+                    </b-card>
+                </b-collapse>
                 
                 <h4>{{item.lunch.label}}</h4>
                 <p><small>{{ Math.round(item.lunch.caloriesPerPortion) }} kCal</small></p>
-                <ul>
-                    <li v-for="(ingredient, index) in item.lunch.ingredients" v-bind:key="index">
-                        <strong>{{ingredient.text}}</strong>
-                    </li>
-                </ul>
+    
+                <b-button v-b-toggle="'collapse-' + index + 1" variant="primary">Show ingredients</b-button>
+                <b-collapse v-bind:id="'collapse-' + index + 1" class="mt-2">
+                    <b-card>
+                        <ul>
+                            <li v-for="(ingredient, index) in item.lunch.ingredients" v-bind:key="index">
+                                <strong>{{ingredient.text}}</strong>
+                            </li>
+                        </ul>
+                    </b-card>
+                </b-collapse>
                 
                 <h4>{{item.dinner.label}}</h4>
                 <p><small>{{ Math.round(item.dinner.caloriesPerPortion) }} kCal</small></p>
-                <ul>
-                    <li v-for="(ingredient, index) in item.dinner.ingredients" v-bind:key="index">
-                        <strong>{{ingredient.text}}</strong>
-                    </li>
-                </ul>
+                
+                <b-button v-b-toggle="'collapse-' + index + 2" variant="primary">Show ingredients</b-button>
+                <b-collapse v-bind:id="'collapse-' + index + 2" class="mt-2">
+                    <b-card>
+                        <ul>
+                            <li v-for="(ingredient, index) in item.dinner.ingredients" v-bind:key="index">
+                                <strong>{{ingredient.text}}</strong>
+                            </li>
+                        </ul>
+                    </b-card>
+                </b-collapse>
             </div>
         </div>
+        
+        <button v-on:click="resetMenu">Clear menu</button>
         
         <router-view></router-view>
     </div>
@@ -40,6 +59,11 @@
         data: function() {
             return {
                 items: JSON.parse(localStorage.getItem('currentMenu'))
+            }
+        },
+        methods: {
+            resetMenu() {
+                localStorage.removeItem('currentMenu');
             }
         }
     };
