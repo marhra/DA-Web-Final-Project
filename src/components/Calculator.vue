@@ -112,16 +112,19 @@
         </div>
       </div>
     </div>
+    <div class="disclaimer">
+      <p>*Disclaimer: The results given by our BMR calculator should be used only as a guide and should not replace medical advice. Please bear in mind that, when interpreting the results of this BMR calculator, other factors such as your lean body mass should be considered. You should always speak to a qualified Doctor or health professional for advice and guidance before making any dramatic changes to your lifestyle.</p>
+    </div>
     <div class="link" align="center">
-<!--      <b-button v-bind:to="'/components/Recipes'">Create your meal plan</b-button>-->
+      <!--      <b-button v-bind:to="'/components/Recipes'">Create your meal plan</b-button>-->
       <b-button v-on:click="generateMenu">Generate menu</b-button>
     </div>
   </div>
 </template>
 
 <script>
-  import createMenu from '../vypocet';
-  
+import createMenu from "../vypocet";
+
 export default {
   name: "Calculator",
   data() {
@@ -167,8 +170,16 @@ export default {
     },
     generateMenu() {
       let obj = [];
-      let days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
-  
+      let days = [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ];
+
       for (let i = 0; i < 7; i++) {
         let meals = createMenu(this.goalIntake);
         let item = {
@@ -177,12 +188,12 @@ export default {
           lunch: meals.lunch,
           dinner: meals.dinner
         };
-    
+
         obj.push(item);
       }
-      localStorage.setItem('currentMenu', JSON.stringify(obj));
-      
-      this.$router.push('/Results');
+      localStorage.setItem("currentMenu", JSON.stringify(obj));
+
+      this.$router.push("/MealPlanner");
     }
   }
 };
@@ -217,6 +228,11 @@ export default {
 
 .link {
   margin: auto;
+}
+
+.disclaimer {
+  font-size: 0.8em;
+  margin: 10px 80px 20px 80px;
 }
 
 @media screen and (max-width: 992px) {
