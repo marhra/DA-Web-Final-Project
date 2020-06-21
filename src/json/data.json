@@ -8023,16 +8023,46 @@
       "½ cup shredded Monterey Jack cheese"
     ],
     "ingredients": [
-      { "text": "Cooking spray", "weight": 26.359009106555554 },
-      { "text": "1 cup instant rice (white or brown)", "weight": 195.0 },
-      { "text": "2 teaspoons olive oil", "weight": 9.0 },
-      { "text": "½ pound lean ground beef", "weight": 226.796185 },
-      { "text": "1 tablespoon chili powder", "weight": 8.0 },
-      { "text": "1 teaspoon ground cumin", "weight": 2.1 },
-      { "text": "1 teaspoon dried oregano", "weight": 1.0 },
-      { "text": "½ teaspoon garlic powder", "weight": 1.55 },
-      { "text": "½ teaspoon salt", "weight": 3.0 },
-      { "text": "¼ teaspoon freshly ground black pepper", "weight": 0.575 },
+      {
+        "text": "Cooking spray",
+        "weight": 26.359009106555554
+      },
+      {
+        "text": "1 cup instant rice (white or brown)",
+        "weight": 195.0
+      },
+      {
+        "text": "2 teaspoons olive oil",
+        "weight": 9.0
+      },
+      {
+        "text": "½ pound lean ground beef",
+        "weight": 226.796185
+      },
+      {
+        "text": "1 tablespoon chili powder",
+        "weight": 8.0
+      },
+      {
+        "text": "1 teaspoon ground cumin",
+        "weight": 2.1
+      },
+      {
+        "text": "1 teaspoon dried oregano",
+        "weight": 1.0
+      },
+      {
+        "text": "½ teaspoon garlic powder",
+        "weight": 1.55
+      },
+      {
+        "text": "½ teaspoon salt",
+        "weight": 3.0
+      },
+      {
+        "text": "¼ teaspoon freshly ground black pepper",
+        "weight": 0.575
+      },
       {
         "text": "One 15-ounce can Santa Fe corn, Fiesta Corn (Del Monte®), or regular canned corn, drained",
         "weight": 425.242846875
@@ -8041,13 +8071,22 @@
         "text": "One 15-ounce can pink beans, rinsed and drained",
         "weight": 425.242846875
       },
-      { "text": "½ cup sour cream", "weight": 115.0 },
-      { "text": "¼ cup chopped fresh cilantro", "weight": 4.0 },
+      {
+        "text": "½ cup sour cream",
+        "weight": 115.0
+      },
+      {
+        "text": "¼ cup chopped fresh cilantro",
+        "weight": 4.0
+      },
       {
         "text": "4 large red or green bell peppers, stems ends neatly cut out",
         "weight": 465.15555555555557
       },
-      { "text": "½ cup shredded Monterey Jack cheese", "weight": 56.5 }
+      {
+        "text": "½ cup shredded Monterey Jack cheese",
+        "weight": 56.5
+      }
     ],
     "calories": 2919.3897898537807,
     "totalWeight": 1964.521443412111,
@@ -8058,7 +8097,11 @@
         "quantity": 2919.3897898537807,
         "unit": "kcal"
       },
-      "FAT": { "label": "Fat", "quantity": 125.58336696851799, "unit": "g" },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 125.58336696851799,
+        "unit": "g"
+      },
       "CHOCDF": {
         "label": "Carbs",
         "quantity": 346.87522053879917,
@@ -8365,11 +8408,26 @@
       "6 tablespoons  olive oil"
     ],
     "ingredients": [
-      { "text": "1 cup  bottled chili sauce (such as Heinz)", "weight": 273.0 },
-      { "text": "3/4 cup  unsalted chicken stock", "weight": 180.0 },
-      { "text": "1/4 cup  light brown sugar", "weight": 36.25 },
-      { "text": "1/4 cup  cider vinegar", "weight": 59.75 },
-      { "text": "1/4 cup  soy sauce", "weight": 63.75 },
+      {
+        "text": "1 cup  bottled chili sauce (such as Heinz)",
+        "weight": 273.0
+      },
+      {
+        "text": "3/4 cup  unsalted chicken stock",
+        "weight": 180.0
+      },
+      {
+        "text": "1/4 cup  light brown sugar",
+        "weight": 36.25
+      },
+      {
+        "text": "1/4 cup  cider vinegar",
+        "weight": 59.75
+      },
+      {
+        "text": "1/4 cup  soy sauce",
+        "weight": 63.75
+      },
       {
         "text": "2 tablespoons  sauce from canned chipotle peppers in adobo sauce",
         "weight": 16.99999999971258
@@ -8382,12 +8440,30 @@
         "text": "1 1/2 teaspoons  kosher salt, divided",
         "weight": 7.2812500003693135
       },
-      { "text": "3 tablespoons  butter", "weight": 42.599999999999994 },
-      { "text": "1 cup  finely chopped onion", "weight": 160.0 },
-      { "text": "1/2 cup  finely chopped celery", "weight": 50.5 },
-      { "text": "6   garlic cloves, minced", "weight": 18.0 },
-      { "text": "1 1/2 pounds  85/15 ground beef", "weight": 680.388555 },
-      { "text": "1 1/2 cups  panko (Japanese breadcrumbs)", "weight": 90.0 },
+      {
+        "text": "3 tablespoons  butter",
+        "weight": 42.599999999999994
+      },
+      {
+        "text": "1 cup  finely chopped onion",
+        "weight": 160.0
+      },
+      {
+        "text": "1/2 cup  finely chopped celery",
+        "weight": 50.5
+      },
+      {
+        "text": "6   garlic cloves, minced",
+        "weight": 18.0
+      },
+      {
+        "text": "1 1/2 pounds  85/15 ground beef",
+        "weight": 680.388555
+      },
+      {
+        "text": "1 1/2 cups  panko (Japanese breadcrumbs)",
+        "weight": 90.0
+      },
       {
         "text": "1/4 cup  chopped fresh sage",
         "weight": 32.00000000054102
@@ -8608,9 +8684,18 @@
         "text": "2 tablespoons grapeseed oil",
         "weight": 27.2
       },
-      { "text": "4 cups red wine", "weight": 940.8 },
-      { "text": "1 cup peeled and chopped carrots", "weight": 128.0 },
-      { "text": "2 ribs celery, chopped", "weight": 80.0 },
+      {
+        "text": "4 cups red wine",
+        "weight": 940.8
+      },
+      {
+        "text": "1 cup peeled and chopped carrots",
+        "weight": 128.0
+      },
+      {
+        "text": "2 ribs celery, chopped",
+        "weight": 80.0
+      },
       {
         "text": "1/3 cup chopped red onion",
         "weight": 53.33333333333333
@@ -9229,6 +9314,3732 @@
         "label": "Protein",
         "quantity": 139.9192088053766,
         "unit": "g"
+      }
+    }
+  },
+  "RCPT106": {
+    "mealType": "Main dish",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8bf4fa9c71525c04494f7018e42a98d8",
+    "label": "Posole Burritos! A Slow Cooker recipes",
+    "image": "https://www.edamam.com/web-img/4e0/4e029d474b4db9409348ac963e66e536",
+    "source": "everydaysouthwest.com",
+    "url": "http://www.everydaysouthwest.com/recipes/posole-burritos-slow-cooker-recipe/",
+    "shareAs": "http://www.edamam.com/recipe/posole-burritos-a-slow-cooker-recipes-8bf4fa9c71525c04494f7018e42a98d8/pork/1000-1400-cal/balanced",
+    "yield": 4.0,
+    "dietLabels": ["Balanced"],
+    "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
+    "cautions": ["Sulfites"],
+    "ingredientLines": [
+      "2 pounds boneless pork shoulder",
+      "½ cup Coca Cola (not diet)",
+      "½ cup fresh orange juice",
+      "2 teaspoons cumin",
+      "3 tablespoons chile powder",
+      "1½ medium yellow onion, chopped, divided",
+      "3 cloves garlic, minced",
+      "2 cups vegetable or chicken stock",
+      "1 can (15 ounces) hominy, drained",
+      "2 cups cooked plain rice, or Mexican Green Rice, page ____",
+      "¼ cup cilantro, chopped",
+      "¼ cup radishes, cut in thin matchstick pieces (optional)",
+      "4 to 6 flour tortillas (12 inch diameter), warmed"
+    ],
+    "ingredients": [
+      {
+        "text": "2 pounds boneless pork shoulder",
+        "weight": 907.18474
+      },
+      {
+        "text": "½ cup Coca Cola (not diet)",
+        "weight": 122.8
+      },
+      {
+        "text": "½ cup fresh orange juice",
+        "weight": 124.0
+      },
+      {
+        "text": "2 teaspoons cumin",
+        "weight": 4.2
+      },
+      {
+        "text": "3 tablespoons chile powder",
+        "weight": 24.0
+      },
+      {
+        "text": "1½ medium yellow onion, chopped, divided",
+        "weight": 165.0
+      },
+      {
+        "text": "3 cloves garlic, minced",
+        "weight": 9.0
+      },
+      {
+        "text": "2 cups vegetable or chicken stock",
+        "weight": 480.0
+      },
+      {
+        "text": "1 can (15 ounces) hominy, drained",
+        "weight": 425.242846875
+      },
+      {
+        "text": "2 cups cooked plain rice, or Mexican Green Rice, page ____",
+        "weight": 390.0
+      },
+      {
+        "text": "¼ cup cilantro, chopped",
+        "weight": 4.0
+      },
+      {
+        "text": "¼ cup radishes, cut in thin matchstick pieces (optional)",
+        "weight": 29.0
+      },
+      {
+        "text": "4 to 6 flour tortillas (12 inch diameter), warmed",
+        "weight": 245.0
+      }
+    ],
+    "calories": 5021.216836150001,
+    "totalWeight": 2929.427586875,
+    "totalTime": 55.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 5021.216836150001,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 198.43257177849998,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 565.662089964375,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 227.24961246575,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT116": {
+    "mealType": "Main dish",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_e2378eb00ffb2e263264e4ac354f1604",
+    "label": "Sardinian pasta shells with Italian sausage and ragu recipes",
+    "image": "https://www.edamam.com/web-img/226/2262f7a1a802e90835d79865bcd986f7",
+    "source": "shows.stv.tv",
+    "url": "http://shows.stv.tv/talk-tv/1332360-ginos-italian-escape-sardinian-pasta-shells-with-italian-sausage-and-ragu/",
+    "shareAs": "http://www.edamam.com/recipe/sardinian-pasta-shells-with-italian-sausage-and-ragu-recipes-e2378eb00ffb2e263264e4ac354f1604/pork/1000-1400-cal/balanced",
+    "yield": 4.0,
+    "dietLabels": ["Balanced"],
+    "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
+    "cautions": ["Sulfites", "FODMAP"],
+    "ingredientLines": [
+      "4 tablespoons extra virgin olive oil",
+      "1 celery stick, finely chopped",
+      "1 onion, peeled and finely chopped",
+      "1 carrot, peeled and finely chopped",
+      "1 tablespoon chopped fresh rosemary",
+      "400g coarse, Italian-style pork sausages, skin removed",
+      "2 tablespoons tomato puree",
+      "2 x 400g tins of chopped tomatoes",
+      "500g home-made Sardinian pasta shells (see page 42)",
+      "10 fresh basil leaves, shredded",
+      "80g freshly grated pecorino sardo",
+      "salt",
+      "freshly ground black pepper"
+    ],
+    "ingredients": [
+      {
+        "text": "4 tablespoons extra virgin olive oil",
+        "weight": 54.0
+      },
+      {
+        "text": "1 celery stick, finely chopped",
+        "weight": 40.0
+      },
+      {
+        "text": "1 onion, peeled and finely chopped",
+        "weight": 125.0
+      },
+      {
+        "text": "1 carrot, peeled and finely chopped",
+        "weight": 61.0
+      },
+      {
+        "text": "1 tablespoon chopped fresh rosemary",
+        "weight": 1.7
+      },
+      {
+        "text": "400g coarse, Italian-style pork sausages, skin removed",
+        "weight": 400.0
+      },
+      {
+        "text": "2 tablespoons tomato puree",
+        "weight": 30.2499999994886
+      },
+      {
+        "text": "2 x 400g tins of chopped tomatoes",
+        "weight": 800.0
+      },
+      {
+        "text": "500g home-made Sardinian pasta shells (see page 42)",
+        "weight": 500.0
+      },
+      {
+        "text": "10 fresh basil leaves, shredded",
+        "weight": 5.0
+      },
+      {
+        "text": "80g freshly grated pecorino sardo",
+        "weight": 80.0
+      },
+      {
+        "text": "salt",
+        "weight": 12.581699999996932
+      },
+      {
+        "text": "freshly ground black pepper",
+        "weight": 6.290849999998466
+      }
+    ],
+    "calories": 4028.2170334998323,
+    "totalWeight": 2103.240849999487,
+    "totalTime": 45.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 4028.2170334998323,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 184.98280170999854,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 433.1534235749617,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 162.02178931499142,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT107": {
+    "mealType": "Main dish",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5f1d929666cde545a73686c2fb37604b",
+    "label": "Pad See-Ew recipes",
+    "image": "https://www.edamam.com/web-img/7aa/7aaa7000515ebf2159e01fd2fcc95d92",
+    "source": "12tomatoes.com",
+    "url": "http://12tomatoes.com/cs-pad-see-ew-how/",
+    "shareAs": "http://www.edamam.com/recipe/pad-see-ew-recipes-5f1d929666cde545a73686c2fb37604b/pork/1000-1400-cal/balanced",
+    "yield": 2.0,
+    "dietLabels": ["Balanced"],
+    "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
+    "cautions": ["Sulfites"],
+    "ingredientLines": [
+      "1/3 cup plain vegetable oil",
+      "12 ounces fresh, flat wide rice noodles, cut into strips (do not use dried noodles)",
+      "1  large egg",
+      "2 tablespoons sweet dark soy sauce",
+      "2 tablespoons oyster sauce",
+      "3 teaspoons light soy sauce, divided",
+      "2 teaspoons sugar",
+      "2 teaspoons white vinegar",
+      "1  clove garlic, peeled and minced",
+      "1/2 teaspoon baking soda",
+      "1 1/2 cups pork, cut into thin strips",
+      "1 1/2 cups Chinese broccoli or regular broccoli, cut into florets"
+    ],
+    "ingredients": [
+      {
+        "text": "1/3 cup plain vegetable oil",
+        "weight": 74.66666666792905
+      },
+      {
+        "text": "12 ounces fresh, flat wide rice noodles, cut into strips (do not use dried noodles)",
+        "weight": 340.1942775
+      },
+      {
+        "text": "1  large egg",
+        "weight": 50.0
+      },
+      {
+        "text": "2 tablespoons sweet dark soy sauce",
+        "weight": 32.0
+      },
+      {
+        "text": "2 tablespoons oyster sauce",
+        "weight": 36.0
+      },
+      {
+        "text": "3 teaspoons light soy sauce, divided",
+        "weight": 13.5
+      },
+      {
+        "text": "2 teaspoons sugar",
+        "weight": 8.4
+      },
+      {
+        "text": "2 teaspoons white vinegar",
+        "weight": 10.0
+      },
+      {
+        "text": "1  clove garlic, peeled and minced",
+        "weight": 3.0
+      },
+      {
+        "text": "1/2 teaspoon baking soda",
+        "weight": 2.3
+      },
+      {
+        "text": "1 1/2 cups pork, cut into thin strips",
+        "weight": 202.5
+      },
+      {
+        "text": "1 1/2 cups Chinese broccoli or regular broccoli, cut into florets",
+        "weight": 136.5
+      }
+    ],
+    "calories": 2567.0523589444924,
+    "totalWeight": 909.060944167929,
+    "totalTime": 60.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 2567.0523589444924,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 120.83374258892904,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 267.53763157425004,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 102.777659694,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT108": {
+    "mealType": "Main dish",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2d071ff95c466a5334fc451a40d5f249",
+    "label": "Arroz A La Cubana",
+    "image": "https://www.edamam.com/web-img/551/5514a437be84c36a521c3b3423f9cb36.jpg",
+    "source": "justonecookbook.com",
+    "url": "http://justonecookbook.com/recipes/arroz-a-la-cubana/",
+    "shareAs": "http://www.edamam.com/recipe/arroz-a-la-cubana-2d071ff95c466a5334fc451a40d5f249/pork/1000-1400-cal/balanced",
+    "yield": 3.0,
+    "dietLabels": ["Balanced"],
+    "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
+    "cautions": ["Sulfites", "FODMAP"],
+    "ingredientLines": [
+      "2 Tbsp. olive oil",
+      "1 clove garlic, sliced",
+      "1 bay leaf",
+      "1/2 large onion, chopped",
+      "1/2 lb ground beef",
+      "1/2 lb ground pork",
+      "1/2 carrot, chopped",
+      "1/2 red bell pepper, sliced",
+      "1/2 zucchini, chopped",
+      "6 mushrooms",
+      "1 can (15oz/425g) tomato sauce",
+      "1 pc. Plantain, sliced (I use nice firm yellow banana)",
+      "3-4 eggs",
+      "2 Tbsp. oyster sauce",
+      "1 Tbsp. soy sauce",
+      "2 Tbsp. raisins",
+      "3-4 serving cooked/steamed rice",
+      "Fresh parsley"
+    ],
+    "ingredients": [
+      {
+        "text": "2 Tbsp. olive oil",
+        "weight": 27.0
+      },
+      {
+        "text": "1 clove garlic, sliced",
+        "weight": 3.0
+      },
+      {
+        "text": "1 bay leaf",
+        "weight": 0.6
+      },
+      {
+        "text": "1/2 large onion, chopped",
+        "weight": 75.0
+      },
+      {
+        "text": "1/2 lb ground beef",
+        "weight": 226.796185
+      },
+      {
+        "text": "1/2 lb ground pork",
+        "weight": 226.796185
+      },
+      {
+        "text": "1/2 carrot, chopped",
+        "weight": 30.5
+      },
+      {
+        "text": "1/2 red bell pepper, sliced",
+        "weight": 59.5
+      },
+      {
+        "text": "1/2 zucchini, chopped",
+        "weight": 98.0
+      },
+      {
+        "text": "6 mushrooms",
+        "weight": 108.0
+      },
+      {
+        "text": "1 can (15oz/425g) tomato sauce",
+        "weight": 425.242846875
+      },
+      {
+        "text": "1 pc. Plantain, sliced (I use nice firm yellow banana)",
+        "weight": 179.0
+      },
+      {
+        "text": "3-4 eggs",
+        "weight": 150.5
+      },
+      {
+        "text": "2 Tbsp. oyster sauce",
+        "weight": 36.0
+      },
+      {
+        "text": "1 Tbsp. soy sauce",
+        "weight": 16.0
+      },
+      {
+        "text": "2 Tbsp. raisins",
+        "weight": 18.12499999969356
+      },
+      {
+        "text": "3-4 serving cooked/steamed rice",
+        "weight": 700.0
+      },
+      {
+        "text": "Fresh parsley",
+        "weight": 23.800602168746938
+      }
+    ],
+    "calories": 3054.189526479833,
+    "totalWeight": 2403.8608190434406,
+    "totalTime": 0.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 3054.189526479833,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 140.1531868992567,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 320.04001828610154,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 131.89569053940238,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT109": {
+    "mealType": "Main dish",
+    "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_b8b59f7d67816e48f0e810b5119c8296",
+    "label": "Sweet and sour meatballs",
+    "image": "https://www.edamam.com/web-img/9d0/9d012b17029f039be3e3eef164e1553c.jpg",
+    "source": "womensweeklyfood.com.au",
+    "url": "https://www.womensweeklyfood.com.au/recipes/sweet-and-sour-meatballs-21413",
+    "shareAs": "http://www.edamam.com/recipe/sweet-and-sour-meatballs-b8b59f7d67816e48f0e810b5119c8296/pork/1000-1400-cal/balanced",
+    "yield": 6.0,
+    "dietLabels": ["Balanced"],
+    "healthLabels": ["Tree-Nut-Free", "Alcohol-Free"],
+    "cautions": ["Sulfites", "FODMAP"],
+    "ingredientLines": [
+      "800 gram pork mince",
+      "1/3 cup packaged dried breadcrumbs",
+      "1 egg, lightly beaten",
+      "1/2 cup sesame seeds",
+      "1/4 cup vegetable or peanut oil",
+      "2 medium red capsicums, coarsely chopped",
+      "440 gram can pineapple pieces in unsweetened juice, juice reserved",
+      "2/3 cup sweet chilli sauce",
+      "1/2 cup honey",
+      "1/2 cup lemon juice",
+      "650 gram fresh rice noodles",
+      "3 baby bok choy, shredded",
+      "200 gram snow peas, trimmed, thinly sliced lengthwise",
+      "1/3 cup coarsely chopped coriander",
+      "salt and pepper, to season"
+    ],
+    "ingredients": [
+      {
+        "text": "800 gram pork mince",
+        "weight": 800.0
+      },
+      {
+        "text": "1/3 cup packaged dried breadcrumbs",
+        "weight": 36.0
+      },
+      {
+        "text": "1 egg, lightly beaten",
+        "weight": 43.0
+      },
+      {
+        "text": "1/2 cup sesame seeds",
+        "weight": 72.0
+      },
+      {
+        "text": "1/4 cup vegetable or peanut oil",
+        "weight": 54.0
+      },
+      {
+        "text": "2 medium red capsicums, coarsely chopped",
+        "weight": 238.0
+      },
+      {
+        "text": "440 gram can pineapple pieces in unsweetened juice, juice reserved",
+        "weight": 440.0
+      },
+      {
+        "text": "2/3 cup sweet chilli sauce",
+        "weight": 150.39999999237153
+      },
+      {
+        "text": "1/2 cup honey",
+        "weight": 169.5
+      },
+      {
+        "text": "1/2 cup lemon juice",
+        "weight": 122.0
+      },
+      {
+        "text": "650 gram fresh rice noodles",
+        "weight": 650.0
+      },
+      {
+        "text": "3 baby bok choy, shredded",
+        "weight": 227.99999999999974
+      },
+      {
+        "text": "200 gram snow peas, trimmed, thinly sliced lengthwise",
+        "weight": 200.0
+      },
+      {
+        "text": "1/3 cup coarsely chopped coriander",
+        "weight": 26.666666667117518
+      },
+      {
+        "text": "salt and pepper, to season",
+        "weight": 19.377399999956932
+      },
+      {
+        "text": "salt and pepper, to season",
+        "weight": 9.688699999978466
+      }
+    ],
+    "calories": 6763.519303667117,
+    "totalWeight": 3243.209493541472,
+    "totalTime": 45.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 6763.519303667117,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 276.8774982867178,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 861.5501236501008,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 214.92746259668127,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT110": {
+    "mealType": "Main dish",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_6b01a1071945c44f5161869525cd7434",
+    "label": "Mac and Trees recipes",
+    "image": "https://www.edamam.com/web-img/9ad/9ade5a6927f4963248653d5f70396763",
+    "source": "mixandmatchmama.blogspot.com",
+    "url": "http://mixandmatchmama.blogspot.com/2011/10/dinner-tonight-mac-and-trees.html",
+    "shareAs": "http://www.edamam.com/recipe/mac-and-trees-recipes-6b01a1071945c44f5161869525cd7434/pork/1000-1400-cal/balanced",
+    "yield": 4.0,
+    "dietLabels": ["Balanced"],
+    "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
+    "cautions": ["Sulfites"],
+    "ingredientLines": [
+      "1 pound penne pasta (I always use whole wheat pasta.  Always.  It has so much more nutrition, but thats your call.)",
+      "2 large heads of broccoli trimmed and cut into florets",
+      "3 tablespoons extra virgin olive oil (EVOO)",
+      "6 slices of turkey bacon, chopped (or pork bacon or simply omit altogether)",
+      "1 shallot, chopped",
+      "3 cloves of garlic, chopped",
+      "3 tablespoons flour",
+      "1/2 cup chicken stock",
+      "2 cups milk",
+      "2 cups cheddar cheese (I always use sharp)"
+    ],
+    "ingredients": [
+      {
+        "text": "1 pound penne pasta (I always use whole wheat pasta.  Always.  It has so much more nutrition, but thats your call.)",
+        "weight": 453.59237
+      },
+      {
+        "text": "2 large heads of broccoli trimmed and cut into florets",
+        "weight": 1520.0
+      },
+      {
+        "text": "3 tablespoons extra virgin olive oil (EVOO)",
+        "weight": 40.5
+      },
+      {
+        "text": "6 slices of turkey bacon, chopped (or pork bacon or simply omit altogether)",
+        "weight": 96.0
+      },
+      {
+        "text": "1 shallot, chopped",
+        "weight": 59.111111111111114
+      },
+      {
+        "text": "3 cloves of garlic, chopped",
+        "weight": 9.0
+      },
+      {
+        "text": "3 tablespoons flour",
+        "weight": 23.437499999603745
+      },
+      {
+        "text": "1/2 cup chicken stock",
+        "weight": 120.0
+      },
+      {
+        "text": "2 cups milk",
+        "weight": 488.0
+      },
+      {
+        "text": "2 cups cheddar cheese (I always use sharp)",
+        "weight": 264.0
+      }
+    ],
+    "calories": 4326.690192698557,
+    "totalWeight": 3073.6409811107155,
+    "totalTime": 35.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 4326.690192698557,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 176.14464339810723,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 503.8438455953642,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 203.64771657573684,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT111": {
+    "mealType": "Main dish",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ad99af35cb1df7a6580c07f4b6ba4000",
+    "label": "Hibachi Style Fried Rice recipes",
+    "image": "https://www.edamam.com/web-img/88f/88f804923a10d2dc4ce41e55c0f05785",
+    "source": "jennifercooks.com",
+    "url": "http://jennifercooks.com/hibachi-style-fried-rice/",
+    "shareAs": "http://www.edamam.com/recipe/hibachi-style-fried-rice-recipes-ad99af35cb1df7a6580c07f4b6ba4000/pork/1000-1400-cal/balanced",
+    "yield": 5.0,
+    "dietLabels": ["Balanced"],
+    "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
+    "cautions": ["Soy", "Sulfites"],
+    "ingredientLines": [
+      "4 cups cooked short grain rice (preferably leftover, cold)",
+      "8 tablespoons margarine",
+      "2 cloves garlic",
+      "2 tablespoons canola or vegetable oil",
+      "2 chicken breasts, small cubes (can use steak, shrimp, pork or ham instead if desired)",
+      "4 eggs, beaten",
+      "2 cups zucchini, medium dice",
+      "1 cup diced onion",
+      "1 cup finely diced carrot",
+      "16 ounces sliced cremini mushrooms",
+      "4 green onions, thinly sliced",
+      "¼ cup soy sauce",
+      "1 teaspoon sesame oil",
+      "1 tablespoon sesame seeds, toasted",
+      "salt",
+      "pepper"
+    ],
+    "ingredients": [
+      {
+        "text": "4 cups cooked short grain rice (preferably leftover, cold)",
+        "weight": 780.0
+      },
+      {
+        "text": "8 tablespoons margarine",
+        "weight": 112.0
+      },
+      {
+        "text": "2 cloves garlic",
+        "weight": 6.0
+      },
+      {
+        "text": "2 tablespoons canola or vegetable oil",
+        "weight": 28.0
+      },
+      {
+        "text": "2 chicken breasts, small cubes (can use steak, shrimp, pork or ham instead if desired)",
+        "weight": 392.0
+      },
+      {
+        "text": "4 eggs, beaten",
+        "weight": 172.0
+      },
+      {
+        "text": "2 cups zucchini, medium dice",
+        "weight": 248.0
+      },
+      {
+        "text": "1 cup diced onion",
+        "weight": 160.0
+      },
+      {
+        "text": "1 cup finely diced carrot",
+        "weight": 122.0
+      },
+      {
+        "text": "16 ounces sliced cremini mushrooms",
+        "weight": 453.59237
+      },
+      {
+        "text": "4 green onions, thinly sliced",
+        "weight": 60.0
+      },
+      {
+        "text": "¼ cup soy sauce",
+        "weight": 63.75
+      },
+      {
+        "text": "1 teaspoon sesame oil",
+        "weight": 4.5
+      },
+      {
+        "text": "1 tablespoon sesame seeds, toasted",
+        "weight": 9.0
+      },
+      {
+        "text": "salt",
+        "weight": 15.66505422
+      },
+      {
+        "text": "pepper",
+        "weight": 7.83252711
+      }
+    ],
+    "calories": 5376.2274644461,
+    "totalWeight": 2621.7146735486945,
+    "totalTime": 40.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 5376.2274644461,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 209.744607753786,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 691.3731479968449,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 172.565958816729,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT112": {
+    "mealType": "Main dish",
+    "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_c6bc15e12af62519f64f92d9979bed5c",
+    "label": "Butternut Squash Bolognese",
+    "image": "https://www.edamam.com/web-img/1ec/1ec4df8bc39ea9ddd86b98f2b8812a22.jpg",
+    "source": "tastykitchen.com",
+    "url": "https://tastykitchen.com/recipes/main-courses/butternut-squash-bolognese/",
+    "shareAs": "http://www.edamam.com/recipe/butternut-squash-bolognese-c6bc15e12af62519f64f92d9979bed5c/pork/1000-1400-cal/balanced",
+    "yield": 6.0,
+    "dietLabels": ["Balanced"],
+    "healthLabels": ["Peanut-Free", "Tree-Nut-Free"],
+    "cautions": ["Sulfites", "FODMAP"],
+    "ingredientLines": [
+      "¼ cups Extra Virgin Olive Oil",
+      "2 cups Butternut Squash, Cubed",
+      "1 cup Onion, Diced",
+      "3 stalks Celery, Diced",
+      "4 cloves Fresh Garlic, Chopped",
+      "4 ounces, weight Pancetta Or Bacon, Diced",
+      "1-½ pound Ground Veal,Beef, Pork Mixture",
+      "4 pinches Salt To Taste",
+      "2 pinches Freshly Ground Pepper, to taste",
+      "1 can (28 Oz. Size) Crushed Tomatoes",
+      "1 cup Red Wine",
+      "½ cups Heavy Cream",
+      "¼ teaspoons Thyme",
+      "½ teaspoons Oregano",
+      "8 pieces Basil, Chopped",
+      "1-½ pound Pasta",
+      "3 Tablespoons Butter (optional)"
+    ],
+    "ingredients": [
+      {
+        "text": "¼ cups Extra Virgin Olive Oil",
+        "weight": 54.0
+      },
+      {
+        "text": "2 cups Butternut Squash, Cubed",
+        "weight": 280.0
+      },
+      {
+        "text": "1 cup Onion, Diced",
+        "weight": 160.0
+      },
+      {
+        "text": "3 stalks Celery, Diced",
+        "weight": 120.0
+      },
+      {
+        "text": "4 cloves Fresh Garlic, Chopped",
+        "weight": 12.0
+      },
+      {
+        "text": "4 ounces, weight Pancetta Or Bacon, Diced",
+        "weight": 113.3980925
+      },
+      {
+        "text": "1-½ pound Ground Veal, Beef, Pork Mixture",
+        "weight": 680.388555
+      },
+      {
+        "text": "2 pinches Freshly Ground Pepper, to taste",
+        "weight": 0.2875000003694182
+      },
+      {
+        "text": "1 can (28 Oz. Size) Crushed Tomatoes",
+        "weight": 793.7866475000001
+      },
+      {
+        "text": "1 cup Red Wine",
+        "weight": 235.2
+      },
+      {
+        "text": "½ cups Heavy Cream",
+        "weight": 119.0
+      },
+      {
+        "text": "¼ teaspoons Thyme",
+        "weight": 0.2
+      },
+      {
+        "text": "½ teaspoons Oregano",
+        "weight": 0.5
+      },
+      {
+        "text": "8 pieces Basil, Chopped",
+        "weight": 16.0
+      },
+      {
+        "text": "1-½ pound Pasta",
+        "weight": 680.388555
+      },
+      {
+        "text": "3 Tablespoons Butter (optional)",
+        "weight": 42.599999999999994
+      }
+    ],
+    "calories": 6224.573275875929,
+    "totalWeight": 3309.270183335631,
+    "totalTime": 105.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 6224.573275875929,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 276.520445425762,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 633.0576124554864,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 260.0677398715384,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT113": {
+    "mealType": "Main dish",
+    "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_3938f8577d426311266bc7d9b88f2778",
+    "label": "Penne & Sausages A La Vodka",
+    "image": "https://www.edamam.com/web-img/cad/cadb47f254439a75b1006b7ff4dbc92a.jpg",
+    "source": "recipezaar.com",
+    "url": "http://www.recipezaar.com/Penne-Sausages-a-La-Vodka-52417",
+    "shareAs": "http://www.edamam.com/recipe/penne-sausages-a-la-vodka-3938f8577d426311266bc7d9b88f2778/pork/1000-1400-cal/balanced",
+    "yield": 4.0,
+    "dietLabels": ["Balanced"],
+    "healthLabels": ["Peanut-Free", "Tree-Nut-Free"],
+    "cautions": ["Wheat", "Sulfites", "FODMAP"],
+    "ingredientLines": [
+      "1/3 cup vodka",
+      "1 lb penne",
+      "1 tablespoon parsley , finely chopped",
+      "1 (14 ounce) can tomato sauce",
+      "1/3 cup freshly grated parmesan cheese",
+      "1/2 teaspoon white pepper",
+      "3 garlic cloves , minced",
+      "1 lb Italian pork sausage (sweet or spicy)",
+      "1 large onion , diced",
+      "1/2 teaspoon cumin",
+      "1 tablespoon olive oil",
+      "1 medium zucchini , cut into strips",
+      "1/4 teaspoon nutmeg",
+      "1/2 cup half-and-half cream",
+      "1 medium red pepper, seeded & cut into strips",
+      "2 tablespoons butter",
+      "1 teaspoon salt"
+    ],
+    "ingredients": [
+      {
+        "text": "1/3 cup vodka",
+        "weight": 74.13333333333334
+      },
+      {
+        "text": "1 lb penne",
+        "weight": 453.59237
+      },
+      {
+        "text": "1 tablespoon parsley , finely chopped",
+        "weight": 3.8
+      },
+      {
+        "text": "1 (14 ounce) can tomato sauce",
+        "weight": 396.89332375000004
+      },
+      {
+        "text": "1/3 cup freshly grated parmesan cheese",
+        "weight": 49.56875
+      },
+      {
+        "text": "1/2 teaspoon white pepper",
+        "weight": 1.2
+      },
+      {
+        "text": "3 garlic cloves , minced",
+        "weight": 9.0
+      },
+      {
+        "text": "1 lb Italian pork sausage (sweet or spicy)",
+        "weight": 453.59237
+      },
+      {
+        "text": "1 large onion , diced",
+        "weight": 150.0
+      },
+      {
+        "text": "1/2 teaspoon cumin",
+        "weight": 1.05
+      },
+      {
+        "text": "1 tablespoon olive oil",
+        "weight": 13.5
+      },
+      {
+        "text": "1 medium zucchini , cut into strips",
+        "weight": 196.0
+      },
+      {
+        "text": "1/4 teaspoon nutmeg",
+        "weight": 0.55
+      },
+      {
+        "text": "1/2 cup half-and-half cream",
+        "weight": 119.0
+      },
+      {
+        "text": "1 medium red pepper, seeded & cut into strips",
+        "weight": 119.0
+      },
+      {
+        "text": "2 tablespoons butter",
+        "weight": 28.4
+      },
+      {
+        "text": "1 teaspoon salt",
+        "weight": 6.0
+      }
+    ],
+    "calories": 4334.3326923,
+    "totalWeight": 2069.2801470833333,
+    "totalTime": 0.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 4334.3326923,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 215.47716216925,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 400.9802959611251,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 160.25892532700001,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT114": {
+    "mealType": "Main dish",
+    "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_bf76991a829523456854b67893c114b8",
+    "label": "The Best Swedish Meatballs and Gravy recipes",
+    "image": "https://www.edamam.com/web-img/ead/ead48e03afc7951e78c4dd9f95f7af49",
+    "source": "thestayathomechef.com",
+    "url": "http://thestayathomechef.com/the-best-swedish-meatballs-and-gravy/",
+    "shareAs": "http://www.edamam.com/recipe/the-best-swedish-meatballs-and-gravy-recipes-bf76991a829523456854b67893c114b8/pork/1000-1400-cal/balanced",
+    "yield": 5.0,
+    "dietLabels": ["Balanced"],
+    "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
+    "cautions": ["Sulfites", "FODMAP"],
+    "ingredientLines": [
+      "1 lb. ground beef (85-90%)",
+      "1 lb. ground pork",
+      "1/2 cup panko bread crumbs",
+      "1/4 cup Worcestershire sauce",
+      "2 egg yolks",
+      "1/2 tsp ground allspice",
+      "1/2 tsp ground nutmeg",
+      "1/2 tsp salt",
+      "1/2 tsp black pepper",
+      "1/4 cup butter",
+      "1/2 cup all-purpose flour",
+      "1/4 tsp ground nutmeg",
+      "1/4 tsp ground allspice",
+      "4 cups beef broth",
+      "1/4 cup Worcestershire sauce",
+      "2/3 cup sour cream",
+      "salt",
+      "pepper",
+      "fresh parsley",
+      "1 lb. egg noodles",
+      "2 cups white rice"
+    ],
+    "ingredients": [
+      {
+        "text": "1 lb. ground beef (85-90%)",
+        "weight": 453.59237
+      },
+      {
+        "text": "1 lb. ground pork",
+        "weight": 453.59237
+      },
+      {
+        "text": "1/2 cup panko bread crumbs",
+        "weight": 30.0
+      },
+      {
+        "text": "1/4 cup Worcestershire sauce",
+        "weight": 68.75
+      },
+      {
+        "text": "2 egg yolks",
+        "weight": 26.933333333333334
+      },
+      {
+        "text": "1/2 tsp ground allspice",
+        "weight": 0.95
+      },
+      {
+        "text": "1/2 tsp ground nutmeg",
+        "weight": 1.1
+      },
+      {
+        "text": "1/2 tsp salt",
+        "weight": 3.0
+      },
+      {
+        "text": "1/2 tsp black pepper",
+        "weight": 1.45
+      },
+      {
+        "text": "1/4 cup butter",
+        "weight": 56.75
+      },
+      {
+        "text": "1/2 cup all-purpose flour",
+        "weight": 62.5
+      },
+      {
+        "text": "1/4 tsp ground nutmeg",
+        "weight": 0.55
+      },
+      {
+        "text": "1/4 tsp ground allspice",
+        "weight": 0.475
+      },
+      {
+        "text": "4 cups beef broth",
+        "weight": 960.0
+      },
+      {
+        "text": "1/4 cup Worcestershire sauce",
+        "weight": 68.75
+      },
+      {
+        "text": "2/3 cup sour cream",
+        "weight": 153.33333333333331
+      },
+      {
+        "text": "salt",
+        "weight": 19.111912659999998
+      },
+      {
+        "text": "pepper",
+        "weight": 9.555956329999999
+      },
+      {
+        "text": "fresh parsley",
+        "weight": 31.853187766666665
+      },
+      {
+        "text": "1 lb. egg noodles",
+        "weight": 453.59237
+      },
+      {
+        "text": "2 cups white rice",
+        "weight": 390.0
+      }
+    ],
+    "calories": 6896.475768350967,
+    "totalWeight": 3232.601160669919,
+    "totalTime": 55.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 6896.475768350967,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 296.43677862404803,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 755.9850996243317,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 282.8748342830237,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT115": {
+    "mealType": "Main dish",
+    "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_e9acb6826ac13637a1dce8d90790c219",
+    "label": "Sweet and Sour Meatballs recipes",
+    "image": "https://www.edamam.com/web-img/111/111e8833ee47fe93af6e73bdff760bb0",
+    "source": "recipes-plus.com",
+    "url": "http://recipes-plus.com/recipe/sweet-sour-meatballs-23600",
+    "shareAs": "http://www.edamam.com/recipe/sweet-and-sour-meatballs-recipes-e9acb6826ac13637a1dce8d90790c219/pork/1000-1400-cal/balanced",
+    "yield": 6.0,
+    "dietLabels": ["Balanced"],
+    "healthLabels": ["Tree-Nut-Free", "Alcohol-Free"],
+    "cautions": ["Sulfites"],
+    "ingredientLines": [
+      "1 3/4 lbs ground pork",
+      "1/3 cup dried breadcrumbs",
+      "1 egg, lightly beaten",
+      "1/2 cup sesame seeds",
+      "1/4 cup vegetable or peanut oil",
+      "2 medium red peppers, seeded and coarsely chopped",
+      "1 can (15 oz) pineapple chunk in juice, drained, juice reserved",
+      "2/3 cup sweet chili sauce",
+      "1/2 cup honey",
+      "1/2 cup lemon juice",
+      "1 1/2 lbs fresh rice noodles",
+      "3 baby bok choy, shredded",
+      "7 oz sugar snap peas, trimmed, thinly sliced lengthwise",
+      "1/3 cup coarsely chopped cilantro"
+    ],
+    "ingredients": [
+      {
+        "text": "1 3/4 lbs ground pork",
+        "weight": 793.7866475000001
+      },
+      {
+        "text": "1/3 cup dried breadcrumbs",
+        "weight": 36.0
+      },
+      {
+        "text": "1 egg, lightly beaten",
+        "weight": 43.0
+      },
+      {
+        "text": "1/2 cup sesame seeds",
+        "weight": 72.0
+      },
+      {
+        "text": "1/4 cup vegetable or peanut oil",
+        "weight": 54.0
+      },
+      {
+        "text": "2 medium red peppers, seeded and coarsely chopped",
+        "weight": 238.0
+      },
+      {
+        "text": "1 can (15 oz)pineapple chunks in juice, drained, juice reserved",
+        "weight": 425.242846875
+      },
+      {
+        "text": "2/3 cup sweet chili sauce",
+        "weight": 182.0
+      },
+      {
+        "text": "1/2 cup honey",
+        "weight": 169.5
+      },
+      {
+        "text": "1/2 cup lemon juice",
+        "weight": 122.0
+      },
+      {
+        "text": "1 1/2 lbs fresh rice noodles",
+        "weight": 680.388555
+      },
+      {
+        "text": "3 baby bok choy, shredded",
+        "weight": 227.99999999999974
+      },
+      {
+        "text": "7 oz sugar snap peas, trimmed, thinly sliced lengthwise",
+        "weight": 198.44666187500002
+      },
+      {
+        "text": "1/3 cup coarsely chopped cilantro",
+        "weight": 5.333333333333333
+      }
+    ],
+    "calories": 6796.738911216667,
+    "totalWeight": 3247.698044583333,
+    "totalTime": 45.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 6796.738911216667,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 270.71698458658346,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 865.4318612138959,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 215.99082302612504,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT117": {
+    "mealType": "Main dish",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7641087e931e0ebfc1ca982d07e2579c",
+    "label": "Sheet-Pan Skirt Steak with Balsamic Vinaigrette, Broccolini, and White Beans recipes",
+    "image": "https://www.edamam.com/web-img/a13/a13a0fcef9bab5260ed67e8e2469ac21",
+    "source": "Epicurious",
+    "url": "http://www.epicurious.com/recipes/food/views/sheet-pan-skirt-steak-with-balsamic-vinaigrette-broccolini-and-white-beans-56390002",
+    "shareAs": "http://www.edamam.com/recipe/sheet-pan-skirt-steak-with-balsamic-vinaigrette-broccolini-and-white-beans-recipes-7641087e931e0ebfc1ca982d07e2579c/beans/1000-1400-cal",
+    "yield": 4.0,
+    "dietLabels": ["Low-Carb"],
+    "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
+    "cautions": ["Sulfites"],
+    "ingredientLines": [
+      "4 garlic cloves, divided",
+      "1/2 cup balsamic vinegar",
+      "3 tablespoons Dijon mustard",
+      "1/2 cup plus 2 tablespoons extra-virgin olive oil, divided",
+      "2 tablespoons chopped fresh oregano leaves, divided",
+      "1 1/2 teaspoons kosher salt, divided",
+      "3/4 teaspoon freshly ground black pepper, divided",
+      "1 (1 1/2-pound) skirt steak, cut crosswise into 2 equal pieces",
+      "1 (1 1/2-pound) skirt steak, cut crosswise into 2 equal pieces",
+      "1 bunch broccolini (about 10 ounces), trimmed, halved lengthwise (quartered lengthwise if large)",
+      "1 (15-ounce) can white beans, rinsed, drained"
+    ],
+    "ingredients": [
+      {
+        "text": "4 garlic cloves, divided",
+        "weight": 12.0
+      },
+      {
+        "text": "1/2 cup balsamic vinegar",
+        "weight": 127.5
+      },
+      {
+        "text": "3 tablespoons Dijon mustard",
+        "weight": 46.6874999992107
+      },
+      {
+        "text": "1/2 cup plus 2 tablespoons extra-virgin olive oil, divided",
+        "weight": 108.0
+      },
+      {
+        "text": "1/2 cup plus 2 tablespoons extra-virgin olive oil, divided",
+        "weight": 27.0
+      },
+      {
+        "text": "2 tablespoons chopped fresh oregano leaves, divided",
+        "weight": 5.999999999594229
+      },
+      {
+        "text": "1 1/2 teaspoons kosher salt, divided",
+        "weight": 7.2812500003693135
+      },
+      {
+        "text": "3/4 teaspoon freshly ground black pepper, divided",
+        "weight": 1.7249999999999999
+      },
+      {
+        "text": "1 (1 1/2-pound) skirt steak, cut crosswise into 2 equal pieces",
+        "weight": 680.388555
+      },
+      {
+        "text": "1 (1 1/2-pound) skirt steak, cut crosswise into 2 equal pieces",
+        "weight": 680.388555
+      },
+      {
+        "text": "1 bunch broccolini (about 10 ounces), trimmed, halved lengthwise (quartered lengthwise if large)",
+        "weight": 283.49523125
+      },
+      {
+        "text": "1 (15-ounce) can white beans, rinsed, drained",
+        "weight": 425.242846875
+      }
+    ],
+    "calories": 4579.867684915951,
+    "totalWeight": 2405.7089381241744,
+    "totalTime": 70.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 4579.867684915951,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 311.38277562293877,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 142.61623564217433,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 312.962655587649,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT118": {
+    "mealType": "Main dish",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ced3690c1167af96afd3ad56ab2a00d7",
+    "label": "Sweet-Bean Piroshki",
+    "image": "https://www.edamam.com/web-img/123/1237fe8d4f71b30f17fdd12dd0647f3b.jpg",
+    "source": "Epicurious",
+    "url": "https://www.epicurious.com/recipes/food/views/sweet-bean-piroshki-351014",
+    "shareAs": "http://www.edamam.com/recipe/sweet-bean-piroshki-ced3690c1167af96afd3ad56ab2a00d7/beans/1000-1400-cal",
+    "yield": 4.0,
+    "dietLabels": [],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "cautions": ["Sulfites"],
+    "ingredientLines": [
+      "1 large baking potato, peeled and cut into chunks",
+      "3 tablespoons unsalted butter",
+      "1 medium onion, peeled and chopped",
+      "2 scallions, chopped",
+      "3 tablespoons fresh chopped dill",
+      "1 teaspoon salt",
+      "1/4 teaspoon white pepper (black works, too)",
+      "1 15-ounce can kidney beans, drained",
+      "2 15-ounce prepared piecrusts",
+      "1 large egg, mixed with 1 tablespoon water"
+    ],
+    "ingredients": [
+      {
+        "text": "1 large baking potato, peeled and cut into chunks",
+        "weight": 369.0
+      },
+      {
+        "text": "3 tablespoons unsalted butter",
+        "weight": 42.599999999999994
+      },
+      {
+        "text": "1 medium onion, peeled and chopped",
+        "weight": 110.0
+      },
+      {
+        "text": "2 scallions, chopped",
+        "weight": 30.0
+      },
+      {
+        "text": "3 tablespoons fresh chopped dill",
+        "weight": 1.668749999971785
+      },
+      {
+        "text": "1 teaspoon salt",
+        "weight": 6.0
+      },
+      {
+        "text": "1/4 teaspoon white pepper (black works, too)",
+        "weight": 0.6
+      },
+      {
+        "text": "1 15-ounce can kidney beans, drained",
+        "weight": 425.242846875
+      },
+      {
+        "text": "2 15-ounce prepared piecrusts",
+        "weight": 850.48569375
+      },
+      {
+        "text": "1 large egg, mixed with 1 tablespoon water",
+        "weight": 50.0
+      }
+    ],
+    "calories": 4866.410891062487,
+    "totalWeight": 1879.5972906249717,
+    "totalTime": 0.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 4866.410891062487,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 258.8865847099997,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 576.412117122498,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 63.874940461249025,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT119": {
+    "mealType": "Main dish",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_7b74ff0a68dad30b3c6bc89253bde660",
+    "label": "Coconut Rice with Black Beans and Fried Plantains Recipe",
+    "image": "https://www.edamam.com/web-img/ea9/ea94a879f079a13187c4f5a674663192.jpg",
+    "source": "Chowhound",
+    "url": "http://www.chowhound.com/recipes/coconut-rice-with-black-beans-and-fried-plantains-10376",
+    "shareAs": "http://www.edamam.com/recipe/coconut-rice-with-black-beans-and-fried-plantains-recipe-7b74ff0a68dad30b3c6bc89253bde660/beans/1000-1400-cal",
+    "yield": 8.0,
+    "dietLabels": [],
+    "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
+    "cautions": ["Gluten", "Wheat", "Tree-Nuts", "Sulfites", "FODMAP"],
+    "ingredientLines": [
+      "4 cups dried black beans, soaked overnight",
+      "1/4 cup cubed smoked bacon",
+      "3 tablespoons canola oil",
+      "1/2 cup finely chopped red bell pepper",
+      "1/2 cup finely chopped yellow bell pepper",
+      "1 tablespoon finely chopped jalapeño",
+      "1/4 cup finely chopped poblano pepper",
+      "2 teaspoons minced garlic",
+      "1/2 cup finely chopped red onion",
+      "1/2 cup finely chopped carrot",
+      "1/4 cup finely chopped celery",
+      "1 bay leaf",
+      "1/2 tablespoon cumin seed, freshly toasted and ground",
+      "1/2 tablespoon coriander seed, freshly toasted and ground",
+      "2 1/2 quarts (10 cups) low-salt chicken broth, vegetable broth, or water",
+      "3 tablespoons canola oil",
+      "1 cup finely chopped red onion",
+      "4 cups water",
+      "4 cups unsweetened coconut milk",
+      "4 cups long-grain white rice",
+      "Ground white pepper",
+      "2 ripe plantains",
+      "4 tablespoons (1/2 stick) unsalted butter"
+    ],
+    "ingredients": [
+      {
+        "text": "4 cups dried black beans, soaked overnight",
+        "weight": 776.0
+      },
+      {
+        "text": "1/4 cup cubed smoked bacon",
+        "weight": 28.25
+      },
+      {
+        "text": "3 tablespoons canola oil",
+        "weight": 42.0
+      },
+      {
+        "text": "1/2 cup finely chopped red bell pepper",
+        "weight": 74.5
+      },
+      {
+        "text": "1/2 cup finely chopped yellow bell pepper",
+        "weight": 46.0
+      },
+      {
+        "text": "1 tablespoon finely chopped jalapeño",
+        "weight": 5.624999999904898
+      },
+      {
+        "text": "1/4 cup finely chopped poblano pepper",
+        "weight": 37.5
+      },
+      {
+        "text": "2 teaspoons minced garlic",
+        "weight": 5.6
+      },
+      {
+        "text": "1/2 cup finely chopped red onion",
+        "weight": 80.0
+      },
+      {
+        "text": "1/2 cup finely chopped carrot",
+        "weight": 61.0
+      },
+      {
+        "text": "1/4 cup finely chopped celery",
+        "weight": 25.25
+      },
+      {
+        "text": "1 bay leaf",
+        "weight": 0.6
+      },
+      {
+        "text": "1/2 tablespoon cumin seed, freshly toasted and ground",
+        "weight": 3.0
+      },
+      {
+        "text": "1/2 tablespoon coriander seed, freshly toasted and ground",
+        "weight": 2.5
+      },
+      {
+        "text": "2 1/2 quarts (10 cups) low-salt chicken broth, vegetable broth, or water",
+        "weight": 2400.0000000000005
+      },
+      {
+        "text": "3 tablespoons canola oil",
+        "weight": 42.0
+      },
+      {
+        "text": "1 cup finely chopped red onion",
+        "weight": 160.0
+      },
+      {
+        "text": "4 cups water",
+        "weight": 948.0
+      },
+      {
+        "text": "4 cups unsweetened coconut milk",
+        "weight": 904.0
+      },
+      {
+        "text": "4 cups long-grain white rice",
+        "weight": 780.0
+      },
+      {
+        "text": "Ground white pepper",
+        "weight": 0.0
+      },
+      {
+        "text": "2 ripe plantains",
+        "weight": 358.0
+      },
+      {
+        "text": "4 tablespoons (1/2 stick) unsalted butter",
+        "weight": 56.8
+      }
+    ],
+    "calories": 9529.536749999972,
+    "totalWeight": 6836.624999999905,
+    "totalTime": 482.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 9529.536749999972,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 367.4096524999996,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 1316.8554099999938,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 300.7623824999991,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT120": {
+    "mealType": "Main dish",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b19c439b3dc46ebf6ebc3f940acafab8",
+    "label": "King Oyster Mushrooms With Pesto, Grilled Polenta, and White Beans",
+    "image": "https://www.edamam.com/web-img/ccf/ccf95d685dd8a713c650af9c0fff15d5.jpg",
+    "source": "Herbivoracious",
+    "url": "http://herbivoracious.com/2008/07/king-oyster-mus.html",
+    "shareAs": "http://www.edamam.com/recipe/king-oyster-mushrooms-with-pesto-grilled-polenta-and-white-beans-b19c439b3dc46ebf6ebc3f940acafab8/beans/1000-1400-cal",
+    "yield": 4.0,
+    "dietLabels": [],
+    "healthLabels": ["Vegetarian", "Peanut-Free", "Alcohol-Free"],
+    "cautions": ["Sulfites"],
+    "ingredientLines": [
+      "2 c. packed fresh basil leaves, rinsed and dried",
+      "1/2 c. extra virgin olive oil",
+      "3 tablespoons pine nuts (or i used pepitas because of allergy issues)",
+      "2 cloves garlic, thinly sliced",
+      "Salt to taste",
+      "1/2 c. fresh grated parmesan cheese (parmigiano-reggiano)",
+      "2 tablespoons fresh grated romano cheese",
+      "3 tablespoons unsalted butter, room temperature",
+      "2 c. polenta",
+      "2 t. salt",
+      "1/2 c. grated parmesan cheese",
+      "Olive oil",
+      "1 white onion, medium dice",
+      "2 cloves garlic, sliced thin",
+      "2 tablespoons olive oil",
+      "1 small can cannellini beans, drained and rinsed",
+      "Salt",
+      "4 large king oyster mushrooms (aka king trumpet or french horn), sliced 1/8″ thick lengthwise",
+      "1/4 c. olive oil",
+      "Sea salt (maldon (aka the world’s greatest salt) if you have it)"
+    ],
+    "ingredients": [
+      {
+        "text": "2 c. packed fresh basil leaves, rinsed and dried",
+        "weight": 48.0
+      },
+      {
+        "text": "1/2 c. extra virgin olive oil",
+        "weight": 108.0
+      },
+      {
+        "text": "3 tablespoons pine nuts (or i used pepitas because of allergy issues)",
+        "weight": 25.312499999572047
+      },
+      {
+        "text": "2 cloves garlic, thinly sliced",
+        "weight": 6.0
+      },
+      {
+        "text": "Salt to taste",
+        "weight": 11.99021249999576
+      },
+      {
+        "text": "1/2 c. fresh grated parmesan cheese (parmigiano-reggiano)",
+        "weight": 74.353125
+      },
+      {
+        "text": "2 tablespoons fresh grated romano cheese",
+        "weight": 16.499999999721034
+      },
+      {
+        "text": "3 tablespoons unsalted butter, room temperature",
+        "weight": 42.599999999999994
+      },
+      {
+        "text": "2 c. polenta",
+        "weight": 314.0
+      },
+      {
+        "text": "2 t. salt",
+        "weight": 12.0
+      },
+      {
+        "text": "1/2 c. grated parmesan cheese",
+        "weight": 74.353125
+      },
+      {
+        "text": "Olive oil",
+        "weight": 27.177814999990385
+      },
+      {
+        "text": "1 white onion, medium dice",
+        "weight": 110.0
+      },
+      {
+        "text": "2 cloves garlic, sliced thin",
+        "weight": 3.0
+      },
+      {
+        "text": "2 tablespoons olive oil",
+        "weight": 27.0
+      },
+      {
+        "text": "1 small can cannellini beans, drained and rinsed",
+        "weight": 491.25000000000006
+      },
+      {
+        "text": "Salt",
+        "weight": 11.99021249999576
+      },
+      {
+        "text": "4 large king oyster mushrooms (aka king trumpet or french horn), sliced 1/8″ thick lengthwise",
+        "weight": 592.0
+      },
+      {
+        "text": "1/4 c. olive oil",
+        "weight": 54.0
+      },
+      {
+        "text": "Sea salt (maldon (aka the world’s greatest salt) if you have it)",
+        "weight": 11.99021249999576
+      }
+    ],
+    "calories": 5019.225509595954,
+    "totalWeight": 2019.2985412614191,
+    "totalTime": 351.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 5019.225509595954,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 320.70178062462264,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 412.915926249934,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 143.1166156248527,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT121": {
+    "mealType": "Main dish",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a31718ef26ca19b28ae1e54da23b3beb",
+    "label": "Cheesy Refried Bean Casserole",
+    "image": "https: //www.edamam.com/web-img/cc0/cc0da5209e4502f6fa6295935bd2df01.jpeg",
+    "source": "Food Network",
+    "url": "https://www.foodnetwork.com/recipes/ree-drummond/cheesy-refried-bean-casserole-3222851",
+    "shareAs": "http://www.edamam.com/recipe/cheesy-refried-bean-casserole-a31718ef26ca19b28ae1e54da23b3beb/beans/1000-1400-cal",
+    "yield": 6.0,
+    "dietLabels": ["Low-Carb"],
+    "healthLabels": ["Vegetarian", "Peanut-Free", "Tree-Nut-Free"],
+    "cautions": ["Sulfites", "FODMAP"],
+    "ingredientLines": [
+      "Butter, for greasing and frying",
+      "2 red bell peppers, chopped",
+      "1 medium onion, chopped",
+      "1 cup tequila",
+      "2 teaspoons chili powder",
+      "4 cloves garlic, chopped",
+      "2 jalapenos, chopped",
+      "Kosher salt and freshly ground black pepper",
+      "Three 16-ounce cans refried beans",
+      "2 cups grated Cheddar",
+      "2 cups grated pepper Jack cheese"
+    ],
+    "ingredients": [
+      {
+        "text": "Butter, for greasing and frying",
+        "weight": 34.08400869598284
+      },
+      {
+        "text": "2 red bell peppers, chopped",
+        "weight": 238.0
+      },
+      {
+        "text": "1 medium onion, chopped",
+        "weight": 110.0
+      },
+      {
+        "text": "1 cup tequila",
+        "weight": 223.999999998738
+      },
+      {
+        "text": "2 teaspoons chili powder",
+        "weight": 5.4
+      },
+      {
+        "text": "4 cloves garlic, chopped",
+        "weight": 12.0
+      },
+      {
+        "text": "2 jalapenos, chopped",
+        "weight": 28.0
+      },
+      {
+        "text": "Kosher salt and freshly ground black pepper",
+        "weight": 15.03706265999243
+      },
+      {
+        "text": "Kosher salt and freshly ground black pepper",
+        "weight": 7.518531329996215
+      },
+      {
+        "text": "Three 16-ounce cans refried beans",
+        "weight": 1360.77711
+      },
+      {
+        "text": "2 cups grated Cheddar",
+        "weight": 264.0
+      },
+      {
+        "text": "2 cups grated pepper Jack cheese",
+        "weight": 264.0
+      }
+    ],
+    "calories": 6696.230935775252,
+    "totalWeight": 2893.0055469270433,
+    "totalTime": 55.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 6696.230935775252,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 506.23770846314636,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 227.8237851338916,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 205.17584968077227,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT122": {
+    "mealType": "Main dish",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_5d19c7b6c2bc515bddb1a1fc205c89d4",
+    "label": "Green Bean Casserole recipes",
+    "image": "https://www.edamam.com/web-img/8cd/8cdf6a0678f0a6a1e859483d07c2c18e",
+    "source": "Martha Stewart",
+    "url": "http://www.marthastewart.com/337685/green-bean-casserole",
+    "shareAs": "http://www.edamam.com/recipe/green-bean-casserole-recipes-5d19c7b6c2bc515bddb1a1fc205c89d4/beans/1000-1400-cal",
+    "yield": 8.0,
+    "dietLabels": ["Low-Carb"],
+    "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
+    "cautions": ["Gluten", "Wheat", "Sulfites"],
+    "ingredientLines": [
+      "3 cups vegetable oil",
+      "6 large shallots, cut into very thin rounds, rings separated",
+      "1 1/2 cups all-purpose flour",
+      "coarse salt",
+      "ground pepper",
+      "2 pounds green beans,trimmed and halved",
+      "1/4 cup (1/2 stick) unsalted butter",
+      "1 pound button mushrooms, trimmed and coarsely chopped",
+      "14.5 ounces low-sodium chicken broth",
+      "1 cup whole milk"
+    ],
+    "ingredients": [
+      {
+        "text": "3 cups vegetable oil",
+        "weight": 672.0000000113615
+      },
+      {
+        "text": "6 large shallots, cut into very thin rounds, rings separated",
+        "weight": 480.0
+      },
+      {
+        "text": "1 1/2 cups all-purpose flour",
+        "weight": 187.5
+      },
+      {
+        "text": "coarse salt",
+        "weight": 20.47257117194317
+      },
+      {
+        "text": "ground pepper",
+        "weight": 10.236285585971585
+      },
+      {
+        "text": "2 pounds green beans, trimmed and halved",
+        "weight": 907.18474
+      },
+      {
+        "text": "1/4 cup (1/2 stick) unsalted butter",
+        "weight": 56.75
+      },
+      {
+        "text": "1 pound button mushrooms, trimmed and coarsely chopped",
+        "weight": 453.59237
+      },
+      {
+        "text": "14.5 ounces low-sodium chicken broth",
+        "weight": 411.0680853125
+      },
+      {
+        "text": "1 cup whole milk",
+        "weight": 244.0
+      }
+    ],
+    "calories": 7996.799061371225,
+    "totalWeight": 3441.8979511266016,
+    "totalTime": 50.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 7996.799061371225,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 734.6155569193393,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 324.9641092959788,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 79.43952175363245,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT123": {
+    "mealType": "Main dish",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_88e97cb374fb04e4228cb9312969518c",
+    "label": "Bean and Vegetable Enchiladas",
+    "image": "https://www.edamam.com/web-img/abb/abbd6d5b1cbcc69ab336b8f484cd6613.jpg",
+    "source": "Honest Cooking",
+    "url": "http://honestcooking.com/bean-and-vegetable-enchiladas-recipe/",
+    "shareAs": "http://www.edamam.com/recipe/bean-and-vegetable-enchiladas-88e97cb374fb04e4228cb9312969518c/beans/1000-1400-cal",
+    "yield": 5.0,
+    "dietLabels": [],
+    "healthLabels": [
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "cautions": ["Sulfites", "FODMAP"],
+    "ingredientLines": [
+      "1½ teaspoons cumin",
+      "¼ teaspoon chipotle powder",
+      "¼ cup flour",
+      "¼ cup tomato paste",
+      "2 cups vegetable stock, reduced sodium",
+      "1 teaspoon kosher salt",
+      "2 teaspoons olive oil",
+      "¾ cup red pepper, small dice",
+      "¾ cup zucchini, small dice",
+      "11/2 cups grated pepper jack cheese",
+      "1 cup grated sharp cheddar cheese",
+      "1 (15 – ounce) can black beans, drained and rinsed",
+      "¾ cup corn",
+      "3 scallions, thinly sliced",
+      "10 (6-inch)flour tortillas",
+      "Sour cream, for serving",
+      "Cilantro, for serving"
+    ],
+    "ingredients": [
+      {
+        "text": "1½ teaspoons cumin",
+        "weight": 3.1500000000000004
+      },
+      {
+        "text": "¼ teaspoon chipotle powder",
+        "weight": 0.675
+      },
+      {
+        "text": "¼ cup flour",
+        "weight": 31.25
+      },
+      {
+        "text": "¼ cup tomato paste",
+        "weight": 66.0
+      },
+      {
+        "text": "2 cups vegetable stock, reduced sodium",
+        "weight": 454.0
+      },
+      {
+        "text": "1 teaspoon kosher salt",
+        "weight": 4.854166666912875
+      },
+      {
+        "text": "2 teaspoons olive oil",
+        "weight": 9.0
+      },
+      {
+        "text": "¾ cup red pepper, small dice",
+        "weight": 83.8125
+      },
+      {
+        "text": "¾ cup zucchini, small dice",
+        "weight": 69.75
+      },
+      {
+        "text": "11/2 cups grated pepper jack cheese",
+        "weight": 726.0
+      },
+      {
+        "text": "1 cup grated sharp cheddar cheese",
+        "weight": 132.0
+      },
+      {
+        "text": "1 (15 – ounce) can black beans, drained and rinsed",
+        "weight": 425.242846875
+      },
+      {
+        "text": "¾ cup corn",
+        "weight": 108.75
+      },
+      {
+        "text": "3 scallions, thinly sliced",
+        "weight": 45.0
+      },
+      {
+        "text": "10 (6-inch)flour tortillas",
+        "weight": 490.0
+      },
+      {
+        "text": "Sour cream, for serving",
+        "weight": 15.0
+      },
+      {
+        "text": "Cilantro, for serving",
+        "weight": 6.0
+      }
+    ],
+    "calories": 5527.78484419481,
+    "totalWeight": 2665.630346875,
+    "totalTime": 45.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 5527.78484419481,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 318.4547261602775,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 388.7465644913925,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 287.7093363178225,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT124": {
+    "mealType": "Main dish",
+    "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_7319970b83f239b8e0c04376d8fa9ceb",
+    "label": "Navy Bean Nicoise recipes",
+    "image": "https: //www.edamam.com/web-img/190/1908f8d0176bd1d9431347921a8d7359",
+    "source": "Martha Stewart",
+    "url": "http://www.marthastewart.com/312420/navy-bean-nicoise",
+    "shareAs": "http://www.edamam.com/recipe/navy-bean-nicoise-recipes-7319970b83f239b8e0c04376d8fa9ceb/beans/1000-1400-cal",
+    "yield": 4.0,
+    "dietLabels": ["Balanced"],
+    "healthLabels": [
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "cautions": ["Sulfites", "FODMAP"],
+    "ingredientLines": [
+      "6 tablespoons freshly squeezed lemon juice",
+      "1 teaspoon Dijon mustard",
+      "1 large shallot, minced",
+      "3/4 cup extra-virgin olive oil",
+      "3 tablespoons minced fresh parsley leaves",
+      "3 tablespoons minced fresh basil leaves",
+      "sea salt",
+      "ground black pepper",
+      "1 pound small red potatoes, boiled, then halved or quartered",
+      "1 head red-leaf lettuce, leaves separated, washed and dried, inner leaves reserved for future use",
+      "5 ounces baby spinach",
+      "2 ripe medium tomatoes, cored and cut in wedges",
+      "1 pound green beans, into 1-inch pieces, blanched and dried",
+      "1/2 cup Nicoise olives",
+      "3 tablespoons capers, rinsed and drained",
+      "sea salt",
+      "ground black pepper",
+      "3 cups cooked navy beans, rinsed and drained",
+      "1 medium celery stalk, diced",
+      "2 teaspoons freshly grated lemon zest",
+      "sea salt",
+      "ground black pepper",
+      "2 hard-boiled eggs, peeled and quartered lengthwise"
+    ],
+    "ingredients": [
+      {
+        "text": "6 tablespoons freshly squeezed lemon juice",
+        "weight": 91.4999999984532
+      },
+      {
+        "text": "1 teaspoon Dijon mustard",
+        "weight": 5.0
+      },
+      {
+        "text": "1 large shallot, minced",
+        "weight": 80.0
+      },
+      {
+        "text": "3/4 cup extra-virgin olive oil",
+        "weight": 162.0
+      },
+      {
+        "text": "3 tablespoons minced fresh parsley leaves",
+        "weight": 11.399999999999999
+      },
+      {
+        "text": "3 tablespoons minced fresh basil leaves",
+        "weight": 7.949999999999999
+      },
+      {
+        "text": "sea salt",
+        "weight": 16.816694133747536
+      },
+      {
+        "text": "ground black pepper",
+        "weight": 8.408347066873768
+      },
+      {
+        "text": "1 pound small red potatoes, boiled, then halved or quartered",
+        "weight": 453.59237
+      },
+      {
+        "text": "1 head red-leaf lettuce, leaves separated, washed and dried, inner leaves reserved for future use",
+        "weight": 309.0
+      },
+      {
+        "text": "5 ounces baby spinach",
+        "weight": 141.747615625
+      },
+      {
+        "text": "2 ripe medium tomatoes, cored and cut in wedges",
+        "weight": 246.0
+      },
+      {
+        "text": "1 pound green beans, into 1-inch pieces, blanched and dried",
+        "weight": 453.59237
+      },
+      {
+        "text": "1/2 cup Nicoise olives",
+        "weight": 67.200000001136
+      },
+      {
+        "text": "3 tablespoons capers, rinsed and drained",
+        "weight": 25.799999999999997
+      },
+      {
+        "text": "sea salt",
+        "weight": 16.816694133747536
+      },
+      {
+        "text": "ground black pepper",
+        "weight": 8.408347066873768
+      },
+      {
+        "text": "3 cups cooked navy beans, rinsed and drained",
+        "weight": 624.0
+      },
+      {
+        "text": "1 medium celery stalk, diced",
+        "weight": 40.0
+      },
+      {
+        "text": "2 teaspoons freshly grated lemon zest",
+        "weight": 4.0
+      },
+      {
+        "text": "sea salt",
+        "weight": 16.816694133747536
+      },
+      {
+        "text": "ground black pepper",
+        "weight": 8.408347066873768
+      },
+      {
+        "text": "2 hard-boiled eggs, peeled and quartered lengthwise",
+        "weight": 80.0
+      }
+    ],
+    "calories": 4484.881598708275,
+    "totalWeight": 2840.7093831190778,
+    "totalTime": 40.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 4484.881598708275,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 192.1142645761953,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 549.8158623139492,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 183.8318147516237,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT125": {
+    "mealType": "Main dish",
+    "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_059688ab849d046beb4423385978e3bc",
+    "label": "Butter Bean, Tuna, and Celery Salad",
+    "image": "https://www.edamam.com/web-img/8eb/8eb37d0d5306495e44903cf4e4e2d713.jpg",
+    "source": "Delish",
+    "url": "http://www.delish.com/cooking/recipe-ideas/recipes/a6069/butter-bean-tuna-celery-salad-recipe/",
+    "shareAs": "http://www.edamam.com/recipe/butter-bean-tuna-and-celery-salad-059688ab849d046beb4423385978e3bc/beans/1000-1400-cal",
+    "yield": 4.0,
+    "dietLabels": [],
+    "healthLabels": [
+      "Sugar-Conscious",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "cautions": ["Sulfites", "FODMAP"],
+    "ingredientLines": [
+      "2 tbsp. fresh lemon juice",
+      "2 tsp. Dijon mustard",
+      "¼ c. extra-virgin olive oil",
+      "1 tbsp. extra-virgin olive oil",
+      "¼ c. snipped chives",
+      "kosher salt and freshly ground pepper",
+      "7 can Italian tuna in olive oil",
+      "3 celery stalks with leaves",
+      "2 can butter beans",
+      "1½ tbsp. drained capers"
+    ],
+    "ingredients": [
+      {
+        "text": "2 tbsp. fresh lemon juice",
+        "weight": 30.4999999994844
+      },
+      {
+        "text": "2 tsp. Dijon mustard",
+        "weight": 10.0
+      },
+      {
+        "text": "¼ c. extra-virgin olive oil",
+        "weight": 54.0
+      },
+      {
+        "text": "1 tbsp. extra-virgin olive oil",
+        "weight": 13.5
+      },
+      {
+        "text": "¼ c. snipped chives",
+        "weight": 12.000000000202874
+      },
+      {
+        "text": "kosher salt and freshly ground pepper",
+        "weight": 14.594399999998126
+      },
+      {
+        "text": "kosher salt and freshly ground pepper",
+        "weight": 7.297199999999063
+      },
+      {
+        "text": "7 can Italian tuna in olive oil",
+        "weight": 1197.0
+      },
+      {
+        "text": "3 celery stalks with leaves",
+        "weight": 120.0
+      },
+      {
+        "text": "2 can butter beans",
+        "weight": 982.5000000000001
+      },
+      {
+        "text": "1½ tbsp. drained capers",
+        "weight": 12.899999999999999
+      }
+    ],
+    "calories": 4143.602971999945,
+    "totalWeight": 2440.0379183150158,
+    "totalTime": 20.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 4143.602971999945,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 169.67057872000026,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 220.36086939997267,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 422.7793690800047,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT126": {
+    "mealType": "Main dish",
+    "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_4ad7897fd19d768b590e447d36933e2e",
+    "label": "Sausage Kebabs with Broccoli, Tomatoes, and White Bean Salad",
+    "image": "https://www.edamam.com/web-img/d5b/d5b81798681a44c7e14550fe39cf7479.jpg",
+    "source": "Delish",
+    "url": "http://www.delish.com/cooking/recipe-ideas/recipes/a36724/sausage-kebabs-broccoli-tomatoes-white-bean-salad-recipe-wdy0814/",
+    "shareAs": "http://www.edamam.com/recipe/sausage-kebabs-with-broccoli-tomatoes-and-white-bean-salad-4ad7897fd19d768b590e447d36933e2e/beans/1000-1400-cal",
+    "yield": 4.0,
+    "dietLabels": [],
+    "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
+    "cautions": ["Sulfites"],
+    "ingredientLines": [
+      "24 cherry tomatoes",
+      "1 lemon",
+      "1 tbsp. olive oil",
+      "2 tsp. olive oil",
+      "2 can cannellini beans",
+      "½ c. fresh flat-leaf parsley",
+      "½ c. fresh basil leaves",
+      "2 scallions",
+      "kosher salt",
+      "Pepper",
+      "8 small sweet Italian sausages",
+      "12 oz. broccoli"
+    ],
+    "ingredients": [
+      {
+        "text": "24 cherry tomatoes",
+        "weight": 360.0
+      },
+      {
+        "text": "1 lemon",
+        "weight": 58.0
+      },
+      {
+        "text": "1 tbsp. olive oil",
+        "weight": 13.5
+      },
+      {
+        "text": "2 tsp. olive oil",
+        "weight": 9.0
+      },
+      {
+        "text": "2 can cannellini beans",
+        "weight": 982.5000000000001
+      },
+      {
+        "text": "½ c. fresh flat-leaf parsley",
+        "weight": 30.0
+      },
+      {
+        "text": "½ c. fresh basil leaves",
+        "weight": 12.0
+      },
+      {
+        "text": "2 scallions",
+        "weight": 30.0
+      },
+      {
+        "text": "kosher salt",
+        "weight": 16.435165665
+      },
+      {
+        "text": "Pepper",
+        "weight": 8.2175828325
+      },
+      {
+        "text": "8 small sweet Italian sausages",
+        "weight": 904.0
+      },
+      {
+        "text": "12 oz. broccoli",
+        "weight": 340.1942775
+      }
+    ],
+    "calories": 4687.862187259576,
+    "totalWeight": 2747.4118603324996,
+    "totalTime": 25.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 4687.862187259576,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 311.3638620270895,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 265.8386442473838,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 216.2207854817968,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT127": {
+    "mealType": "Main dish",
+    "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_bd10d6ec917bcbedd2b9e3ef43022b65",
+    "label": "White Bean Tuna Salad",
+    "image": "https://www.edamam.com/web-img/ff4/ff4cfdda9bf26b438374632fbc333551.jpg",
+    "source": "Cooking Channel",
+    "url": "http://www.cookingchanneltv.com/recipes/giada-de-laurentiis/white-bean-tuna-salad.html",
+    "shareAs": "http://www.edamam.com/recipe/white-bean-tuna-salad-bd10d6ec917bcbedd2b9e3ef43022b65/beans/1000-1400-cal",
+    "yield": 4.0,
+    "dietLabels": [],
+    "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
+    "cautions": ["Sulfites"],
+    "ingredientLines": [
+      "2 (6-ounce) cans dark meat tuna, packed in olive oil",
+      "2 (15-ounce) cans cannelini white beans, drained and rinsed",
+      "1/3 cup small capers, nonpareil in brine, drained and rinsed",
+      "6 tablespoons red wine vinegar",
+      "Sea salt and fresh ground black pepper",
+      "1 medium red onion, thinly sliced",
+      "1 1/2 cups cherry tomatoes",
+      "2 cups fresh arugula",
+      "6 fresh basil leaves"
+    ],
+    "ingredients": [
+      {
+        "text": "2 (6-ounce) cans dark meat tuna, packed in olive oil",
+        "weight": 340.1942775
+      },
+      {
+        "text": "2 (15-ounce) cans cannelini white beans, drained and rinsed",
+        "weight": 850.48569375
+      },
+      {
+        "text": "1/3 cup small capers, nonpareil in brine, drained and rinsed",
+        "weight": 74.66666666666666
+      },
+      {
+        "text": "6 tablespoons red wine vinegar",
+        "weight": 89.4
+      },
+      {
+        "text": "Sea salt and fresh ground black pepper",
+        "weight": 10.621479827500002
+      },
+      {
+        "text": "Sea salt and fresh ground black pepper",
+        "weight": 5.310739913750001
+      },
+      {
+        "text": "1 medium red onion,thinly sliced",
+        "weight": 110.0
+      },
+      {
+        "text": "1 1/2 cups cherry tomatoes",
+        "weight": 262.5
+      },
+      {
+        "text": "2 cups fresh arugula",
+        "weight": 40.0
+      },
+      {
+        "text": "6 fresh basil leaves",
+        "weight": 3.0
+      }
+    ],
+    "calories": 4483.953727825178,
+    "totalWeight": 1785.8578642317882,
+    "totalTime": 41.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 4483.953727825178,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 361.1941494663966,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 257.0373152498431,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 70.54837390995527,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT128": {
+    "mealType": "Breakfast",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_8884b7037209392a68e5a649b3b7f555",
+    "label": "Throw-together banoffee pie",
+    "image": "https://www.edamam.com/web-img/f13/f13956485114bacdeee32105f21b6e5c.jpg",
+    "source": "BBC",
+    "url": "http://www.bbc.co.uk/food/recipes/throwtogetherbanoffe_92446",
+    "shareAs": "http://www.edamam.com/recipe/throw-together-banoffee-pie-8884b7037209392a68e5a649b3b7f555/banana/1000-1400-cal",
+    "yield": 4.0,
+    "dietLabels": [],
+    "healthLabels": [
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "cautions": ["Sulfites"],
+    "ingredientLines": [
+      "300g/10½oz oat or ginger biscuits",
+      "60g/2¼oz butter",
+      "450g/1lb jar dulce de leche (sweet toffee sauce), available from spanish delicatessens and some supermarkets",
+      "3 large ripe bananas, peeled, sliced",
+      "350ml/12¼fl oz double cream",
+      "1 tbsp icing sugar",
+      "100g/3½oz dark chocolate, grated, toserve"
+    ],
+    "ingredients": [
+      {
+        "text": "300g/10½oz oat or ginger biscuits",
+        "weight": 300.0
+      },
+      {
+        "text": "60g/2¼oz butter",
+        "weight": 60.0
+      },
+      {
+        "text": "450g/1lb jar dulce de leche (sweet toffee sauce), available from spanish delicatessens and some supermarkets",
+        "weight": 450.0
+      },
+      {
+        "text": "3 large ripe bananas, peeled, sliced",
+        "weight": 408.0
+      },
+      {
+        "text": "350ml/12¼fl oz double cream",
+        "weight": 352.68025678022246
+      },
+      {
+        "text": "1 tbsp icing sugar",
+        "weight": 8.0
+      },
+      {
+        "text": "100g/3½oz dark chocolate, grated, to serve",
+        "weight": 100.0
+      }
+    ],
+    "calories": 5115.686885891767,
+    "totalWeight": 1678.6802567802224,
+    "totalTime": 130.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 5115.686885891767,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 305.1090950086823,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 539.8195791641683,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 71.75714526399457,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT129": {
+    "mealType": "Breakfast",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_b74108c364bdfefb76b8129d0f7c78b3",
+    "label": "Crunchy Fried PB and J",
+    "image": "https://www.edamam.com/web-img/aa1/aa107afb470286bed57271ba63949464.jpeg",
+    "source": "Food Network",
+    "url": "https://www.foodnetwork.com/recipes/jeff-mauro/crunchy-fried-pb-and-j-recipe-2107544",
+    "shareAs": "http://www.edamam.com/recipe/crunchy-fried-pb-and-j-b74108c364bdfefb76b8129d0f7c78b3/banana/1000-1400-cal",
+    "yield": 4.0,
+    "dietLabels": [],
+    "healthLabels": ["Vegetarian", "Tree-Nut-Free", "Alcohol-Free"],
+    "cautions": ["Soy", "Sulfites", "FODMAP"],
+    "ingredientLines": [
+      "1 cup chunky peanut butter",
+      "Eight 1-inch-thick slices Pullman bread",
+      "1 cup good raspberry preserves",
+      "2 bananas, sliced thin on the bias",
+      "2 cups plain potato chips with ridges",
+      "3 large eggs, beaten",
+      "2 cups cinnamon square cereal, crushed by hand in a re-sealable plastic bag",
+      "8 tablespoons (1 stick) unsalted butter"
+    ],
+    "ingredients": [
+      {
+        "text": "1 cup chunky peanut butter",
+        "weight": 258.0
+      },
+      {
+        "text": "Eight 1-inch-thick slices Pullman bread",
+        "weight": 232.0
+      },
+      {
+        "text": "1 cup good raspberry preserves",
+        "weight": 320.00000000541024
+      },
+      {
+        "text": "2 bananas, sliced thin on the bias",
+        "weight": 231.39999999999998
+      },
+      {
+        "text": "2 cups plain potato chips with ridges",
+        "weight": 100.0
+      },
+      {
+        "text": "3 large eggs, beaten",
+        "weight": 150.0
+      },
+      {
+        "text": "2 cups cinnamon square cereal, crushed by hand in a re-sealable plastic bag",
+        "weight": 100.0
+      },
+      {
+        "text": "8 tablespoons (1 stick) unsalted butter",
+        "weight": 113.6
+      }
+    ],
+    "calories": 5155.83800001504,
+    "totalWeight": 1505.0000000054101,
+    "totalTime": 20.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 5155.83800001504,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 282.8991800000038,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 580.0793200037255,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 123.07406000002003,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT130": {
+    "mealType": "Breakfast",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ff0c9d323f12004da0ec264f2d0f8184",
+    "label": "Banoffee cheesecake with chocolate sauce",
+    "image": "https://www.edamam.com/web-img/5a9/5a937ec49ff6ef0fd05beeffa4baed62.jpg",
+    "source": "BBC",
+    "url": "http://www.bbc.co.uk/food/recipes/banoffeecheesecakewi_85024",
+    "shareAs": "http://www.edamam.com/recipe/banoffee-cheesecake-with-chocolate-sauce-ff0c9d323f12004da0ec264f2d0f8184/banana/1000-1400-cal",
+    "yield": 4.0,
+    "dietLabels": [],
+    "healthLabels": [
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "cautions": ["Sulfites"],
+    "ingredientLines": [
+      "150g/6oz chocolate oat biscuits, crushed",
+      "75g/3oz butter",
+      "2 tbsp clear honey",
+      "4 bananas, peeled and cut into chunks",
+      "400g/14oz cream cheese",
+      "4 tbsp icing sugar",
+      "1 tbsp maple syrup",
+      "1 x 225g/8oz dulce de leche or canned caramel",
+      "40g/1½oz butter",
+      "175ml/7fl oz double cream",
+      "225g/8oz milk chocolate, roughly chopped"
+    ],
+    "ingredients": [
+      {
+        "text": "150g/6oz chocolate oat biscuits, crushed",
+        "weight": 150.0
+      },
+      {
+        "text": "75g/3oz butter",
+        "weight": 75.0
+      },
+      {
+        "text": "2 tbsp clear honey",
+        "weight": 42.0
+      },
+      {
+        "text": "4 bananas, peeled and cut into chunks",
+        "weight": 462.79999999999995
+      },
+      {
+        "text": "400g/14oz cream cheese",
+        "weight": 400.0
+      },
+      {
+        "text": "4 tbsp icing sugar",
+        "weight": 32.0
+      },
+      {
+        "text": "1 tbsp maple syrup",
+        "weight": 20.0
+      },
+      {
+        "text": "1 x 225g/8oz dulce de leche or canned caramel",
+        "weight": 10.1
+      },
+      {
+        "text": "40g/1½oz butter",
+        "weight": 40.0
+      },
+      {
+        "text": "175ml/7fl oz double cream",
+        "weight": 176.34012839011123
+      },
+      {
+        "text": "225g/8oz milk chocolate, roughly chopped",
+        "weight": 225.0
+      }
+    ],
+    "calories": 5288.807442945884,
+    "totalWeight": 1633.240128390111,
+    "totalTime": 60.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 5288.807442945884,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 389.02468750434116,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 415.2418095820841,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 61.66809263199728,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT140": {
+    "mealType": "Breakfast",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a5b40c23eb889f2b5be534a9ec67a073",
+    "label": "Deep Dish Chocolate Peanut Butter Ice Cream Cake recipes",
+    "image": "https://www.edamam.com/web-img/54c/54c7fef7d48c37f6d8350aa19a274153",
+    "source": "This Rawsome Vegan Life",
+    "url": "http://www.thisrawsomeveganlife.com/2013/04/deep-dish-chocolate-peanut-butter-ice.html",
+    "shareAs": "http://www.edamam.com/recipe/deep-dish-chocolate-peanut-butter-ice-cream-cake-recipes-a5b40c23eb889f2b5be534a9ec67a073/banana/1000-1400-cal",
+    "yield": 4.0,
+    "dietLabels": [],
+    "healthLabels": ["Vegetarian", "Alcohol-Free"],
+    "cautions": ["Tree-Nuts", "Sulfites"],
+    "ingredientLines": [
+      "1 cup dates",
+      "1/2 cup hemp seeds",
+      "1/3 cup whole flax seeds",
+      "3 tablespoons cacao powder",
+      "3 frozen bananas",
+      "1 cup dates",
+      "2 cups cashews",
+      "2 tablespoons coconut oil",
+      "1 1/4 cups water or vegan milk, as needed",
+      "1/4 cup cacao powder",
+      "2 tablespoons nut butter (whatever kind you like, I used peanut butter of course)"
+    ],
+    "ingredients": [
+      {
+        "text": "1 cup dates",
+        "weight": 225.0
+      },
+      {
+        "text": "1/2 cup hemp seeds",
+        "weight": 119.99999999391346
+      },
+      {
+        "text": "1/3 cup whole flax seeds",
+        "weight": 56.0
+      },
+      {
+        "text": "3 tablespoons cacao powder",
+        "weight": 16.200000000000003
+      },
+      {
+        "text": "3 frozen bananas",
+        "weight": 347.09999999999997
+      },
+      {
+        "text": "1 cup dates",
+        "weight": 225.0
+      },
+      {
+        "text": "2 cups cashews",
+        "weight": 280.0
+      },
+      {
+        "text": "2 tablespoons coconut oil",
+        "weight": 27.2
+      },
+      {
+        "text": "1 1/4 cups water or vegan milk, as needed",
+        "weight": 300.0
+      },
+      {
+        "text": "1/4 cup cacao powder",
+        "weight": 21.5
+      },
+      {
+        "text": "2 tablespoons nut butter (whatever kind you like, I used peanut butter of course)",
+        "weight": 28.4
+      }
+    ],
+    "calories": 4652.30699996549,
+    "totalWeight": 1646.3999999939135,
+    "totalTime": 25.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 4652.30699996549,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 249.5101699978393,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 575.7627799983201,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 112.34738999849053,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT141": {
+    "mealType": "Breakfast",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_2122dd92569c564d6e5e1fb421d71ba0",
+    "label": "Banoffee Cake",
+    "image": "https://www.edamam.com/web-img/ec2/ec2b52b4a706913aabd442a2e2d9199f.jpg",
+    "source": "Donal Skehan",
+    "url": "http://www.donalskehan.com/2014/03/banoffee-cake/",
+    "shareAs": "http://www.edamam.com/recipe/banoffee-cake-2122dd92569c564d6e5e1fb421d71ba0/banana/1000-1400-cal",
+    "yield": 8.0,
+    "dietLabels": [],
+    "healthLabels": [
+      "Vegetarian",
+      "Peanut-Free",
+      "Tree-Nut-Free",
+      "Alcohol-Free"
+    ],
+    "cautions": ["Sulfites"],
+    "ingredientLines": [
+      "3 bananas",
+      "4 tbsp crème fraîche",
+      "2 tsp vanilla extract",
+      "175 g butter, plus extra for greasing",
+      "350 g caster sugar",
+      "4 large eggs",
+      "350 g self-raising flour",
+      "150 g caster sugar",
+      "100 ml double cream",
+      "75 g butter, diced",
+      "125 g cold butter",
+      "375 g icing sugar",
+      "4 tbsp milk",
+      "1 tsp vanilla extract"
+    ],
+    "ingredients": [
+      {
+        "text": "3 bananas",
+        "weight": 347.09999999999997
+      },
+      {
+        "text": "2 tsp vanilla extract",
+        "weight": 8.4
+      },
+      {
+        "text": "175 g butter, plus extra for greasing",
+        "weight": 175.0
+      },
+      {
+        "text": "350 g caster sugar",
+        "weight": 350.0
+      },
+      {
+        "text": "4 large eggs",
+        "weight": 200.0
+      },
+      {
+        "text": "350 g self-raising flour",
+        "weight": 350.0
+      },
+      {
+        "text": "150g caster sugar",
+        "weight": 150.0
+      },
+      {
+        "text": "100 ml double cream",
+        "weight": 100.76578765149213
+      },
+      {
+        "text": "75 g butter, diced",
+        "weight": 75.0
+      },
+      {
+        "text": "125 g cold butter",
+        "weight": 125.0
+      },
+      {
+        "text": "375 g icing sugar",
+        "weight": 375.0
+      },
+      {
+        "text": "4 tbsp milk",
+        "weight": 60.0
+      },
+      {
+        "text": "1 tsp vanilla extract",
+        "weight": 4.2
+      }
+    ],
+    "calories": 8371.948967397648,
+    "totalWeight": 2320.465787651492,
+    "totalTime": 0.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 8371.948967397648,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 366.9988314310521,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 1229.350405475477,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 72.2091486468556,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT142": {
+    "mealType": "Breakfast",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_ca871e9a77a8fa38abccf887f6c1700b",
+    "label": "Peanut Butter Parfaits",
+    "image": "https://www.edamam.com/web-img/452/452dbe407899da6ec857b18f5e8577f5.jpeg",
+    "source": "Food Network",
+    "url": "https://www.foodnetwork.com/recipes/paula-deen/peanut-butter-parfaits-recipe-1952553",
+    "shareAs": "http://www.edamam.com/recipe/peanut-butter-parfaits-ca871e9a77a8fa38abccf887f6c1700b/banana/1000-1400-cal",
+    "yield": 4.0,
+    "dietLabels": [],
+    "healthLabels": ["Vegetarian", "Tree-Nut-Free", "Alcohol-Free"],
+    "cautions": ["Sulfites"],
+    "ingredientLines": [
+      "2 cups cold milk",
+      "1 (3.9-ounce) box instant chocolate-flavored pudding mix",
+      "1 cup creamy peanut butter",
+      "1/4 cup confectioners sugar",
+      "1 (3-ounce) package cream cheese, softened",
+      "1 cup whipped cream topping",
+      "4 bananas, peeled and sliced",
+      "1 cup chopped peanuts, plus additional for garnish",
+      "1/2 (1-pound) package peanubutter sandwich cookies, crumbled, plus additional for garnish"
+    ],
+    "ingredients": [
+      {
+        "text": "2 cups cold milk",
+        "weight": 488.0
+      },
+      {
+        "text": "1 (3.9-ounce) box instant chocolate-flavored pudding mix",
+        "weight": 110.56314289112122
+      },
+      {
+        "text": "1 cup creamy peanut butter",
+        "weight": 258.0
+      },
+      {
+        "text": "1/4 cup confectioners sugar",
+        "weight": 30.0
+      },
+      {
+        "text": "1 (3-ounce) package cream cheese, softened",
+        "weight": 85.048569375
+      },
+      {
+        "text": "1 cup whipped cream topping",
+        "weight": 60.0
+      },
+      {
+        "text": "4 bananas, peeled and sliced",
+        "weight": 462.79999999999995
+      },
+      {
+        "text": "1 cup chopped peanuts, plus additional for garnish",
+        "weight": 146.0
+      },
+      {
+        "text": "1/2 (1-pound) package peanut butter sandwich cookies, crumbled, plus additional for garnish",
+        "weight": 226.796185
+      }
+    ],
+    "calories": 5144.0125516909375,
+    "totalWeight": 1867.207897266121,
+    "totalTime": 17.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 5144.0125516909375,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 314.1937649039313,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 497.08689673485804,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 144.8507167304333,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT143": {
+    "mealType": "Breakfast",
+    "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_613c74ec5b52b9fcf699711f3ea7e83c",
+    "label": "Buttermilk Pumpkin Bread recipes",
+    "image": "https://www.edamam.com/web-img/b0e/b0e00177e99f59001425a6d83d12f07a",
+    "source": "Kitchen Confidante",
+    "url": "http://kitchenconfidante.com/buttermilk-pumpkin-bread-recipe",
+    "shareAs": "http://www.edamam.com/recipe/buttermilk-pumpkin-bread-recipes-613c74ec5b52b9fcf699711f3ea7e83c/banana/1000-1400-cal",
+    "yield": 4.0,
+    "dietLabels": [],
+    "healthLabels": ["Vegetarian", "Peanut-Free", "Alcohol-Free"],
+    "cautions": ["Sulfites", "FODMAP"],
+    "ingredientLines": [
+      "3 cups flour",
+      "1½ tsp baking powder",
+      "1½ tsp baking soda",
+      "3 tsp cinnamon",
+      "1 tsp nutmeg",
+      "½ tsp ground cloves",
+      "½ tsp salt",
+      "½ cup chopped pecans or walnuts (optional)",
+      "2 cups sugar",
+      "½ cup unsalted butter",
+      "2 eggs",
+      "8 oz fresh or canned unsweetened pumpkin puree",
+      "2 very ripe bananas",
+      "1 cup buttermilk (or substitute 1 cup milk with juice of one lemon)"
+    ],
+    "ingredients": [
+      {
+        "text": "3 cups flour",
+        "weight": 375.0
+      },
+      {
+        "text": "1½ tsp baking powder",
+        "weight": 6.8999999999999995
+      },
+      {
+        "text": "1½ tsp baking soda",
+        "weight": 6.8999999999999995
+      },
+      {
+        "text": "3 tsp cinnamon",
+        "weight": 7.800000000000001
+      },
+      {
+        "text": "1 tsp nutmeg",
+        "weight": 2.2
+      },
+      {
+        "text": "½ tsp ground cloves",
+        "weight": 1.05
+      },
+      {
+        "text": "½ tsp salt",
+        "weight": 3.0
+      },
+      {
+        "text": "½ cup chopped pecans or walnuts (optional)",
+        "weight": 54.5
+      },
+      {
+        "text": "2 cups sugar",
+        "weight": 400.0
+      },
+      {
+        "text": "½ cup unsalted butter",
+        "weight": 113.5
+      },
+      {
+        "text": "2 eggs",
+        "weight": 86.0
+      },
+      {
+        "text": "8 oz fresh or canned unsweetened pumpkin puree",
+        "weight": 226.796185
+      },
+      {
+        "text": "2 very ripe bananas",
+        "weight": 231.39999999999998
+      },
+      {
+        "text": "1 cup buttermilk (or substitute 1 cup milk with juice of one lemon)",
+        "weight": 245.0
+      }
+    ],
+    "calories": 4644.6387029,
+    "totalWeight": 1759.6887864062742,
+    "totalTime": 105.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 4644.6387029,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 147.723789318,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 786.9799363664999,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 69.13730303500002,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT144": {
+    "mealType": "Breakfast",
+    "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_24cf199c7033dce62a4390c4847171af",
+    "label": "Banoffee pie with pecans and caramel sauce",
+    "image": "https://www.edamam.com/web-img/bf1/bf12ceda48d592c7d70f03a92194430d.jpg",
+    "source": "BBC",
+    "url": "http: //www.bbc.co.uk/food/recipes/banoffeepiewithpecan_86926",
+    "shareAs": "http://www.edamam.com/recipe/banoffee-pie-with-pecans-and-caramel-sauce-24cf199c7033dce62a4390c4847171af/banana/1000-1400-cal",
+    "yield": 6.0,
+    "dietLabels": [],
+    "healthLabels": ["Vegetarian", "Peanut-Free", "Alcohol-Free"],
+    "cautions": ["Tree-Nuts", "Sulfites", "FODMAP"],
+    "ingredientLines": [
+      "100g/3½oz unsalted butter",
+      "100g/3½oz caster sugar",
+      "400g/14fl oz can condensed milk",
+      "150g/5 oz digestive biscuits, crushed",
+      "230g/8oz pecans, halved",
+      "75g/3oz butter, melted",
+      "3 large bananas, chopped",
+      "250ml/10½oz double cream, whipped until soft peaks form when the whisk is removed",
+      "Cocoa powder, for dusting",
+      "125g/4oz unsalted butter",
+      "125g/4oz soft light brown sugar",
+      "125ml/4fl oz coconut milk"
+    ],
+    "ingredients": [
+      {
+        "text": "100g/3½oz unsalted butter",
+        "weight": 100.0
+      },
+      {
+        "text": "100g/3½oz caster sugar",
+        "weight": 100.0
+      },
+      {
+        "text": "400g/14fl oz can condensed milk",
+        "weight": 400.0
+      },
+      {
+        "text": "150g/5 oz digestive biscuits, crushed",
+        "weight": 150.0
+      },
+      {
+        "text": "230g/8oz pecans, halved",
+        "weight": 230.0
+      },
+      {
+        "text": "75g/3oz butter, melted",
+        "weight": 75.0
+      },
+      {
+        "text": "3 large bananas, chopped",
+        "weight": 408.0
+      },
+      {
+        "text": "250ml/10½oz double cream, whipped until soft peaks form when the whisk is removed",
+        "weight": 297.6699928125
+      },
+      {
+        "text": "Cocoa powder, for dusting",
+        "weight": 0.0
+      },
+      {
+        "text": "125g/4oz unsalted butter",
+        "weight": 125.0
+      },
+      {
+        "text": "125g/4oz soft light brown sugar",
+        "weight": 125.0
+      },
+      {
+        "text": "125ml/4fl oz coconut milk",
+        "weight": 119.40576766588308
+      }
+    ],
+    "calories": 8180.610837504914,
+    "totalWeight": 2130.075760478383,
+    "totalTime": 150.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 8180.610837504914,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 601.3145475837579,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 688.24799487088,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 78.7424313595071,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT145": {
+    "mealType": "Breakfast",
+    "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_d4be55dadb7c7a2812d319fc5dab1b15",
+    "label": "Cornflaked French Toast with Rum sauce",
+    "image": "https://www.edamam.com/web-img/b97/b97c0f657c39329bf0801ed330829b0a.jpg",
+    "source": "Food52",
+    "url": "https://food52.com/recipes/4599-cornflaked-french-toast-with-rum-sauce",
+    "shareAs": "http://www.edamam.com/recipe/cornflaked-french-toast-with-rum-sauce-d4be55dadb7c7a2812d319fc5dab1b15/banana/1000-1400-cal",
+    "yield": 2.0,
+    "dietLabels": [],
+    "healthLabels": ["Vegetarian", "Peanut-Free"],
+    "cautions": ["Wheat", "Tree-Nuts", "Sulfites", "FODMAP"],
+    "ingredientLines": [
+      "1/2 cup cornflakes, crushed",
+      "1/2 cup dessicated coconut/coconut flakes",
+      "1/2 cup pecans, crushed",
+      "2 eggs (or egg whites)",
+      "100ml milk",
+      "3 tablespoons maple syrup",
+      "1 tablespoon of water, room temperature",
+      "Pinch of salt",
+      "1/2 a teaspoon cinnamon or vanilla powder (to taste)",
+      "4-6 slices (wholemeal) sandwich bread (optional to cut into triangles)",
+      "Butter, to fry",
+      "Cooking oil, to fry",
+      "Rum sauce, recipe below",
+      "Creme fraiche, to serve",
+      "Fresh fruit eg bananas, strawberries, pineapple",
+      "1 fresh red chilli, deseeded and minced",
+      "100ml dark rum",
+      "4 tablespoons brown sugar",
+      "50ml water"
+    ],
+    "ingredients": [
+      {
+        "text": "1/2 cup cornflakes, crushed",
+        "weight": 14.0
+      },
+      {
+        "text": "1/2 cup dessicated coconut/coconut flakes",
+        "weight": 42.5
+      },
+      {
+        "text": "1/2 cup pecans, crushed",
+        "weight": 49.5
+      },
+      {
+        "text": "2 eggs (or egg whites)",
+        "weight": 86.0
+      },
+      {
+        "text": "100ml milk",
+        "weight": 103.13276924062113
+      },
+      {
+        "text": "3 tablespoons maple syrup",
+        "weight": 60.0
+      },
+      {
+        "text": "1 tablespoon of water, room temperature",
+        "weight": 14.786764781
+      },
+      {
+        "text": "Pinch of salt",
+        "weight": 0.380208333815447
+      },
+      {
+        "text": "1/2 a teaspoon cinnamon or vanilla powder (to taste)",
+        "weight": 1.3
+      },
+      {
+        "text": "4-6 slices (wholemeal) sandwich bread (optional to cut into triangles)",
+        "weight": 145.0
+      },
+      {
+        "text": "Butter, to fry",
+        "weight": 22.397197066336883
+      },
+      {
+        "text": "Cooking oil, to fry",
+        "weight": 22.397197066336883
+      },
+      {
+        "text": "Creme fraiche, to serve",
+        "weight": 0.0
+      },
+      {
+        "text": "Fresh fruit eg bananas, strawberries, pineapple",
+        "weight": 905.0
+      },
+      {
+        "text": "1 fresh red chilli, deseeded and minced",
+        "weight": 45.0
+      },
+      {
+        "text": "100ml dark rum",
+        "weight": 94.00298311112354
+      },
+      {
+        "text": "4 tablespoons brown sugar",
+        "weight": 36.24999999938712
+      },
+      {
+        "text": "50ml water",
+        "weight": 50.0
+      }
+    ],
+    "calories": 2588.7530052531993,
+    "totalWeight": 1691.647119598621,
+    "totalTime": 219.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 2588.7530052531993,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 121.23449860716292,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 304.3847562411884,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 44.14567840614269,
+        "unit": "g"
+      }
+    }
+  },
+  "RCPT146": {
+    "mealType": "Breakfast",
+    "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_760c2437c2695ff13191fbcc78166a78",
+    "label": "Carrot Cake Recipe",
+    "image": "https://www.edamam.com/web-img/b7b/b7b7de639913cb3b1fb4b8606d386282.jpg",
+    "source": "101 Cookbooks",
+    "url": "http://www.101cookbooks.com/archives/carrot-cake-recipe.html",
+    "shareAs": "http://www.edamam.com/recipe/carrot-cake-recipe-760c2437c2695ff13191fbcc78166a78/banana/1000-1400-cal",
+    "yield": 4.0,
+    "dietLabels": [],
+    "healthLabels": ["Peanut-Free", "Alcohol-Free"],
+    "cautions": ["Sulfites", "FODMAP"],
+    "ingredientLines": [
+      "2 cups whole wheat pastry flour",
+      "2 1/2 tsp Baking Powder",
+      "1 1/2 tsp Cinnamon",
+      "3/4 tsp fine grain sea salt",
+      "3/4 cup walnuts finely chopped",
+      "4 oz Unsalted Butter, heated until just melted",
+      "1/2 cup dried dates, seeded and finely chopped into a paste",
+      "3 cup ripe Bananas, mashed well",
+      "1 1/2 cup carrots, grated (about 3 meduim)",
+      "1/2 cup plain Greek yogurt (2% or lowfat is ok)",
+      "2 x Eggs, lightly whisked",
+      "6 oz cream cheese, room temperature",
+      "3 tbsp Agave nectar or maple syrup (or to taste)"
+    ],
+    "ingredients": [
+      {
+        "text": "2 cups whole wheat pastry flour",
+        "weight": 238.0
+      },
+      {
+        "text": "2 1/2 tsp Baking Powder",
+        "weight": 11.5
+      },
+      {
+        "text": "1 1/2 tsp Cinnamon",
+        "weight": 3.9000000000000004
+      },
+      {
+        "text": "3/4 tsp fine grain sea salt",
+        "weight": 4.5
+      },
+      {
+        "text": "3/4 cup walnuts finely chopped",
+        "weight": 87.75
+      },
+      {
+        "text": "4 oz Unsalted Butter, heated until just melted",
+        "weight": 113.3980925
+      },
+      {
+        "text": "1/2 cup dried dates, seeded and finely chopped into a paste",
+        "weight": 112.5
+      },
+      {
+        "text": "3 cup ripe Bananas, mashed well",
+        "weight": 675.0
+      },
+      {
+        "text": "1 1/2 cup carrots, grated (about 3 meduim)",
+        "weight": 165.0
+      },
+      {
+        "text": "1/2 cup plain Greek yogurt (2% or lowfat is ok)",
+        "weight": 144.0
+      },
+      {
+        "text": "2 x Eggs, lightly whisked",
+        "weight": 86.0
+      },
+      {
+        "text": "6 oz cream cheese, room temperature",
+        "weight": 170.09713875
+      },
+      {
+        "text": "3 tbsp Agave nectar or maple syrup (or to taste)",
+        "weight": 62.3999999989449
+      }
+    ],
+    "calories": 4181.088537746983,
+    "totalWeight": 1874.045231248945,
+    "totalTime": 0.0,
+    "totalNutrients": {
+      "ENERC_KCAL": {
+        "label": "Energy",
+        "quantity": 4181.088537746983,
+        "unit": "kcal"
+      },
+      "FAT": {
+        "label": "Fat",
+        "quantity": 230.73243813475,
+        "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 509.31187740182315,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 79.695729114125,
+        "unit": "g"
+      }
+    },
+
+    "RCPT147": {
+      "mealType": "Breakfast",
+      "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_57fb1d1040b495a2999c19c3a6484c0f",
+      "label": "French Toast Tacos",
+      "image": "https://www.edamam.com/web-img/9be/9bea0db7ceaaaeac989dd999803ceedb.jpeg",
+      "source": "Food Network",
+      "url": "https://www.foodnetwork.com/recipes/aria-kagan/french-toast-tacos-recipe-2040628",
+      "shareAs": "http://www.edamam.com/recipe/french-toast-tacos-57fb1d1040b495a2999c19c3a6484c0f/banana/1000-1400-cal",
+      "yield": 6.0,
+      "dietLabels": [],
+      "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
+      "cautions": ["Milk", "Sulfites"],
+      "ingredientLines": [
+        "6 slices applewood smoked bacon",
+        "6 teaspoons brown sugar",
+        "2 tablespoons honey",
+        "2 teaspoons ground cinnamon",
+        "1 cup heavy cream",
+        "1/2 cup chopped dark chocolate",
+        "Pinch salt",
+        "6 eggs",
+        "2 cups whole milk",
+        "2 vanilla beans, halved and seeds scraped",
+        "1/2 cup sugar",
+        "6 slices brioche bread",
+        "4-ounces or 1 stick butter",
+        "2 cups strawberries, hulled and quartered",
+        "2 tablespoons sugar",
+        "2 bananas, thinly sliced",
+        "1 pint heavy cream",
+        "1/4 cup confectioners sugar",
+        "1 teaspoon vanilla extract"
+      ],
+      "ingredients": [
+        {
+          "text": "6 slices applewood smoked bacon",
+          "weight": 174.0
+        },
+        {
+          "text": "6 teaspoons brown sugar",
+          "weight": 18.0
+        },
+        {
+          "text": "2 tablespoons honey",
+          "weight": 42.0
+        },
+        {
+          "text": "2 teaspoons ground cinnamon",
+          "weight": 5.2
+        },
+        {
+          "text": "1 cup heavy cream",
+          "weight": 238.0
+        },
+        {
+          "text": "1/2 cup chopped dark chocolate",
+          "weight": 91.0
+        },
+        {
+          "text": "Pinch salt",
+          "weight": 0.380208333815447
+        },
+        {
+          "text": "6 eggs",
+          "weight": 258.0
+        },
+        {
+          "text": "2 cups whole milk",
+          "weight": 488.0
+        },
+        {
+          "text": "2 vanilla beans, halved and seeds scraped",
+          "weight": 10.0
+        },
+        {
+          "text": "1/2 cup sugar",
+          "weight": 100.0
+        },
+        {
+          "text": "6 slices brioche bread",
+          "weight": 240.0
+        },
+        {
+          "text": "4-ounces or 1 stick butter",
+          "weight": 113.3980925
+        },
+        {
+          "text": "2 cups strawberries, hulled and quartered",
+          "weight": 304.0
+        },
+        {
+          "text": "2 tablespoons sugar",
+          "weight": 24.9999999995774
+        },
+        {
+          "text": "2 bananas, thinly sliced",
+          "weight": 231.39999999999998
+        },
+        {
+          "text": "1 pint heavy cream",
+          "weight": 476.8
+        },
+        {
+          "text": "1/4 cup confectioners sugar",
+          "weight": 30.0
+        },
+        {
+          "text": "1 teaspoon vanilla extract",
+          "weight": 4.2
+        }
+      ],
+      "calories": 7057.800323223364,
+      "totalWeight": 2849.378300833393,
+      "totalTime": 68.0,
+      "totalNutrients": {
+        "ENERC_KCAL": {
+          "label": "Energy",
+          "quantity": 7057.800323223364,
+          "unit": "kcal"
+        },
+        "FAT": {
+          "label": "Fat",
+          "quantity": 520.85151282675,
+          "unit": "g"
+        },
+        "CHOCDF": {
+          "label": "Carbs",
+          "quantity": 493.36489885507746,
+          "unit": "g"
+        },
+        "PROCNT": {
+          "label": "Protein",
+          "quantity": 120.16444378625,
+          "unit": "g"
+        }
       }
     }
   }
