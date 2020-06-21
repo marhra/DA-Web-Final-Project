@@ -5,12 +5,28 @@
             <div>
                 <h4>{{item.breakfast.label}}</h4>
                 <p><small>{{ Math.round(item.breakfast.caloriesPerPortion) }} kCal</small></p>
+    
+                <ul>
+                    <li v-for="(ingredient, index) in item.breakfast.ingredients" v-bind:key="index">
+                        <strong>{{ingredient.text}}</strong>
+                    </li>
+                </ul>
                 
                 <h4>{{item.lunch.label}}</h4>
                 <p><small>{{ Math.round(item.lunch.caloriesPerPortion) }} kCal</small></p>
+                <ul>
+                    <li v-for="(ingredient, index) in item.lunch.ingredients" v-bind:key="index">
+                        <strong>{{ingredient.text}}</strong>
+                    </li>
+                </ul>
                 
                 <h4>{{item.dinner.label}}</h4>
                 <p><small>{{ Math.round(item.dinner.caloriesPerPortion) }} kCal</small></p>
+                <ul>
+                    <li v-for="(ingredient, index) in item.dinner.ingredients" v-bind:key="index">
+                        <strong>{{ingredient.text}}</strong>
+                    </li>
+                </ul>
             </div>
         </div>
         
@@ -19,28 +35,11 @@
 </template>
 
 <script>
-    import createMenu from '../vypocet';
-    
-    let obj = [];
-    let days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
-    
-    for (let i = 0; i < 7; i++) {
-        console.log(i, createMenu());
-        let item = {
-            day: days[i],
-            breakfast: createMenu().breakfast,
-            lunch: createMenu().lunch,
-            dinner: createMenu().dinner
-        };
-        
-        obj.push(item);
-    }
-    
     export default {
         name: "Results",
         data: function() {
             return {
-                items: obj
+                items: JSON.parse(localStorage.getItem('currentMenu'))
             }
         }
     };

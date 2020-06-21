@@ -1,9 +1,9 @@
 const data = require("./json/data.json");
 
-function createMenu() {
+function createMenu(value) {
   const recipes = Object.values(data).map(e => ({ ...e, caloriesPerPortion: e.calories / e.yield }));
   
-  const userInput = 1500;
+  const userInput = value;
   
   const breakfasts = recipes.filter(recipe => recipe.mealType === "Breakfast").filter(recipe => recipe.caloriesPerPortion > 0.1 * userInput && recipe.caloriesPerPortion < 0.44 * userInput);
   

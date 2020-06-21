@@ -114,11 +114,14 @@
     </div>
     <div class="link" align="center">
       <b-button v-bind:to="'/components/Recipes'">Create your meal plan</b-button>
+      <button v-on:click="generateMenu">button</button>
     </div>
   </div>
 </template>
 
 <script>
+  import createMenu from '../vypocet';
+  
 export default {
   name: "Calculator",
   data() {
@@ -161,6 +164,27 @@ export default {
       } else if (this.goal === "Gain") {
         this.goalIntake = (this.yourBMR * this.activity + 500).toFixed(0);
       }
+    },
+    generateMenu() {
+      console.log('hello');
+  
+  
+      let obj = [];
+      let days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+  
+      for (let i = 0; i < 7; i++) {
+        let meals = createMenu(this.goalIntake);
+        let item = {
+          day: days[i],
+          breakfast: meals.breakfast,
+          lunch: meals.lunch,
+          dinner: meals.dinner
+        };
+    
+        obj.push(item);
+      }
+      localStorage.setItem('currentMenu', JSON.stringify(obj));
+      
     }
   }
 };
