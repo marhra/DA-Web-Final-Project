@@ -1,9 +1,17 @@
 <template>
   <div class="container">
-    <p>Jsme holky šikovný :-*</p>
+    <div class="foto">
+      <img src="assets/kocka.jpg" alt="photo" />
+      <img src="assets/kocka.jpg" alt="photo" />
+    </div>
   </div>
 </template>
 
 <script></script>
 
-<style lang="css"></style>
+<style lang="css">
+.foto {
+  display: flex;
+  flex-direction: row;
+}
+</style>
