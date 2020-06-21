@@ -30,6 +30,7 @@
               >
               <b-nav-item :to="{ name: 'Recipes' }">Recipes</b-nav-item>
               <b-nav-item :to="{ name: 'AboutUs' }">About us</b-nav-item>
+              <b-nav-item :to="{ name: 'Results' }">Results</b-nav-item>
             </b-navbar-nav>
           </b-collapse>
         </b-navbar>
