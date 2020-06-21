@@ -1,5 +1,6 @@
 <template>
-  <div class="container">
+  <div class="container-recipe">
+    <img src="assets/recipe_image.jpg" alt="food" />
     <div class="cards">
       <b-card
         no-body
@@ -12,12 +13,12 @@
       >
         <b-card-body>
           <b-card-title :title="recipe.label"></b-card-title>
-          <b-card-sub-title class="mb-1"
-            >{{
-              Math.round(recipe.calories / recipe.yield)
+          <b-card-sub-title class="mb-1">
+            {{
+            Math.round(recipe.calories / recipe.yield)
             }}
-            kcal</b-card-sub-title
-          >
+            kcal
+          </b-card-sub-title>
         </b-card-body>
       </b-card>
     </div>
@@ -31,13 +32,17 @@ export default {
   name: "Recipes",
   data() {
     return {
-      recipes: Object.values(data),
+      recipes: Object.values(data)
     };
-  },
+  }
 };
 </script>
 
-<style scoped>
+<style>
+.container-recipe {
+  padding: 40px 100px 40px 100px;
+}
+
 h3 {
   margin: 30px;
 }
@@ -45,6 +50,7 @@ h3 {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  margin-top: 40px;
 }
 
 .card-title {

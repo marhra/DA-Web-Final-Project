@@ -21,7 +21,7 @@ export default new VueRouter({
         component: Home
     },
     {
-        path: "/About",
+        path: "/AboutUs",
         name: "AboutUs",
         component: AboutUs
     },

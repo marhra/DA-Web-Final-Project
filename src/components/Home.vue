@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <Intro />
+
     <Calculator />
     <router-view></router-view>
   </div>

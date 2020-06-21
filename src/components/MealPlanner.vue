@@ -1,5 +1,6 @@
 <template>
   <b-container fluid>
+    <img src="assets/Meal_plan_image.jpg" alt="food" />
     <!-- User Interface controls -->
     <b-row>
       <b-col lg="6" class="my-1">
@@ -239,7 +240,11 @@ export default {
 </script>
 
 <style>
-.container-fluid {
+.row {
   margin-top: 40px;
+}
+
+.container-fluid {
+  padding: 40px 100px 40px 100px;
 }
 </style>

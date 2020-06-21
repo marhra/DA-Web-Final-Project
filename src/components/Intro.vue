@@ -26,13 +26,17 @@
 
 <script>
 export default {
-  name: "Intro",
+  name: "Intro"
 };
 </script>
 
 <style lang="css">
 .intro {
-  padding: 40px 100px 40px 100px;
+  padding: 10px 100px 40px 100px;
+}
+
+.header-image {
+  margin-bottom: 20px;
 }
 
 .text {

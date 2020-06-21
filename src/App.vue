@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container container--shadow">
     <div class="page"></div>
     <Header />
     <router-view></router-view>
@@ -21,11 +21,15 @@ export default {
     Intro: Intro,
     Calculator: Calculator,
     Recipes: Recipes,
-    Footer: Footer,
-  },
+    Footer: Footer
+  }
 };
 </script>
 
 <style lang="css">
 @import "~bootstrap/dist/css/bootstrap.css";
+
+.container--shadow {
+  box-shadow: 1px 1px 20px 0px rgba(0, 0, 0, 1);
+}
 </style>
