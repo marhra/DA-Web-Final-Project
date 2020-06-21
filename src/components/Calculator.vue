@@ -181,6 +181,8 @@ export default {
         obj.push(item);
       }
       localStorage.setItem('currentMenu', JSON.stringify(obj));
+      
+      this.$router.push('/Results');
     }
   }
 };

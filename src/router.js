@@ -36,5 +36,8 @@ export default new VueRouter({
         component: Results
     }
 
-    ]
+    ],
+    scrollBehavior() {
+        return {x: 0, y: 0}
+    }
 })
