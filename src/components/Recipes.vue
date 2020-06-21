@@ -27,7 +27,7 @@
 
 <script>
 import data from "../json/data.json";
-console.log(data);
+
 export default {
   name: "Recipes",
   data() {
