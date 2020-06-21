@@ -113,8 +113,8 @@
       </div>
     </div>
     <div class="link" align="center">
-      <b-button v-bind:to="'/components/Recipes'">Create your meal plan</b-button>
-      <button v-on:click="generateMenu">button</button>
+<!--      <b-button v-bind:to="'/components/Recipes'">Create your meal plan</b-button>-->
+      <b-button v-on:click="generateMenu">Generate menu</b-button>
     </div>
   </div>
 </template>
@@ -166,9 +166,6 @@ export default {
       }
     },
     generateMenu() {
-      console.log('hello');
-  
-  
       let obj = [];
       let days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
   
@@ -184,7 +181,6 @@ export default {
         obj.push(item);
       }
       localStorage.setItem('currentMenu', JSON.stringify(obj));
-      
     }
   }
 };
