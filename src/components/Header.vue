@@ -26,7 +26,7 @@ img {
   max-height: 100%;
 }
 
-.header {
+.header-navbar {
   width: 100%;
   padding-left: 200px;
   padding-right: 200px;
