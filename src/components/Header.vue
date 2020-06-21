@@ -8,6 +8,7 @@
           <img src="assets/logo_apple.png" alt="food" height="100px" />
         </div>
         <router-link :to="{ path: 'Recipes' }" class="routerlink">Recipes</router-link>
+        <router-link :to="{ path: 'Results' }" class="routerlink">Results</router-link>
         <router-link :to="{ path: 'AboutUs' }" class="routerlink">About us</router-link>
       </div>
     </div>
