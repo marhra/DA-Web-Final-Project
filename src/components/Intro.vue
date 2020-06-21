@@ -1,5 +1,8 @@
 <template>
   <div class="intro">
+    <div class="header-image">
+      <img src="assets/homepage_image.jpg" alt="food" />
+    </div>
     <h3>Eat well and stay healthy</h3>
     <p>
       Struggling for breakfast or dinner inspiration? Leave it to us! To
