@@ -4,6 +4,7 @@ import Recipes from "./components/Recipes.vue";
 import Home from "./components/Home.vue";
 import AboutUs from "./components/AboutUs.vue";
 import MealPlanner from "./components/MealPlanner.vue";
+import Results from "./components/Results.vue";
 
 Vue.use(VueRouter);
 
@@ -28,6 +29,11 @@ export default new VueRouter({
         path: "/MealPlanner",
         name: "MealPlanner",
         component: MealPlanner
+    },
+    {
+        path: "/Results",
+        name: "Results",
+        component: Results
     }
 
     ]
