@@ -1,38 +1,14 @@
 <template>
   <header>
-    <!-- <div class="menu d-flex justify-content-between align-items-center">
-      <router-link to="/">
-        <img src="assets/logo_apple.png" alt="logo" />
-      </router-link>
-      <router-link to="/">Home</router-link>
-      <router-link to="/MealPLanner">Meal planner</router-link>
-      <router-link to="/Recipes">Recipes</router-link>
-      <router-link to="/AboutUs">About us</router-link> -->
-
     <div class="header">
-      <div class="navbar d-flex justify-content-around align-items-center">
-        <b-navbar variant="faded" type="light">
-          <b-navbar-brand href="#">
-            <img
-              class="main-image"
-              src="assets/logo_apple.png"
-              alt="logo"
-              width="75%"
-              height="75%"
-            />
-          </b-navbar-brand>
-
-          <b-collapse id="nav-collapse" is-nav>
-            <b-navbar-nav>
-              <b-nav-item :to="{ name: 'Home' }">Home</b-nav-item>
-              <b-nav-item :to="{ name: 'MealPlanner' }"
-                >Meal planner</b-nav-item
-              >
-              <b-nav-item :to="{ name: 'Recipes' }">Recipes</b-nav-item>
-              <b-nav-item :to="{ name: 'AboutUs' }">About us</b-nav-item>
-            </b-navbar-nav>
-          </b-collapse>
-        </b-navbar>
+      <div class="navbar">
+        <router-link :to="{ path: '/' }">Home</router-link>
+        <router-link :to="{ path: '/MealPlanner' }">Meal planner</router-link>
+        <div class="apple">
+          <img src="assets/logo_apple.png" alt="food" height="100px" />
+        </div>
+        <router-link :to="{ path: 'Recipes' }">Recipes</router-link>
+        <router-link :to="{ path: 'AboutUs' }">About us</router-link>
       </div>
     </div>
   </header>
@@ -40,7 +16,7 @@
 
 <script>
 export default {
-  name: "Header",
+  name: "Header"
 };
 </script>
 
@@ -52,9 +28,24 @@ img {
 
 .header {
   width: 100%;
+  padding-left: 200px;
+  padding-right: 200px;
+  color: green;
 }
 
-.main-image {
+.navbar {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  text-decoration: none;
+  color: green;
+}
+
+router-link {
+  color: green;
+}
+
+.apple {
   max-width: 50%;
   max-height: 50%;
 }
