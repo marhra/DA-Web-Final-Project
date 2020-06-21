@@ -42,28 +42,6 @@
       </b-container>
     </div>
   </b-footer>
-  <!-- Footer -->
-
-  <!--
-  <b-footer color="blue" class="font-small pt-4 mt-4">
-    <b-container class="text-left">
-      <b-row>
-        <b-col sm="6">
-          <h5 class="title">Contact</h5>
-          <p>
-            If you have any questions about the project, please don't ask us. We
-            are happy we made it...somehow!
-          </p>
-        </b-col>
-      </b-row>
-    </b-container>
-    <div class="footer-copyright text-center py-3">
-      <b-container fluid>
-        &copy; 2020 Copyright: Maru & Lucka
-      </b-container>
-    </div>
-  </b-footer>
-  <!-- Footer -->
 </template>
 
 <script>
