@@ -1,6 +1,6 @@
 <template>
   <!-- Footer -->
-  <b-footer color="success" class="page-footer font-small pt-0">
+  <footer color="success" class="page-footer font-small pt-0">
     <b-container class="mt-5 mb-4 text-center text-md-left">
       <b-row class="mt-3 justify-content-around">
         <b-col md="3" class="mb-4">
@@ -41,7 +41,7 @@
         &copy; 2020 Copyright: Maru & Lucka
       </b-container>
     </div>
-  </b-footer>
+  </footer>
 </template>
 
 <script>
