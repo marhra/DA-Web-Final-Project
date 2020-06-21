@@ -79,9 +79,6 @@
           class="mr-1"
           >Detail</b-button
         >
-        <b-button size="sm" @click="row.toggleDetails"
-          >{{ row.detailsShowing ? "Hide" : "Show" }} Details</b-button
-        >
       </template>
 
       <template v-slot:row-details="row">
@@ -116,7 +113,9 @@
       <h3>{{ infoModal.content }}</h3>
       <h5>Calories:</h5>
       {{ Math.round(infoModal.calories) }} kcal
-      <img :src="infoModal.image" alt="Girl in a jacket" />
+      <br />
+
+      <img :src="infoModal.image" alt="meal" />
 
       <h5>Food allergies:</h5>
       <li v-for="(item, index) in this.infoModal.cautions" v-bind:key="index">
@@ -126,7 +125,7 @@
       {{ Math.round(this.infoModal.fat) }} g
       <h5>Protein:</h5>
       {{ Math.round(this.infoModal.protein) }} g
-      <ph5>Carbs: {{ Math.round(this.infoModal.carbs) }} g</ph5>
+      <h5>Carbs: {{ Math.round(this.infoModal.carbs) }} g</h5>
       <h5>Ingredients:</h5>
       <li
         v-for="(item, index) in this.infoModal.ingredientLines"

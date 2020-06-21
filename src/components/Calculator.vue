@@ -221,4 +221,36 @@ export default {
 .link {
   margin: auto;
 }
+
+@media screen and (max-width: 992px) {
+  .calculator {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .input-form {
+    padding: 10px;
+    width: 100%;
+  }
+
+  .side {
+    padding: 10px;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .calculator {
+    display: flex;
+    flex-direction: column;
+  }
+  .input-form {
+    padding: 10px;
+    width: 100%;
+  }
+
+  .side {
+    padding: 10px;
+    width: 100%;
+  }
+}
 </style>

@@ -37,7 +37,7 @@
       class="footer-copyright text-center py-3"
       style="backgroundColor: rgb(23, 201, 100)"
     >
-      <b-container fluid>
+      <b-container>
         &copy; 2020 Copyright: Maru & Lucka
       </b-container>
     </div>
