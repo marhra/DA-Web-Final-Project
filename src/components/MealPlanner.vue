@@ -80,6 +80,10 @@
         </b-card>
       </b-card>
     </div>
+    <p class="new-plan">
+      Do you want to make a weekly meal plan?
+      <br />Click on the button below and generate your customized meal plan that suits your energy intake requirements.
+    </p>
     <div class="clear">
       <b-button v-on:click="resetMenu" variant="secondary">Create a new meal plan</b-button>
     </div>
@@ -135,6 +139,11 @@ ul {
 
 .ingredients > li {
   margin: 0;
+}
+
+.new-plan {
+  text-align: center;
+  padding: 30px 60px 30px 60px 30;
 }
 
 .clear {

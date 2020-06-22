@@ -6,12 +6,14 @@
     <div class="intro-text">
       <h3>Meal planning - no rocket science</h3>
       <p>Meal planning. It is something that’s always on your to-do list but somehow never actually happens? Or is it something you dread because it seems time-consuming and boring? Yes, meal planning takes a great deal of dedication, commitment, and work. The basic mechanics of meal planning are fairly straightforward, but where to take all the recipes ideas? The good news: there is a better and much simplier way. Leave it to us!</p>
+
       <h3>How much energy your body actually needs</h3>
-      <p>
-        To maintain a constant weight, our bodies have to burn the same amount of energy as they consume. What sounds easy in theory can be challenging in practice; people who eat more generally also have to do more exercise, otherwise they can start to gain weight. Energy requirements vary with age, gender, body size and activity levels. This Energy Requirements Calculator estimates your daily energy requirements for good health based on what your body needs for
-        breathing, circulating blood, digesting food (Basal Metabolic Rate - BMR) and physical activity.
-      </p>
-      <h4>It has never been easier. Create your weekly meal plan in 3 steps:</h4>
+      <p>To maintain a constant weight, our bodies have to burn the same amount of energy as they consume. What sounds easy in theory can be challenging in practice; people who eat more generally also have to do more exercise, otherwise they can start to gain weight. Energy requirements vary with age, gender, body size and activity levels. Basal Metabolic Rate (BMR) is the amount of energy a human body uses when it is completely at rest. It's the amount of energy your body needs to support its vital functions: breathing, blood circulation, controlling body temperature, brain and nerve functions to name a few. The organs that use the most energy at rest are the brain, the central nervous system and the liver.</p>
+
+      <h3>BMR a TTE Calculator</h3>
+      <p>BMR Calculator is a simple tool that helps you calculate how many calories your body needs if you were only to rest for the whole day. This calculator uses the Mifflin St Jeor equation. However, people regularly use more energy than their BMR. Walking, running, working, talking, and even digesting are actions that require some extra energy greater than the BMR. Your BMR accounts for about 60% to 75% of your Total Energy Expenditure (TTE), depending on your lifestyle and activity level. The TTE is the total number of calories you burn every day. Physical activities account for about 20% of your TTE but can vary a bit depending on how often you exercise for and its intensity.</p>
+
+      <h4>It has never been easier. Let's create your weekly meal plan based on your TTE in 3 steps:</h4>
     </div>
     <div class="cards">
       <div class="step">
@@ -63,17 +65,17 @@ export default {
   display: flex;
   justify-content: space-around;
   text-align: center;
-  padding: 40px 0px 40px 0px;
+  padding: 40px 20px 40px 20px;
 }
 
 .step {
   border: none;
-  padding: 10px;
+  margin: 0 20px 0px 20px;
 }
 
 .number {
-  width: 70%;
-  padding-left: 40px;
+  width: 60%;
+  padding-left: 120px;
 }
 
 .card-text {

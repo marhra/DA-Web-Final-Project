@@ -163,7 +163,7 @@
       </p>
       <div class="link" align="center">
         <!--      <b-button v-bind:to="'/components/Recipes'">Create your meal plan</b-button>-->
-        <button v-on:click="generateMenu" class="button">Generate menu</button>
+        <button v-on:click="generateMenu" class="button">Generate your weekly menu</button>
       </div>
     </div>
     <div class="disclaimer">
