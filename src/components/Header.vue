@@ -46,4 +46,8 @@ img {
   max-width: 50%;
   max-height: 50%;
 }
+
+a:hover {
+  color: green;
+}
 </style>

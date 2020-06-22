@@ -1,7 +1,6 @@
 <template>
   <div class="calculator2">
     <div class="cal-body">
-      <h2>Calculator</h2>
       <div class="header">
         <!--RADIO 1-->
 
@@ -144,7 +143,7 @@
               v-model.number="goal"
               type="radio"
               class="radio_item"
-              valuevalue="Gain"
+              value="Gain"
               name="goal"
               id="radio8"
             />
@@ -171,8 +170,10 @@
 </template>
 
 <script>
+import createMenu from "../vypocet";
+
 export default {
-  name: "Calculator2",
+  name: "Calculator",
   data() {
     return {
       gender: "",
@@ -213,6 +214,33 @@ export default {
       } else if (this.goal === "Gain") {
         this.goalIntake = (this.yourBMR * this.activity + 500).toFixed(0);
       }
+    },
+    generateMenu() {
+      let obj = [];
+      let days = [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ];
+
+      for (let i = 0; i < 7; i++) {
+        let meals = createMenu(this.goalIntake);
+        let item = {
+          day: days[i],
+          breakfast: meals.breakfast,
+          lunch: meals.lunch,
+          dinner: meals.dinner
+        };
+
+        obj.push(item);
+      }
+      localStorage.setItem("currentMenu", JSON.stringify(obj));
+
+      this.$router.push("/MealPlanner");
     }
   }
 };
@@ -242,10 +270,9 @@ export default {
 }
 
 .button {
-  background-color: green;
   color: black;
   border: black;
-  border-radius: 12px;
+
   font-size: 20px;
   margin-bottom: 20px;
   margin-top: 50px;
@@ -324,10 +351,10 @@ h2 {
   display: flex;
   justify-content: center;
   margin-top: 40px;
+  margin-bottom: 40px;
 }
 
 input {
-  border-radius: 60px 60px 60px 60px;
   margin-left: 20px;
 }
 </style>
