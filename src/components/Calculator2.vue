@@ -267,10 +267,6 @@ export default {
   padding-bottom: 20px;
 }
 
-.input {
-  width: 17%;
-}
-
 .h7 {
   font-weight: bold;
   padding-bottom: 20px;
@@ -287,10 +283,6 @@ export default {
   font-size: 20px;
   margin-bottom: 20px;
   margin-top: 50px;
-}
-.exeFooter {
-  margin-top: 20px;
-  margin-bottom: 20px;
 }
 
 .exeForms {
@@ -367,5 +359,60 @@ h2 {
 
 input {
   margin-left: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .windows {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .exeForms {
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+  }
+
+  .left {
+    padding-bottom: 40px;
+  }
+  .button {
+    font-size: 22px;
+  }
+  .picture {
+    width: 30%;
+    margin: 20px;
+  }
+
+  .disclaimer {
+    margin-top: 10px;
+  }
+  .input {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .exeForms {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .left {
+    padding-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .input {
+    width: 30%;
+  }
+}
+@media screen and (min-width: 992px) {
+  .exeFooter {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
 }
 </style>
