@@ -112,6 +112,9 @@
         </div>
       </div>
     </div>
+    <div class="disclaimer">
+      <p>*Disclaimer: The results given by our BMR calculator should be used only as a guide and should not replace medical advice. Please bear in mind that, when interpreting the results of this BMR calculator, other factors such as your lean body mass should be considered. You should always speak to a qualified Doctor or health professional for advice and guidance before making any dramatic changes to your lifestyle.</p>
+    </div>
     <div class="link" align="center">
       <!--      <b-button v-bind:to="'/components/Recipes'">Create your meal plan</b-button>-->
       <b-button v-on:click="generateMenu">Generate menu</b-button>
@@ -190,7 +193,11 @@ export default {
       }
       localStorage.setItem("currentMenu", JSON.stringify(obj));
 
+<<<<<<< HEAD
       this.$router.push("/Results");
+=======
+      this.$router.push("/MealPlanner");
+>>>>>>> 9305c9da5209273e5b8491fcedd19d4a5a2717c7
     }
   }
 };
@@ -225,6 +232,11 @@ export default {
 
 .link {
   margin: auto;
+}
+
+.disclaimer {
+  font-size: 0.8em;
+  margin: 10px 80px 20px 80px;
 }
 
 @media screen and (max-width: 992px) {
