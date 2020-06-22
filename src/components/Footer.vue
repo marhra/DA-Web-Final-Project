@@ -30,7 +30,7 @@
 
       <!--Copyright-->
       <div class="footer-copyright py-3 text-center">
-        <div class="container-fluid">© 2018 Copyright: Maru & Lucka</div>
+        <div class="container-fluid">© 2020 Copyright: Maru & Lucka</div>
       </div>
     </footer>
   </div>
@@ -43,11 +43,12 @@ export default {
 </script>
 
 <style lang="css">
-.container-fluid {
-  padding: 0;
-}
 .row {
   padding: 60px 80px 0px 40px;
   justify-content: space-around;
+}
+
+.footer-copyright {
+  background-color: rgb(73, 189, 96);
 }
 </style>

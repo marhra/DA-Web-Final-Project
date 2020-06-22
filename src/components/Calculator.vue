@@ -115,6 +115,7 @@
     <div class="disclaimer">
       <p>*Disclaimer: The results given by our BMR calculator should be used only as a guide and should not replace medical advice. Please bear in mind that, when interpreting the results of this BMR calculator, other factors such as your lean body mass should be considered. You should always speak to a qualified Doctor or health professional for advice and guidance before making any dramatic changes to your lifestyle.</p>
     </div>
+    <p>lets you organize all of your favorite recipes and create meal plans in</p>
     <div class="link" align="center">
       <!--      <b-button v-bind:to="'/components/Recipes'">Create your meal plan</b-button>-->
       <b-button v-on:click="generateMenu">Generate menu</b-button>

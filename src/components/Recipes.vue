@@ -95,14 +95,13 @@
 
         <img :src="infoModal.image" alt="meal" width="75%" />
         <br />
-        <h6>Calories: {{ Math.round(infoModal.calories) }} kcal</h6>
         <h6>Food allergies:</h6>
         <li v-for="(item, index) in this.infoModal.cautions" v-bind:key="index">{{ item }}</li>
+        <h6>Calories: {{ Math.round(infoModal.calories) }} kcal</h6>
         <h6>
           Fat:
-          {{ Math.round(this.infoModal.fat) }} g,
-          Protein:
-          {{ Math.round(this.infoModal.protein) }} g, Carbs: {{ Math.round(this.infoModal.carbs) }} g
+          {{ Math.round(this.infoModal.fat) }} g | Protein:
+          {{ Math.round(this.infoModal.protein) }} g | Carbs: {{ Math.round(this.infoModal.carbs) }} g
         </h6>
         <h6>Ingredients:</h6>
         <li v-for="(item, index) in this.infoModal.ingredientLines" v-bind:key="index">{{ item }}</li>
@@ -209,7 +208,7 @@ export default {
       this.currentPage = 1;
     },
     instructions() {
-      window.open = this.infoModal.url;
+      window.location = this.infoModal.url;
     }
   }
 };

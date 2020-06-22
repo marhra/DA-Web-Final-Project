@@ -4,22 +4,14 @@
       <img src="assets/homepage_image.jpg" alt="food" />
     </div>
     <div class="intro-text">
-      <h3>Eat well and stay healthy</h3>
-      <p>
-        Struggling for breakfast or dinner inspiration? Leave it to us! To
-        maintain a constant weight, our bodies have to burn the same amount of
-        energy as they consume. What sounds easy in theory can be challenging in
-        practice; people who eat more generally also have to do more exercise.
-      </p>
+      <h3>Meal planning - no rocket science</h3>
+      <p>Meal planning. It is something that’s always on your to-do list but somehow never actually happens? Or is it something you dread because it seems time-consuming and boring? Yes, meal planning takes a great deal of dedication, commitment, and work. The basic mechanics of meal planning are fairly straightforward, but where to take all the recipes ideas? The good news: there is a better and much simplier way. Leave it to us!</p>
       <h3>How much energy your body actually needs</h3>
       <p>
-        Energy requirements vary with age, gender, body size and activity
-        levels. The Energy Requirements Calculator estimates your daily energy
-        requirements for good health based on what your body needs for
-        breathing, circulating blood, digesting food (Basal Metabolic Rate -
-        BMR) and physical activity.
+        To maintain a constant weight, our bodies have to burn the same amount of energy as they consume. What sounds easy in theory can be challenging in practice; people who eat more generally also have to do more exercise, otherwise they can start to gain weight. Energy requirements vary with age, gender, body size and activity levels. This Energy Requirements Calculator estimates your daily energy requirements for good health based on what your body needs for
+        breathing, circulating blood, digesting food (Basal Metabolic Rate - BMR) and physical activity.
       </p>
-      <h4>Create your weekly meal plan in 3 steps:</h4>
+      <h4>It has never been easier. Create your weekly meal plan in 3 steps:</h4>
     </div>
     <div class="cards">
       <div class="step">
@@ -93,6 +85,13 @@ export default {
   padding: 30px 0 30px 0;
 }
 
+h3 {
+  padding-bottom: 10px;
+}
+
+p {
+  padding-bottom: 20px;
+}
 @media screen and (max-width: 992px) {
   .intro {
     padding: 10px;

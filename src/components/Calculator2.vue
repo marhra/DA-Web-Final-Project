@@ -36,7 +36,7 @@
         <!--submit-->
         <div class="submit">
           <form @submit.prevent="calculate">
-            <button class="button" v-on:click="calculate">Calculate BMR</button>
+            <button class="button" v-on:click="calculate" :click="checkForm">Calculate BMR</button>
           </form>
         </div>
 
@@ -158,6 +158,9 @@
         </form>
         <p class="ybmr">Energy intake to reach your body goal is: {{ goalIntake }} kcal/day.</p>
       </div>
+      <p>
+        <strong>You are one step away from having your tasty meal plan. If this meal plan doesn't seem to suit you, just easily generate a new one. Let's see what's on the menu!</strong>
+      </p>
       <div class="link" align="center">
         <!--      <b-button v-bind:to="'/components/Recipes'">Create your meal plan</b-button>-->
         <button v-on:click="generateMenu" class="button">Generate menu</button>
@@ -183,7 +186,8 @@ export default {
       yourBMR: 0,
       activity: "",
       goal: "",
-      goalIntake: 0
+      goalIntake: 0,
+      errors: []
     };
   },
   methods: {
@@ -195,7 +199,6 @@ export default {
           5 * this.age +
           5
         ).toFixed(0);
-        //this.control = "chlap";
       } else if (this.gender === "Female") {
         this.yourBMR = (
           10 * this.weight +
@@ -203,8 +206,16 @@ export default {
           5 * this.age -
           161
         ).toFixed(0);
-        //this.control = "zenska";
       }
+    },
+    checkForm(e) {
+      if (this.gender && this.age && this.height && this.weight) return true;
+      this.errors = [];
+      if (!this.gender) this.errors.push("Gender required.");
+      if (!this.age) this.errors.push("Age required.");
+      if (!this.height) this.errors.push("Height required.");
+      if (!this.weight) this.errors.push("Weight required.");
+      e.preventDefault();
     },
     calculate_goalIntake() {
       if (this.goal === "Maintain") {
