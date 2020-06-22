@@ -7,10 +7,7 @@
           <h6 class="text-uppercase font-weight-bold">
             <strong>What's for dinner</strong>
           </h6>
-          <hr
-            class="gray accent-2 mb-4 mt-0 d-inline-block mx-auto"
-            style="width: 60px"
-          />
+          <hr class="gray accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px" />
           <p>
             We are here to help you with your meal planning. If you have any
             questions about our project, please ask us.
@@ -21,32 +18,24 @@
           <h6 class="text-uppercase font-weight-bold">
             <strong>Contact</strong>
           </h6>
-          <hr
-            class="gray accent-2 mb-4 mt-0 d-inline-block mx-auto"
-            style="width: 60px"
-          />
+          <hr class="gray accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px" />
           <p>
-            Prague, Czech Republic <br />
-            info@wfd.com<br />
-            +420 789 234 00
+            Prague, Czech Republic
+            <br />info@wfd.com
+            <br />+420 789 234 00
           </p>
         </b-col>
       </b-row>
     </b-container>
-    <div
-      class="footer-copyright text-center py-3"
-      style="backgroundColor: rgb(23, 201, 100)"
-    >
-      <b-container>
-        &copy; 2020 Copyright: Maru & Lucka
-      </b-container>
+    <div class="footer-copyright text-center py-3" style="backgroundColor: rgb(23, 201, 100)">
+      <b-container>&copy; 2020 Copyright: Maru & Lucka</b-container>
     </div>
   </footer>
 </template>
 
 <script>
 export default {
-  name: "Footer",
+  name: "Footer"
 };
 </script>
 
