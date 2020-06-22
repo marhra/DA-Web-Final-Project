@@ -1,53 +1,53 @@
 <template>
-  <!-- Footer -->
-  <footer color="success" class="page-footer font-small pt-0">
-    <b-container class="mt-5 mb-4 text-center text-md-left">
-      <b-row class="mt-3 justify-content-around">
-        <b-col md="3" class="mb-4">
-          <h6 class="text-uppercase font-weight-bold">
-            <strong>What's for dinner</strong>
-          </h6>
-          <hr
-            class="gray accent-2 mb-4 mt-0 d-inline-block mx-auto"
-            style="width: 60px"
-          />
-          <p>
-            We are here to help you with your meal planning. If you have any
-            questions about our project, please ask us.
-          </p>
-        </b-col>
+  <div class="footer">
+    <!--Footer-->
+    <footer class="page-footer text-center text-md-left pt-4">
+      <!--Footer Links-->
+      <div class="container-fluid">
+        <div class="row">
+          <!--First column-->
+          <div class="col-md-4">
+            <h5 class="text-uppercase font-weight-bold mb-4">What's for dinner</h5>
+            <p>
+              We are here to help you with your meal planning. If you have any
+              questions about our project, please ask us.
+            </p>
+          </div>
 
-        <b-col md="3" class="mb-4">
-          <h6 class="text-uppercase font-weight-bold">
-            <strong>Contact</strong>
-          </h6>
-          <hr
-            class="gray accent-2 mb-4 mt-0 d-inline-block mx-auto"
-            style="width: 60px"
-          />
-          <p>
-            Prague, Czech Republic <br />
-            info@wfd.com<br />
-            +420 789 234 00
-          </p>
-        </b-col>
-      </b-row>
-    </b-container>
-    <div
-      class="footer-copyright text-center py-3"
-      style="backgroundColor: rgb(23, 201, 100)"
-    >
-      <b-container>
-        &copy; 2020 Copyright: Maru & Lucka
-      </b-container>
-    </div>
-  </footer>
+          <!--Second column-->
+          <div class="col-md-4">
+            <h5 class="text-uppercase font-weight-bold mb-4">CONTACTS</h5>
+            <ul class="list-unstyled">
+              <li>Prague, Czech Republic</li>
+              <li>info@wfd.com</li>
+              <li>+420 789 234 000</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <hr />
+
+      <!--Copyright-->
+      <div class="footer-copyright py-3 text-center">
+        <div class="container-fluid">© 2018 Copyright: Maru & Lucka</div>
+      </div>
+    </footer>
+  </div>
 </template>
 
 <script>
 export default {
-  name: "Footer",
+  name: "Footer"
 };
 </script>
 
-<style lang="css"></style>
+<style lang="css">
+.container-fluid {
+  padding: 0;
+}
+.row {
+  padding: 60px 80px 0px 80px;
+  justify-content: space-around;
+}
+</style>

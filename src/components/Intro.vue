@@ -1,9 +1,9 @@
 <template>
   <div class="intro">
-    <div class="header-image">
+    <div class="intro-image">
       <img src="assets/homepage_image.jpg" alt="food" />
     </div>
-    <div class="text">
+    <div class="intro-text">
       <h3>Eat well and stay healthy</h3>
       <p>
         Struggling for breakfast or dinner inspiration? Leave it to us! To
@@ -19,25 +19,38 @@
         breathing, circulating blood, digesting food (Basal Metabolic Rate -
         BMR) and physical activity.
       </p>
+      <h4>Create your weekly meal plan in 3 steps:</h4>
     </div>
     <div class="cards">
-      <div class="card mb-3" style="max-width: 400px;">
-        <div class="row no-gutters">
-          <div class="col-md-4">
-            <img src="assets/one.png" class="card-img" alt="one" />
-          </div>
-          <div class="col-md-8">
-            <div class="card-body">
-              <p>
-                Enter your
-                <strong>gender</strong>,
-                <strong>age</strong>,
-                <strong>height</strong> and
-                <strong>body weight</strong> in the form, and let's calculate your Basal Metabolic Rate (BMR) with our calculator tool.
-              </p>
-            </div>
-          </div>
+      <div class="step">
+        <div class="number">
+          <img src="assets/one.png" alt="two" />
         </div>
+        <p class="card-text">
+          Enter your
+          gender,
+          age,
+          height and
+          body weight, and let's calculate your BMR.
+        </p>
+      </div>
+
+      <div class="step">
+        <div class="number">
+          <img src="assets/two.png" alt="two" />
+        </div>
+        <p
+          class="card-text"
+        >Calculate your daily calorie requirement including your activity level factor and goal.</p>
+      </div>
+
+      <div class="step">
+        <div class="number">
+          <img src="assets/three.png" alt="three" />
+        </div>
+        <p
+          class="card-text"
+        >Let's generate your weekly meal plan (recipes for breakfast, lunch and dinner).</p>
       </div>
     </div>
   </div>
@@ -50,20 +63,34 @@ export default {
 </script>
 
 <style lang="css">
-.card {
-  width: 50%;
+.intro-text {
+  padding: 30px 50px 30px 50px;
 }
-.intro {
-  padding: 10px 100px 40px 100px;
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  padding: 40px 0px 40px 0px;
+}
+
+.step {
+  width: 12rem;
+  border: none;
+  padding: 10px;
+}
+
+.number {
+  width: 70%;
+  padding-left: 40px;
+}
+
+.card-text {
+  padding-top: 20px;
 }
 
 .text {
   padding: 30px 0 30px 0;
-}
-
-img {
-  width: 100%;
-  height: auto;
 }
 
 @media screen and (max-width: 992px) {

@@ -32,6 +32,6 @@ export default {
 @import "~bootstrap/dist/css/bootstrap.css";
 
 .container--shadow {
-  box-shadow: 1px 1px 20px 0px rgba(0, 0, 0, 1);
+  box-shadow: 1px 1px 20px 0px gray;
 }
 </style>
