@@ -34,4 +34,14 @@ export default {
 .container--shadow {
   box-shadow: 1px 1px 20px 0px gray;
 }
+
+a:hover {
+  color: green;
+}
+
+@media screen and (max-width: 768px) {
+  .container--shadow {
+    box-shadow: none;
+  }
+}
 </style>

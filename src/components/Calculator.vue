@@ -200,6 +200,8 @@ export default {
 </script>
 
 <style lang="css">
+
+
 .calculator {
   display: flex;
   width: 85%;

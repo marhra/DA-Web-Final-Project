@@ -21,25 +21,57 @@ export default {
 </script>
 
 <style lang="css">
-img {
-  max-width: 100%;
-  max-height: 100%;
+@media screen and (max-width: 600px) {
+  .header-navbar {
+    text-align: center;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    min-height: 200px;
+    min-width: 200px;
+    align-items: center;
+  }
+
+  .apple {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .navbar {
+    display: flex;
+
+    align-items: center;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .navbar {
+    padding-left: 200px !important;
+    padding-right: 200px !important;
+    justify-content: center;
+  }
 }
 
 .routerlink {
   color: rgb(73, 189, 96);
 }
-.header-navbar {
-  width: 100%;
-  padding-left: 200px;
-  padding-right: 200px;
+
+img {
+  max-width: 100%;
+  max-height: 100%;
 }
 
-.navbar {
-  display: flex;
-  justify-content: center;
-  font-weight: bold;
-  text-decoration: none;
+.header-navbar {
+  width: 100%;
 }
 
 .apple {

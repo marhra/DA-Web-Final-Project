@@ -64,7 +64,7 @@ export default {
 
 <style lang="css">
 .intro-text {
-  padding: 30px 50px 30px 50px;
+  padding: 30px 50px 10px 50px;
 }
 
 .cards {
@@ -75,7 +75,6 @@ export default {
 }
 
 .step {
-  width: 12rem;
   border: none;
   padding: 10px;
 }
@@ -93,15 +92,24 @@ export default {
   padding: 30px 0 30px 0;
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (min-width: 992px) {
   .intro {
     padding: 10px;
+  }
+  .step {
+    width: 12rem;
   }
 }
 
 @media screen and (max-width: 600px) {
   .intro {
     padding: 10px;
+  }
+  .cards {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
   }
 }
 </style>
