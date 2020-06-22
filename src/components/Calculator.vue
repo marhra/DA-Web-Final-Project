@@ -4,8 +4,8 @@
       <div class="input-form">
         <div class="gender">
           <b-form-group>
-            <b-form-radio v-model="gender" name="some-radios" value="Male">Male</b-form-radio>
-            <b-form-radio v-model="gender" name="some-radios" value="Female">Female</b-form-radio>
+            <b-form-radio v-model="gender" value="Male">Male</b-form-radio>
+            <b-form-radio v-model="gender" value="Female">Female</b-form-radio>
           </b-form-group>
         </div>
 
@@ -193,11 +193,7 @@ export default {
       }
       localStorage.setItem("currentMenu", JSON.stringify(obj));
 
-<<<<<<< HEAD
       this.$router.push("/Results");
-=======
-      this.$router.push("/MealPlanner");
->>>>>>> 9305c9da5209273e5b8491fcedd19d4a5a2717c7
     }
   }
 };
@@ -236,7 +232,6 @@ export default {
 
 .disclaimer {
   font-size: 0.8em;
-  margin: 10px 80px 20px 80px;
 }
 
 @media screen and (max-width: 992px) {
