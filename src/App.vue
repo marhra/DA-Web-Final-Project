@@ -11,6 +11,7 @@
 import Header from "./components/Header.vue";
 import Intro from "./components/Intro.vue";
 import Calculator from "./components/Calculator.vue";
+import Calculator2 from "./components/Calculator2.vue";
 import Recipes from "./components/Recipes.vue";
 import Footer from "./components/Footer.vue";
 
@@ -20,6 +21,7 @@ export default {
     Header: Header,
     Intro: Intro,
     Calculator: Calculator,
+    Calculator2: Calculator2,
     Recipes: Recipes,
     Footer: Footer
   }
