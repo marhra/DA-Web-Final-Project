@@ -47,7 +47,7 @@ export default {
   padding: 0;
 }
 .row {
-  padding: 60px 80px 0px 80px;
+  padding: 60px 80px 0px 40px;
   justify-content: space-around;
 }
 </style>

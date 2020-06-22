@@ -177,7 +177,6 @@ export default {
   methods: {
     info(item, index, button) {
       console.log(item);
-      this.infoModal.title = "Detail of recipe";
       this.infoModal.content = item.label;
       this.infoModal.source = item.source;
       this.infoModal.calories = item.calories;
@@ -218,7 +217,7 @@ export default {
 
 <style>
 .row {
-  padding: 40px 0 60px 0 !important;
+  padding: 60px 0 60px 0 !important;
 }
 
 h6 {
@@ -228,8 +227,5 @@ h6 {
 .btn.btn-primary {
   background-color: rgb(23, 201, 100) !important;
   border: none;
-}
-.page-link.flex-grow-1 {
-  color: rgb(23, 201, 100) !important;
 }
 </style>

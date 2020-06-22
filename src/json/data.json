@@ -112,7 +112,7 @@
       "Tree-Nut-Free",
       "Alcohol-Free"
     ],
-    "cautions": ["Gluten", "Wheat", "Sulfites", "FODMAP"],
+    "cautions": ["Gluten", "Wheat", "Sulfites"],
     "ingredientLines": [
       "4 oz. medium egg noodles (1⁄3 of a 12-oz package)",
       "¼ small bunch fresh dill",
@@ -172,17 +172,17 @@
       },
       "FAT": {
         "label": "Fat",
-        "quantity": 53.353162850446495,
+        "quantity": 5.3353162850446495,
         "unit": "g"
       },
       "CHOCDF": {
         "label": "Carbs",
-        "quantity": 176.9348670902113,
+        "quantity": 17.69348670902113,
         "unit": "g"
       },
       "PROCNT": {
         "label": "Protein",
-        "quantity": 144.68310614843224,
+        "quantity": 14.468310614843224,
         "unit": "g"
       }
     }
@@ -191,7 +191,7 @@
     "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a86af8c61822cd3800c79129077c1116",
     "label": "Rich Chicken Stock",
-    "image": "https://www.edamam.com/web-img/e55/e551ea3834f12b753f909bdafc8e17b2.jpg",
+    "image": "https://www.edamam.com/web-img/7e7/7e7891e6674b6c28e43cfed588a5e96d.jpg",
     "source": "Good Housekeeping",
     "url": "http://www.goodhousekeeping.com/food-recipes/a7673/rich-chicken-stock-4239/",
     "shareAs": "http://www.edamam.com/recipe/rich-chicken-stock-a86af8c61822cd3800c79129077c1116/chicken/000-200-cal",
@@ -203,7 +203,7 @@
       "Tree-Nut-Free",
       "Alcohol-Free"
     ],
-    "cautions": ["FODMAP"],
+    "cautions": [],
     "ingredientLines": [
       "5 lb. chicken drumsticks and thighs",
       "6 clove garlic",
@@ -277,7 +277,7 @@
     "mealType": "Main dish",
     "uri": "http://www.edamam.com/ontologies/edamam.owl#recipe_a630cb6a48a510382173ed0d92e8bb19",
     "label": "Chicken Stock",
-    "image": "https://www.edamam.com/web-img/7dc/7dc224565115c5ef129eb821ebf7782f.jpg",
+    "image": "https://www.edamam.com/web-img/1a3/1a3822e164ddae49640d41cf718126f0.jpg",
     "source": "Cookstr",
     "url": "http://www.cookstr.com/recipes/chicken-stock-18",
     "shareAs": "http://www.edamam.com/recipe/chicken-stock-a630cb6a48a510382173ed0d92e8bb19/chicken/000-200-cal",
@@ -289,7 +289,7 @@
       "Tree-Nut-Free",
       "Alcohol-Free"
     ],
-    "cautions": ["FODMAP"],
+    "cautions": [],
     "ingredientLines": [
       "6 pounds chicken bones, cut into 4- to 6-inch pieces (necks and backs are best)",
       "2 cups white onion, peeled",
@@ -576,24 +576,24 @@
         "label": "Fat",
         "quantity": 65.52789346599981,
         "unit": "g"
+      },
+      "CHOCDF": {
+        "label": "Carbs",
+        "quantity": 4.840839999978077,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 135.0517949129989,
+        "unit": "g"
       }
-    },
-    "CHOCDF": {
-      "label": "Carbs",
-      "quantity": 4.840839999978077,
-      "unit": "g"
-    },
-    "PROCNT": {
-      "label": "Protein",
-      "quantity": 135.0517949129989,
-      "unit": "g"
     }
   },
   "RCPT8": {
     "mealType": "Main dish",
     "uri": "http: //www.edamam.com/ontologies/edamam.owl#recipe_45d9cdeda3d31d091ed08cbd785c69b0",
     "label": "Chicken Stock",
-    "image": "https://www.edamam.com/web-img/083/083e1e4009759373a7d595d10205ee7f.jpg",
+    "image": "https://www.edamam.com/web-img/9c7/9c7af09dc78a20acca43cce23e788d32.jpg",
     "source": "Cookstr",
     "url": "http://www.cookstr.com/recipes/chicken-stock-15",
     "shareAs": "http://www.edamam.com/recipe/chicken-stock-45d9cdeda3d31d091ed08cbd785c69b0/chicken/000-200-cal",
@@ -672,7 +672,7 @@
     "yield": 4.0,
     "dietLabels": [],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "1 tsp chopped fresh root ginger",
       "mint or basil leaves and a little shredded chilli (optional), to serve",
@@ -805,7 +805,12 @@
       },
       "CHOCDF": {
         "label": "Carbs",
-        "quantity": 0.0,
+        "quantity": 5.0,
+        "unit": "g"
+      },
+      "PROCNT": {
+        "label": "Protein",
+        "quantity": 8.72034854632395,
         "unit": "g"
       }
     }
@@ -1085,7 +1090,7 @@
       "Tree-Nut-Free",
       "Alcohol-Free"
     ],
-    "cautions": ["FODMAP"],
+    "cautions": [],
     "ingredientLines": [
       "3½ pounds chicken wings, chopped at the joints",
       "1 medium onion, chopped",
@@ -1177,7 +1182,7 @@
       "Tree-Nut-Free",
       "Alcohol-Free"
     ],
-    "cautions": ["Gluten", "Wheat", "Sulfites", "FODMAP"],
+    "cautions": ["Gluten", "Wheat", "Sulfites"],
     "ingredientLines": [
       "1/4 cup long grain rice",
       "1 pound boneless, skinless chicken breasts, cut into 1 cubes",
@@ -1312,7 +1317,7 @@
     "yield": 4.0,
     "dietLabels": [],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "3 tablespoons unsalted butter",
       "1 small yellow onion, minced",
@@ -1413,7 +1418,7 @@
     "yield": 12.0,
     "dietLabels": [],
     "healthLabels": ["Sugar-Conscious", "Peanut-Free", "Tree-Nut-Free"],
-    "cautions": ["Gluten", "Wheat", "Sulfites", "FODMAP"],
+    "cautions": ["Gluten", "Wheat", "Sulfites"],
     "ingredientLines": [
       "1 oz dried guajillo chiles",
       "2 cups boiling water",
@@ -1625,7 +1630,7 @@
     "yield": 8.0,
     "dietLabels": ["High-Protein"],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "2 lbs. chicken pieces, on the bone (dark meat is best, but you can use a mix if you like)",
       "3 medium carrots, peeled",
@@ -2334,7 +2339,7 @@
     "yield": 4.0,
     "dietLabels": [],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Gluten", "Wheat", "Sulfites", "FODMAP"],
+    "cautions": ["Gluten", "Wheat", "Sulfites"],
     "ingredientLines": [
       "1/4 teaspoon freshly ground pepper",
       "1teaspoon freshly grated orange zest",
@@ -2436,7 +2441,7 @@
       "Tree-Nut-Free",
       "Alcohol-Free"
     ],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "3 pounds  skinned and boned chicken breasts",
       "1   (49 1/2-ounce) can chicken broth",
@@ -2876,7 +2881,7 @@
     "yield": 4.0,
     "dietLabels": ["Low-Carb"],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Gluten", "Wheat", "Sulfites", "FODMAP"],
+    "cautions": ["Gluten", "Wheat", "Sulfites"],
     "ingredientLines": [
       "1 tbsp. Cooking oil",
       "8 chicken thighs",
@@ -3003,7 +3008,7 @@
       "Tree-Nut-Free",
       "Alcohol-Free"
     ],
-    "cautions": ["Gluten", "Wheat", "Sulfites", "FODMAP"],
+    "cautions": ["Gluten", "Wheat", "Sulfites"],
     "ingredientLines": [
       "Nonstick cooking spray, for greasing",
       "1 1/2 cups all-purpose flour",
@@ -3121,7 +3126,7 @@
     "yield": 8.0,
     "dietLabels": [],
     "healthLabels": ["Sugar-Conscious", "Peanut-Free", "Tree-Nut-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "1 Chicken",
       "2 large chicken legs",
@@ -3454,7 +3459,7 @@
     "yield": 4.0,
     "dietLabels": [],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Gluten", "Wheat", "Sulfites", "FODMAP"],
+    "cautions": ["Gluten", "Wheat", "Sulfites"],
     "ingredientLines": [
       "5 c. canned low-sodium chicken broth or homemade stock",
       "1 bay leaf",
@@ -4340,7 +4345,7 @@
       "Alcohol-Free",
       "Immuno-Supportive"
     ],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "1large ripe banana",
       "500 ml almond milk",
@@ -4402,7 +4407,7 @@
     "yield": 1.0,
     "dietLabels": ["Low-Fat"],
     "healthLabels": ["Immuno-Supportive"],
-    "cautions": ["Soy", "Sulfites", "FODMAP"],
+    "cautions": ["Soy", "Sulfites"],
     "ingredientLines": [
       "1  banana",
       "1 cup chopped pineapple",
@@ -4756,7 +4761,7 @@
       "Tree-Nut-Free",
       "Alcohol-Free"
     ],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "1/4 cup plain yogurt",
       "2 tablespoons vegetable oil",
@@ -6188,7 +6193,7 @@
       "Alcohol-Free",
       "Immuno-Supportive"
     ],
-    "cautions": ["Soy", "Sulfites", "FODMAP"],
+    "cautions": ["Soy", "Sulfites"],
     "ingredientLines": [
       "1 medium orange, peeled and seeded",
       "1 medium banana",
@@ -6277,7 +6282,7 @@
       "Tree-Nut-Free",
       "Alcohol-Free"
     ],
-    "cautions": ["Tree-Nuts", "Sulfites", "FODMAP"],
+    "cautions": ["Tree-Nuts", "Sulfites"],
     "ingredientLines": [
       "2 cups vegetable broth",
       "1 can (15-ounce) kidney beans, drained and rinsed",
@@ -6533,7 +6538,7 @@
       "Alcohol-Free",
       "Immuno-Supportive"
     ],
-    "cautions": ["FODMAP"],
+    "cautions": [],
     "ingredientLines": [
       "1 pound fresh okra",
       "1/2 teaspoon salt",
@@ -6839,7 +6844,7 @@
     "yield": 2.0,
     "dietLabels": ["Low-Fat"],
     "healthLabels": ["Vegan", "Vegetarian", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "1 tablespoon vegetable oil",
       "10 curry leaves",
@@ -6956,7 +6961,7 @@
       "Tree-Nut-Free",
       "Alcohol-Free"
     ],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "zest of one lemon",
       "1/3 cup/80 ml extra virgin olive oil, plus more for the pan",
@@ -7178,7 +7183,7 @@
     "yield": 4.0,
     "dietLabels": ["Balanced"],
     "healthLabels": ["Vegetarian", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "3/4 pound dried rice noodles (see notes up top)",
       "2 tablespoons toasted sesame oil, plus a splash to loosen noodles",
@@ -7289,7 +7294,7 @@
     "yield": 2.0,
     "dietLabels": [],
     "healthLabels": ["Vegetarian", "Peanut-Free", "Alcohol-Free"],
-    "cautions": ["FODMAP"],
+    "cautions": [],
     "ingredientLines": [
       "1/2 cup water",
       "1/2 cup sugar",
@@ -7609,7 +7614,7 @@
       "Tree-Nut-Free",
       "Alcohol-Free"
     ],
-    "cautions": ["FODMAP"],
+    "cautions": [],
     "ingredientLines": [
       "1/2 pound fresh udon",
       "4 tablespoons canola oil",
@@ -7876,7 +7881,7 @@
     "yield": 4.0,
     "dietLabels": ["Balanced"],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Gluten", "Wheat", "Sulfites", "FODMAP"],
+    "cautions": ["Gluten", "Wheat", "Sulfites"],
     "ingredientLines": [
       "½ teaspoon cracked black pepper",
       "2 teaspoons garlic powder",
@@ -8125,7 +8130,7 @@
     "yield": 4.0,
     "dietLabels": ["Balanced"],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "1 bag tortilla chips",
       "1/2 cup Neelys Barbecue Seasoning, recipe follows",
@@ -8254,7 +8259,7 @@
     "yield": 6.0,
     "dietLabels": ["Balanced"],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "2 cups uncooked Arborio rice",
       "1 quart chicken stock or bouillon",
@@ -8386,7 +8391,7 @@
     "yield": 8.0,
     "dietLabels": ["Balanced"],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Gluten", "Wheat", "Sulfites", "FODMAP"],
+    "cautions": ["Gluten", "Wheat", "Sulfites"],
     "ingredientLines": [
       "1 cup  bottled chili sauce (such as Heinz)",
       "3/4 cup  unsalted chicken stock",
@@ -8640,7 +8645,7 @@
     "yield": 8.0,
     "dietLabels": ["Balanced"],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free"],
-    "cautions": ["Soy", "Sulfites", "FODMAP"],
+    "cautions": ["Soy", "Sulfites"],
     "ingredientLines": [
       "3 cups all-purpose flour",
       "2 tablespoons kosher salt and freshly ground black pepper blend (60:40 mixture)",
@@ -8786,7 +8791,7 @@
     "yield": 4.0,
     "dietLabels": ["Balanced"],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "1/4 cup extra-virgin olive oil",
       "4 ounces pancetta, chopped or 4 slices bacon, chopped, optional",
@@ -9216,7 +9221,7 @@
     "yield": 4.0,
     "dietLabels": ["Balanced"],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "1 to 2 tablespoons olive oil",
       "¾ to 1 pound ground beef, pork, or lamb",
@@ -9435,7 +9440,7 @@
     "yield": 4.0,
     "dietLabels": ["Balanced"],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "4 tablespoons extra virgin olive oil",
       "1 celery stick, finely chopped",
@@ -9644,7 +9649,7 @@
     "yield": 3.0,
     "dietLabels": ["Balanced"],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "2 Tbsp. olive oil",
       "1 clove garlic, sliced",
@@ -9776,7 +9781,7 @@
     "yield": 6.0,
     "dietLabels": ["Balanced"],
     "healthLabels": ["Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "800 gram pork mince",
       "1/3 cup packaged dried breadcrumbs",
@@ -10111,7 +10116,7 @@
     "yield": 6.0,
     "dietLabels": ["Balanced"],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "¼ cups Extra Virgin Olive Oil",
       "2 cups Butternut Squash, Cubed",
@@ -10234,7 +10239,7 @@
     "yield": 4.0,
     "dietLabels": ["Balanced"],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free"],
-    "cautions": ["Wheat", "Sulfites", "FODMAP"],
+    "cautions": ["Wheat", "Sulfites"],
     "ingredientLines": [
       "1/3 cup vodka",
       "1 lb penne",
@@ -10361,7 +10366,7 @@
     "yield": 5.0,
     "dietLabels": ["Balanced"],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "1 lb. ground beef (85-90%)",
       "1 lb. ground pork",
@@ -10819,7 +10824,7 @@
     "yield": 8.0,
     "dietLabels": [],
     "healthLabels": ["Peanut-Free", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Gluten", "Wheat", "Tree-Nuts", "Sulfites", "FODMAP"],
+    "cautions": ["Gluten", "Wheat", "Tree-Nuts", "Sulfites"],
     "ingredientLines": [
       "4 cups dried black beans, soaked overnight",
       "1/4 cup cubed smoked bacon",
@@ -11118,7 +11123,7 @@
     "yield": 6.0,
     "dietLabels": ["Low-Carb"],
     "healthLabels": ["Vegetarian", "Peanut-Free", "Tree-Nut-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "Butter, for greasing and frying",
       "2 red bell peppers, chopped",
@@ -11316,7 +11321,7 @@
       "Tree-Nut-Free",
       "Alcohol-Free"
     ],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "1½ teaspoons cumin",
       "¼ teaspoon chipotle powder",
@@ -11448,7 +11453,7 @@
       "Tree-Nut-Free",
       "Alcohol-Free"
     ],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "6 tablespoons freshly squeezed lemon juice",
       "1 teaspoon Dijon mustard",
@@ -11610,7 +11615,7 @@
       "Tree-Nut-Free",
       "Alcohol-Free"
     ],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "2 tbsp. fresh lemon juice",
       "2 tsp. Dijon mustard",
@@ -11981,7 +11986,7 @@
     "yield": 4.0,
     "dietLabels": [],
     "healthLabels": ["Vegetarian", "Tree-Nut-Free", "Alcohol-Free"],
-    "cautions": ["Soy", "Sulfites", "FODMAP"],
+    "cautions": ["Soy", "Sulfites"],
     "ingredientLines": [
       "1 cup chunky peanut butter",
       "Eight 1-inch-thick slices Pullman bread",
@@ -12462,7 +12467,7 @@
     "yield": 4.0,
     "dietLabels": [],
     "healthLabels": ["Vegetarian", "Peanut-Free", "Alcohol-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "3 cups flour",
       "1½ tsp baking powder",
@@ -12574,7 +12579,7 @@
     "yield": 6.0,
     "dietLabels": [],
     "healthLabels": ["Vegetarian", "Peanut-Free", "Alcohol-Free"],
-    "cautions": ["Tree-Nuts", "Sulfites", "FODMAP"],
+    "cautions": ["Tree-Nuts", "Sulfites"],
     "ingredientLines": [
       "100g/3½oz unsalted butter",
       "100g/3½oz caster sugar",
@@ -12676,7 +12681,7 @@
     "yield": 2.0,
     "dietLabels": [],
     "healthLabels": ["Vegetarian", "Peanut-Free"],
-    "cautions": ["Wheat", "Tree-Nuts", "Sulfites", "FODMAP"],
+    "cautions": ["Wheat", "Tree-Nuts", "Sulfites"],
     "ingredientLines": [
       "1/2 cup cornflakes, crushed",
       "1/2 cup dessicated coconut/coconut flakes",
@@ -12809,7 +12814,7 @@
     "yield": 4.0,
     "dietLabels": [],
     "healthLabels": ["Peanut-Free", "Alcohol-Free"],
-    "cautions": ["Sulfites", "FODMAP"],
+    "cautions": ["Sulfites"],
     "ingredientLines": [
       "2 cups whole wheat pastry flour",
       "2 1/2 tsp Baking Powder",
