@@ -21,31 +21,22 @@
       </p>
     </div>
     <div class="cards">
-      <div class="card">
-        <div class="number">
-          <img src="assets/one.png" alt="one" />
-        </div>
-        <p>
-          Enter your gender, age, height and body
-          weight in the form, and let's calculate your Basal Metabolic Rate (BMR) with our calculator tool.
-        </p>
-      </div>
-
-      <div class="cards">
-        <div class="card">
-          <div class="number">
-            <img src="assets/two.png" alt="two" />
+      <div class="card mb-3" style="max-width: 400px;">
+        <div class="row no-gutters">
+          <div class="col-md-4">
+            <img src="assets/one.png" class="card-img" alt="one" />
           </div>
-          <p>Once you've worked out your BMR, you can calculate your daily calorie requirement that includes your activity level factor and your dietary goal.</p>
-        </div>
-      </div>
-
-      <div class="cards">
-        <div class="card">
-          <div class="number">
-            <img src="assets/three.png" alt="three" />
+          <div class="col-md-8">
+            <div class="card-body">
+              <p>
+                Enter your
+                <strong>gender</strong>,
+                <strong>age</strong>,
+                <strong>height</strong> and
+                <strong>body weight</strong> in the form, and let's calculate your Basal Metabolic Rate (BMR) with our calculator tool.
+              </p>
+            </div>
           </div>
-          <p>Based on your ideal daily calorie requirement, let's generate your weekly meal plan (including breakfast, lunch and dinner).</p>
         </div>
       </div>
     </div>
@@ -59,28 +50,11 @@ export default {
 </script>
 
 <style lang="css">
+.card {
+  width: 50%;
+}
 .intro {
   padding: 10px 100px 40px 100px;
-}
-
-.cards {
-  display: flex;
-  justify-content: space-around;
-}
-
-.card {
-  width: 15em;
-  height: 17em;
-  padding: 20px 10px 20px 10px;
-}
-.number {
-  width: 30%;
-  height: auto;
-  text-align: center;
-  padding: 20px 0 20px 0;
-}
-.header-image {
-  margin-bottom: 20px;
 }
 
 .text {
