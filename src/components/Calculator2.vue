@@ -6,11 +6,11 @@
 
         <input v-model="gender" type="radio" value="Female" />
 
-        <img src="/assets/female.png " class="picture" />
+        <img src="/assets/female.png" class="picture" />
 
         <!--RADIO 2-->
 
-        <img src="/assets/mann.png " class="picture" />
+        <img src="/assets/male.png" class="picture" />
 
         <input v-model="gender" type="radio" value="Male" />
       </div>
