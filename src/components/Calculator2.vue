@@ -2,36 +2,52 @@
   <div class="calculator2">
     <div class="cal-body">
       <div class="header">
-        <!--RADIO 1-->
-
-        <input v-model="gender" type="radio" value="Female" />
-
-        <img src="/assets/female.png" class="picture" />
-
-        <!--RADIO 2-->
-
-        <img src="/assets/male.png" class="picture" />
-
-        <input v-model="gender" type="radio" value="Male" />
+        <!--gender-->
+        <label for="female">
+          <input v-model="gender" type="radio" value="Female" name="gender" id="female" />
+          <img src="assets/female.png" class="picture" />
+        </label>
+        <label for="male">
+          <input v-model="gender" type="radio" value="Male" name="gender" id="male" />
+          <img src="assets/male.png" class="picture" />
+        </label>
       </div>
-      <!--weight, height,age-->
+      <!--age, weight, height-->
       <div class="headerForms">
         <div class="windows">
-          <img src="/assets/age.png " class="picture" />
-          <input class="input" v-model.number="age" type="number" min="0" name="age" />
-
-          <img src="/assets/weight.png " class="picture" />
-          <input class="input" v-model.number="weight" type="number" min="0" />
-
-          <img src="/assets/height.png " class="picture" />
-          <input
-            class="input"
-            v-model.number="height"
-            type="number"
-            min="0"
-            id="height"
-            name="height"
-          />
+          <label>
+            Age (years)
+            <input
+              class="input"
+              v-model.number="age"
+              type="number"
+              min="0"
+              name="age"
+              id="age"
+            />
+          </label>
+          <label>
+            Weight (kg)
+            <input
+              class="input"
+              v-model.number="weight"
+              type="number"
+              min="0"
+              name="weight"
+              id="weight"
+            />
+          </label>
+          <label>
+            Height (cm)
+            <input
+              class="input"
+              v-model.number="height"
+              type="number"
+              min="0"
+              name="height"
+              id="height"
+            />
+          </label>
         </div>
         <!--submit-->
         <div class="submit">
@@ -353,14 +369,37 @@ h2 {
 .header {
   display: flex;
   justify-content: center;
-  margin-top: 40px;
-  margin-bottom: 40px;
+  padding: 20px 0px 20px;
 }
 
 input {
-  margin-left: 20px;
+  margin: auto;
+}
+label {
+  margin: 10px;
+}
+/* HIDE RADIO 
+input[type="radio"]  {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
 }
 
+/* IMAGE STYLES */
+input[type="radio"] + img {
+  cursor: pointer;
+}
+
+/* CHECKED STYLES */
+input[type="radio"]:checked + img {
+  background: rgb(73, 189, 96);
+  border-radius: 15px 40px 30px;
+}
+
+input [type="number"] {
+  width: 70px;
+}
 @media screen and (max-width: 600px) {
   .windows {
     flex-direction: column;
@@ -405,9 +444,6 @@ input {
 }
 
 @media screen and (max-width: 991px) {
-  .input {
-    width: 30%;
-  }
 }
 @media screen and (min-width: 992px) {
   .exeFooter {
